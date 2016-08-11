@@ -1,0 +1,56 @@
+## Services
+google_analytics:
+duoshuo:
+
+## Meta
+rss: https://han.fwhyy.com/atom.xml
+favicon: /favicon.png
+icon: /favicon.png
+source_url:
+license:
+  name: 'CC BY-NC-SA 3.0'
+  url: 'http://creativecommons.org/licenses/by-nc-sa/3.0/cn'
+
+## Menus
+menus:
+  '书单': /booklist
+  '归档': /list
+  '关于': /about
+
+right_menus:
+  'RSS': /atom.xml
+  'fork on Github':
+    target: '_blank'
+    href: 'https://github.com/oec2003'
+
+## Banners && Widgets
+banners:
+  jade: |
+    欢迎访问冯威的个人博客！
+
+widgets:
+  -
+    markdown: |
+      ![桂林](http://ww3.sinaimg.cn/mw690/3cefded1gw1ez1yp5vu6rj206y05x74w.jpg)
+
+      * 姓名：冯威
+      * 位置：武汉
+      * 网名：oec2003
+      * 邮箱：oec2003@gmail.com
+
+  -
+    tags: true
+
+  -
+    archives: true
+
+  -
+    copyright: true
+
+## SNS (Work in progress)
+sns:
+  qq: '119000935'
+  v2ex: 'oec2003'
+  github: 'oec2003'
+  zhihu: 'oec2003'
+  twitter: 'oec2003'
