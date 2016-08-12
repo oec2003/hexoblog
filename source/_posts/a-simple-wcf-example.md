@@ -9,7 +9,7 @@ WCF程序分为三个部分：服务、宿主和客户端。下面就一步一�
 <!--more-->
 
 1. 创建一个空的解决方案命名为WCFDemo，在该解决方案中创建两个控制台项目和一个类库项目，分别为Client、Host和Service。在这三个项目中分别引用程序集`System.ServiceModel`，另外在`Service`项目中引用程序集`using System.Runtime.Serialization`
-<!--more-->
+
 [![](http://blog.fwhyy.com/wp-content/uploads/2010/07/2010-07-15_110417.png "2010-07-15_110417")](http://blog.fwhyy.com/wp-content/uploads/2010/07/2010-07-15_110417.png)
 
 2. 在本例中Service的功能就是提供一个返回`HelloWorld`的方法。在`Service`项目中添加一个名为`IHelloWorldService`的接口，并给接口添加相应的契约，代码如下：
