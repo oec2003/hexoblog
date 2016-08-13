@@ -15,6 +15,7 @@ UpdatePanel中当ContentComplate里面存在TextBox的时候会出现中文乱�
 <globalization fileEncoding="utf-8" requestEncoding="utf-8"
   responseEncoding="utf-8" culture="zh-CN"/>
 ```
+<!--more-->
 
 2. 在后台代码里面对乱码进行decoder操作
 
