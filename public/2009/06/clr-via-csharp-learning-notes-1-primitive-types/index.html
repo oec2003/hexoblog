@@ -1,0 +1,138 @@
+<!DOCTYPE html><html lang="zh-CN"><head><meta http-equiv="content-type" content="text/html; charset=utf-8"><meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"><meta content="yes" name="apple-mobile-web-app-capable"><meta content="black-translucent" name="apple-mobile-web-app-status-bar-style"><meta content="telephone=no" name="format-detection"><meta name="description"><title>CLR Via C# 学习笔记（1） 基元类型 值类型 引用类型 | 冯威的个人博客</title><link rel="stylesheet" type="text/css" href="//cdn.bootcss.com/normalize/4.2.0/normalize.min.css"><link rel="stylesheet" type="text/css" href="//cdn.bootcss.com/pure/0.6.0/pure-min.css"><link rel="stylesheet" type="text/css" href="//cdn.bootcss.com/pure/0.6.0/grids-responsive-min.css"><link rel="stylesheet" type="text/css" href="/css/style.css?v=0.0.0"><link rel="stylesheet" href="//cdn.bootcss.com/font-awesome/4.6.3/css/font-awesome.min.css"><script type="text/javascript" src="//cdn.bootcss.com/jquery/3.0.0/jquery.min.js"></script><link rel="Shortcut Icon" type="image/x-icon" href="/favicon.ico"><link rel="apple-touch-icon" href="/apple-touch-icon.png"><link rel="apple-touch-icon-precomposed" href="/apple-touch-icon.png"></head><body><div class="body_container"><div id="header"><div class="site-name"><h1 class="hidden">CLR Via C# 学习笔记（1） 基元类型 值类型 引用类型</h1><a id="logo" href="/.">冯威的个人博客</a><p class="description">临渊羡鱼 不如退而结网</p></div><div id="nav-menu"><a href="/." class="current"><i class="fa fa-home"> 首页</i></a><a href="/archives/"><i class="fa fa-archive"> 归档</i></a><a href="/history/"><i class="fa fa-history"> 历史</i></a><a href="/about/"><i class="fa fa-user"> 关于</i></a><a href="/atom.xml"><i class="fa fa-rss"> 订阅</i></a></div></div><div id="layout" class="pure-g"><div class="pure-u-1 pure-u-md-3-4"><div class="content_container"><div class="post"><h1 class="post-title">CLR Via C# 学习笔记（1） 基元类型 值类型 引用类型</h1><div class="post-meta">Jun 17, 2009<span> | </span><span class="category"><a href="/categories/CLR-Via-C/">CLR Via C#</a></span><script src="https://dn-lbstatics.qbox.me/busuanzi/2.3/busuanzi.pure.mini.js" async></script><span id="busuanzi_container_page_pv"> | <span id="busuanzi_value_page_pv"></span><span> Hits</span></span></div><a data-thread-key="2009/06/clr-via-csharp-learning-notes-1-primitive-types/" href="/2009/06/clr-via-csharp-learning-notes-1-primitive-types/#comments" class="ds-thread-count"></a><div class="post-content"><blockquote>
+<p>CLR Via C#》这本书以前就粗略看过两遍，但一直都没能深入理解，而且很多内容也忘记了，现在准备重新看一遍，并将看过的部分写出来，因为写的过程也是一个加深理解的过程。本系列算是学习的一个记录吧，也可以方便以后自己查阅，如果对大家还有些帮助的话，我就很高兴了。书我是选择性的看的，所以顺序和书中的顺序可能不一样。</p>
+</blockquote>
+<p>首先了解下什么是基元类型，基元类型是编译器直接支持的数据类型，像我们平时经常用到的int string bool 都是基元类型，基元类型是映射到FCL中的类型，像前面的三种类型对应到FCL中就是Int32 String Boolean，基元类型只是给我们的编程提供了方便，它和FCL中的类型在编译后最终生成的IL完全相同。下面给出基元类型和FCL类型的对应表</p>
+<table>
+<thead>
+<tr>
+<th>C#基元类型</th>
+<th>FCL类型</th>
+<th>CLS相容</th>
+<th>说明</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>sbyte</td>
+<td>System.Sbyte</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>byte</td>
+<td>System.Byte</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>short</td>
+<td>System.Int16</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ushort</td>
+<td>System.UInt16</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>int</td>
+<td>System.Int32</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>uint</td>
+<td>System.Uint32</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>long</td>
+<td>System.Int64</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ulong</td>
+<td>System.Uint64</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>char</td>
+<td>System.Char</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>float</td>
+<td>System.Single</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>double</td>
+<td>System.Double</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>bool</td>
+<td>System.Boolean</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>decimal</td>
+<td>System.Decimal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>object</td>
+<td>System.Object</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>string</td>
+<td>System.String</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p>我们平时在写程序时通常都是使用基元类型，因为方便，但本书的作者认为应该直接使用FCL中的类型，原因如下：</p>
+<ol>
+<li>在c#中long对应的FCL类型为System.Int64，但是在其他的语言中，如c++ 就将long视为一个Int32。这样习惯于一种编程语言的人在看另一种编程语言写的源码是就会产生错误的理解。</li>
+<li>在FCL中的许多的方法将类型名作为方法名的一部分，如System.Convert类提供ToBoolean,ToInt32,ToSingle等。这样在使用基元类型做类型转换时就感觉有点怪怪的，如：float val=Convert.ToSingle(“23”);</li>
+</ol>
+<h2 id="值类型和引用类型的区别"><a href="#值类型和引用类型的区别" class="headerlink" title="值类型和引用类型的区别"></a>值类型和引用类型的区别</h2><ol>
+<li>所有的值类型都是从System.TypeValue派生，如Struct Enum都是值类型；所有引用类型都是从System.Object派生。</li>
+<li>值类型分配在线程堆栈上，引用类型分配在托管堆上。</li>
+<li>值类型表现形式有未装箱形式和已装箱形式，而引用类型总是已装箱形式。</li>
+<li>所有的值类型都是sealed类型，所以值类型不能作为任何类型的基类型，也不能在值类型中引入虚方法。</li>
+<li>创建一个引用类型变量时，会被初始化为null，试图使用一个null的引用类型变量时，会抛出NullReferenceException异常，也就是常见的“未将对象引用设置到对象的实例”；值类型在创建时所有成员都初始化为0了，所以不会抛出该异常。</li>
+</ol>
+<h2 id="原文例子表示值类型和引用类型的区别"><a href="#原文例子表示值类型和引用类型的区别" class="headerlink" title="原文例子表示值类型和引用类型的区别"></a>原文例子表示值类型和引用类型的区别</h2><figure class="highlight arduino"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div><div class="line">21</div><div class="line">22</div><div class="line">23</div><div class="line">24</div><div class="line">25</div><div class="line">26</div><div class="line">27</div><div class="line">28</div></pre></td><td class="code"><pre><div class="line"><span class="keyword">class</span> Program</div><div class="line">&#123;</div><div class="line">    <span class="keyword">static</span> <span class="keyword">void</span> Main(<span class="keyword">string</span>[] args)</div><div class="line">    &#123;</div><div class="line">        SomeRef r1 = <span class="keyword">new</span> SomeRef();</div><div class="line">        SomeVal v1 = <span class="keyword">new</span> SomeVal();</div><div class="line">        r1.x = <span class="number">5</span>;</div><div class="line">        v1.x = <span class="number">5</span>;</div><div class="line">        <span class="built_in">Console</span>.WriteLine(r1.x);    <span class="comment">//5</span></div><div class="line">        <span class="built_in">Console</span>.WriteLine(v1.x);    <span class="comment">//5</span></div><div class="line">        SomeRef r2 = r1;</div><div class="line">        SomeVal v2 = v1;</div><div class="line">        r1.x = <span class="number">8</span>;</div><div class="line">        v1.x = <span class="number">9</span>;</div><div class="line">        <span class="built_in">Console</span>.WriteLine(r1.x);    <span class="comment">//8</span></div><div class="line">        <span class="built_in">Console</span>.WriteLine(r2.x);    <span class="comment">//9</span></div><div class="line">        <span class="built_in">Console</span>.WriteLine(v1.x);    <span class="comment">//9</span></div><div class="line">        <span class="built_in">Console</span>.WriteLine(v2.x);    <span class="comment">//5</span></div><div class="line">    &#125;</div><div class="line">&#125;</div><div class="line"><span class="keyword">class</span> SomeRef</div><div class="line">&#123;</div><div class="line">    <span class="keyword">public</span> Int32 x;</div><div class="line">&#125;</div><div class="line"><span class="keyword">struct</span> SomeVal</div><div class="line">&#123;</div><div class="line">    <span class="keyword">public</span> Int32 x;</div><div class="line">&#125;</div></pre></td></tr></table></figure>
+<h2 id="CLR中类型字段布局的控制"><a href="#CLR中类型字段布局的控制" class="headerlink" title="CLR中类型字段布局的控制"></a>CLR中类型字段布局的控制</h2><p>为了提高性能，clr能按照所选择的任何方式来排列类型的字段。我们可以通过在类会是结构上使用System.Runtime.InteropServices.StructLayoutAttribute属性来改变这种排列的顺序。该属性接受一个LayoutKind的枚举值（Auto，Sequential，Explicit），默认情况下C#编译器会为类选择Atuo，为结构选择Sequential。下面来定义一个类和一个结构</p>
+<figure class="highlight arduino"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div></pre></td><td class="code"><pre><div class="line"><span class="keyword">struct</span> SomeVal</div><div class="line">&#123;</div><div class="line">    <span class="keyword">public</span> <span class="keyword">String</span> name;</div><div class="line">    <span class="keyword">public</span> Int32 id;</div><div class="line"></div><div class="line">&#125;</div><div class="line"></div><div class="line"><span class="keyword">class</span> SomeRel</div><div class="line">&#123;</div><div class="line">    <span class="keyword">public</span> <span class="keyword">String</span> name;</div><div class="line">    <span class="keyword">public</span> Int32 id;</div><div class="line">&#125;</div></pre></td></tr></table></figure>
+<p>查看IL代码可以看到默认的排列顺序</p>
+<p><img src="http://oec2003.qiniudn.com/2010-12-30_100156.gif" alt="2010-12-30_100156"></p>
+<p>现在给类和结构加上属性，首引用加命名空间 using System.Runtime.InteropServices;</p>
+<figure class="highlight arduino"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div></pre></td><td class="code"><pre><div class="line">[StructLayout(LayoutKind.Auto)]</div><div class="line"><span class="keyword">struct</span> SomeVal</div><div class="line">&#123;</div><div class="line">    <span class="keyword">public</span> <span class="keyword">String</span> name;</div><div class="line">    <span class="keyword">public</span> Int32 id;</div><div class="line"></div><div class="line">&#125;</div><div class="line">[StructLayout(LayoutKind.Sequential)]</div><div class="line"><span class="keyword">class</span> SomeRel</div><div class="line">&#123;</div><div class="line">    <span class="keyword">public</span> <span class="keyword">String</span> name;</div><div class="line">    <span class="keyword">public</span> Int32 id;</div><div class="line">&#125;</div></pre></td></tr></table></figure>
+<p>再查看IL可以看到顺序已经发生了变化。</p>
+<p><img src="http://oec2003.qiniudn.com/2010-12-30_100312.gif" alt="2010-12-30_100312"></p>
+<p>C#编译器总是会默认给结构这样的值类型选择Sequential，是因为值类型会经常和非托管代码进行交互，字段必须保持和开发人员定义的一致。我们在编码过程中如果判断所创建的值类型不会与非托管代码进行交互，就可以像上面那样给创建的值类型添加[StructLayout(LayoutKind.Auto)] ，让其进行自动排列，以提高性能。</p>
+<h2 id="系列相关文章"><a href="#系列相关文章" class="headerlink" title="系列相关文章"></a>系列相关文章</h2><p>CLR Via C# 学习笔记（1） 基元类型 值类型 引用类型<br><a href="http://blog.fwhyy.com/2009/06/clr-via-csharp-learning-notes-2-boxing-and-unboxing/" target="_blank" rel="external">CLR Via C# 学习笔记（2） 装箱和拆箱</a><br><a href="http://blog.fwhyy.com/2009/06/clr-via-csharp-learning-notes-3-constants-and-fields/" target="_blank" rel="external">CLR Via C# 学习笔记（3） 常量和字段（cosnt readonly）</a><br><a href="http://blog.fwhyy.com/2009/07/clr-via-csharp-learning-notes-5-methods-the-constructor/" target="_blank" rel="external">CLR Via C# 学习笔记（4） 方法 构造函数</a><br><a href="http://blog.fwhyy.com/2009/07/clr-via-csharp-learning-notes-5-the-performance-of-the-static-constructor/" target="_blank" rel="external">CLR Via C# 学习笔记（5） 静态构造函数的性能</a><br><a href="http://blog.fwhyy.com/2009/07/clr-via-csharp-learning-notes-6-the-method-parameters-related/" target="_blank" rel="external">CLR Via C# 学习笔记（6） 方法参数相关（out ref params）</a></p>
+</div><div class="tags"><a href="/tags/CLR-via-C/">CLR via C#</a><a href="/tags/DotNet/">DotNet</a></div><div class="post-nav"><a href="/2009/06/clr-via-csharp-learning-notes-2-boxing-and-unboxing/" class="pre">CLR Via C# 学习笔记（2） 装箱和拆箱</a><a href="/2009/06/use-zedgraph-in-the-web/" class="next">ZedGraph在Web中的使用</a></div><div data-thread-key="2009/06/clr-via-csharp-learning-notes-1-primitive-types/" data-title="CLR Via C# 学习笔记（1） 基元类型 值类型 引用类型" data-url="http://home.fwhyy.com/2009/06/clr-via-csharp-learning-notes-1-primitive-types/" data-author-key="1" class="ds-thread"></div></div></div></div><div class="pure-u-1 pure-u-md-1-4"><div id="sidebar"><div class="widget"><form action="//www.google.com/search" method="get" accept-charset="utf-8" target="_blank" class="search-form"><input type="text" name="q" maxlength="20" placeholder="Search"/><input type="hidden" name="sitesearch" value="http://home.fwhyy.com"/></form></div><div class="widget"><div class="widget-title"><i class="fa fa-folder-o"> 分类</i></div><ul class="category-list"><li class="category-list-item"><a class="category-list-link" href="/categories/Asp-Net/">Asp.Net</a><span class="category-list-count">19</span><ul class="category-list-child"><li class="category-list-item"><a class="category-list-link" href="/categories/Asp-Net/Javascript/">Javascript</a><span class="category-list-count">1</span></li></ul></li><li class="category-list-item"><a class="category-list-link" href="/categories/Asp-Net-Ajax/">Asp.Net Ajax</a><span class="category-list-count">13</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/C/">C#</a><span class="category-list-count">5</span><ul class="category-list-child"><li class="category-list-item"><a class="category-list-link" href="/categories/C/DotNet/">DotNet</a><span class="category-list-count">1</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/C/Javascript/">Javascript</a><span class="category-list-count">1</span></li></ul></li><li class="category-list-item"><a class="category-list-link" href="/categories/CLR-Via-C/">CLR Via C#</a><span class="category-list-count">2</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/DotNet/">DotNet</a><span class="category-list-count">3</span><ul class="category-list-child"><li class="category-list-item"><a class="category-list-link" href="/categories/DotNet/JQuery/">JQuery</a><span class="category-list-count">1</span></li></ul></li><li class="category-list-item"><a class="category-list-link" href="/categories/HTML/">HTML</a><span class="category-list-count">1</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/Javascript/">Javascript</a><span class="category-list-count">6</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/NHibernate/">NHibernate</a><span class="category-list-count">1</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/SqlServer/">SqlServer</a><span class="category-list-count">8</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/WCF/">WCF</a><span class="category-list-count">1</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/WMS/">WMS</a><span class="category-list-count">1</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/心情日记/">心情日记</a><span class="category-list-count">18</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/篮球/">篮球</a><span class="category-list-count">4</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/设计模式/">设计模式</a><span class="category-list-count">2</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/软件使用/">软件使用</a><span class="category-list-count">3</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/软件推荐/">软件推荐</a><span class="category-list-count">2</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/软件测试/">软件测试</a><span class="category-list-count">1</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/随笔杂谈/">随笔杂谈</a><span class="category-list-count">2</span></li></ul></div><div class="widget"><div class="widget-title"><i class="fa fa-star-o"> 标签</i></div><div class="tagcloud"><a href="/tags/javascript/" style="font-size: 15px;">javascript</a> <a href="/tags/找工作/" style="font-size: 15px;">找工作</a> <a href="/tags/日记/" style="font-size: 15px;">日记</a> <a href="/tags/记账本/" style="font-size: 15px;">记账本</a> <a href="/tags/LoadRunner/" style="font-size: 15px;">LoadRunner</a> <a href="/tags/WMS/" style="font-size: 15px;">WMS</a> <a href="/tags/压力测试/" style="font-size: 15px;">压力测试</a> <a href="/tags/设计模式/" style="font-size: 15px;">设计模式</a> <a href="/tags/WCF/" style="font-size: 15px;">WCF</a> <a href="/tags/AspNet/" style="font-size: 15px;">AspNet</a> <a href="/tags/xl/" style="font-size: 15px;">性能</a> <a href="/tags/旅游/" style="font-size: 15px;">旅游</a> <a href="/tags/PDF/" style="font-size: 15px;">PDF</a> <a href="/tags/书签/" style="font-size: 15px;">书签</a> <a href="/tags/发布点/" style="font-size: 15px;">发布点</a> <a href="/tags/SqlServer/" style="font-size: 15px;">SqlServer</a> <a href="/tags/sqlserver2008/" style="font-size: 15px;">sqlserver2008</a> <a href="/tags/错误解决/" style="font-size: 15px;">错误解决</a> <a href="/tags/虚拟机/" style="font-size: 15px;">虚拟机</a> <a href="/tags/小技巧/" style="font-size: 15px;">小技巧</a> <a href="/tags/Ajax/" style="font-size: 15px;">Ajax</a> <a href="/tags/NHibernate/" style="font-size: 15px;">NHibernate</a> <a href="/tags/纪念日/" style="font-size: 15px;">纪念日</a> <a href="/tags/Autocomplete/" style="font-size: 15px;">Autocomplete</a> <a href="/tags/spNet/" style="font-size: 15px;">spNet</a> <a href="/tags/Eval/" style="font-size: 15px;">Eval</a> <a href="/tags/CLR-via-C/" style="font-size: 15px;">CLR via C#</a> <a href="/tags/DotNet/" style="font-size: 15px;">DotNet</a> <a href="/tags/总结/" style="font-size: 15px;">总结</a> <a href="/tags/正则/" style="font-size: 15px;">正则</a> <a href="/tags/C/" style="font-size: 15px;">C#</a> <a href="/tags/visual-studio/" style="font-size: 15px;">visual studio</a> <a href="/tags/GrdiView/" style="font-size: 15px;">GrdiView</a> <a href="/tags/DotNet3-0/" style="font-size: 15px;">DotNet3.0</a> <a href="/tags/英语/" style="font-size: 15px;">英语</a> <a href="/tags/JQuery/" style="font-size: 15px;">JQuery</a> <a href="/tags/MasterPage/" style="font-size: 15px;">MasterPage</a> <a href="/tags/泛型/" style="font-size: 15px;">泛型</a> <a href="/tags/FastStone/" style="font-size: 15px;">FastStone</a> <a href="/tags/软件推荐/" style="font-size: 15px;">软件推荐</a> <a href="/tags/NBA/" style="font-size: 15px;">NBA</a> <a href="/tags/lq/" style="font-size: 15px;">篮球</a> <a href="/tags/Sql/" style="font-size: 15px;">Sql</a> <a href="/tags/无刷新联动/" style="font-size: 15px;">无刷新联动</a> <a href="/tags/水晶报表/" style="font-size: 15px;">水晶报表</a> <a href="/tags/My97/" style="font-size: 15px;">My97</a> <a href="/tags/存储过程/" style="font-size: 15px;">存储过程</a> <a href="/tags/PowerDesiner/" style="font-size: 15px;">PowerDesiner</a> <a href="/tags/HTML/" style="font-size: 15px;">HTML</a> <a href="/tags/CheckBox/" style="font-size: 15px;">CheckBox</a> <a href="/tags/全选/" style="font-size: 15px;">全选</a> <a href="/tags/gridview/" style="font-size: 15px;">gridview</a> <a href="/tags/ZedGraph/" style="font-size: 15px;">ZedGraph</a> <a href="/tags/报表统计/" style="font-size: 15px;">报表统计</a> <a href="/tags/HttpModule/" style="font-size: 15px;">HttpModule</a> <a href="/tags/Sql注入/" style="font-size: 15px;">Sql注入</a> <a href="/tags/print/" style="font-size: 15px;">print</a></div></div><div class="widget"><div class="widget-title"><i class="fa fa-file-o"> 最新文章</i></div><ul class="post-list"><li class="post-list-item"><a class="post-list-link" href="/2016/08/the-difference-between-the-and-aspnet/">Asp.Net中 %= 与%# 的区别</a></li><li class="post-list-item"><a class="post-list-link" href="/2016/08/separate-strings-in-sql/">Sql中分隔字串–>查询–>组合字串</a></li><li class="post-list-item"><a class="post-list-link" href="/2013/07/adjust-disk-c-capacity-in-windows7/">Windows7给C盘扩容</a></li><li class="post-list-item"><a class="post-list-link" href="/2013/01/2012-year-summary/">2012年总结</a></li><li class="post-list-item"><a class="post-list-link" href="/2011/05/additional-database-failure-5120-error/">附加数据库失败 操作系统错误5</a></li><li class="post-list-item"><a class="post-list-link" href="/2011/05/anniversary/">纪念日--领证</a></li><li class="post-list-item"><a class="post-list-link" href="/2010/11/add-a-bookmark-to-a-pdf-document/">给PDF文档添加书签</a></li><li class="post-list-item"><a class="post-list-link" href="/2010/10/2010-national-day-reporter/">2010十一长假小记</a></li><li class="post-list-item"><a class="post-list-link" href="/2010/09/additional-program-installed-virtual-pc/">Virtual PC附加程序安装</a></li><li class="post-list-item"><a class="post-list-link" href="/2010/08/a-little-information-about-loadrunner/">关于LoadRunner的一点资料</a></li></ul></div><div class="widget"><div class="widget-title"><i class="fa fa-external-link"> 友情链接</i></div><ul></ul><a href="http://han.fwhyy.com" title="老婆の独乐园" target="_blank">老婆の独乐园</a><ul></ul><a href="http://www.fengzihan.me/" title="女儿の成长馆" target="_blank">女儿の成长馆</a><ul></ul><a href="http://junan.name/" title="Junan博客" target="_blank">Junan博客</a><ul></ul><a href="http://2days.org/" title="两天" target="_blank">两天</a><ul></ul><a href="http://www.belmeng.com/" title="鲁蒙的个人博客" target="_blank">鲁蒙的个人博客</a><ul></ul><a href="http://blog.nicky1605.com/" title="Nicky'Blog" target="_blank">Nicky'Blog</a><ul></ul><a href="http://www.wangyuxiong.com/" title="metaboy" target="_blank">metaboy</a></div></div></div><div class="pure-u-1 pure-u-md-3-4"><div id="footer">© <a href="/." rel="nofollow">冯威的个人博客.</a> Powered by<a rel="nofollow" target="_blank" href="https://hexo.io"> Hexo.</a><a rel="nofollow" target="_blank" href="https://github.com/tufu9441/maupassant-hexo"> Theme</a> by<a rel="nofollow" target="_blank" href="https://github.com/pagecho"> Cho | Host by </a><a rel="noflolow" target="_blank" href="https://www.linode.com/">Linode</a></div></div></div><a id="rocket" href="#top" class="show"></a><script type="text/javascript" src="/js/totop.js?v=0.0.0" async></script><script type="text/javascript" src="//cdn.bootcss.com/fancybox/2.1.5/jquery.fancybox.pack.js" async></script><script type="text/javascript" src="/js/fancybox.js?v=0.0.0" async></script><link rel="stylesheet" type="text/css" href="/css/jquery.fancybox.css?v=0.0.0"><script>var duoshuoQuery = {short_name:'oec2003## Your duoshuo_shortname, e.g. username'};
+(function() {
+    var ds = document.createElement('script');
+    ds.type = 'text/javascript';ds.async = true;
+    ds.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//static.duoshuo.com/embed.js';
+    ds.charset = 'UTF-8';
+    (document.getElementsByTagName('head')[0]
+        || document.getElementsByTagName('body')[0]).appendChild(ds);
+})();
+</script><script type="text/javascript" src="/js/codeblock-resizer.js?v=0.0.0"></script><script type="text/javascript" src="/js/smartresize.js?v=0.0.0"></script></div></body></html>
