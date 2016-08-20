@@ -2,7 +2,7 @@
 title: Visual Studio 2010 Beta 2 公开下载地址
 date: 2009-10-22
 categories: [DotNet, 软件推荐]
-tags: [DotNet, DotNet4, vs2010, 软件推荐]
+tags: [DotNet,DotNet4,vs2010,软件推荐]
 ---
 
 前天就在博客园见了lyj的那篇介绍Visual Studio 2010 Beta 2的文章了，今天终于开发下载了。
