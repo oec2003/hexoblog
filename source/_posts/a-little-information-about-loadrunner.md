@@ -1,6 +1,5 @@
 title:  关于LoadRunner的一点资料
 date:  2010-08-24
-url:  /2010/08/a-little-information-about-loadrunner/
 categories: [软件测试]
 tags:  [LoadRunner,WMS,压力测试]
 ---
@@ -11,6 +10,7 @@ LoadRunner是一款很强大的测试工具，前不久有过一段时间的使�
 
 在使用LoadRunner期间也积累的一些资料，下面给出下载地址与大家分享:
 <!--more-->
+
 [LOADRUNNER使用介绍PPT.rar](http://files.cnblogs.com/oec2003/LOADRUNNER%e4%bd%bf%e7%94%a8%e4%bb%8b%e7%bb%8dPPT.rar)
 
 [性能测试大全.rar](http://files.cnblogs.com/oec2003/%e6%80%a7%e8%83%bd%e6%b5%8b%e8%af%95%e5%a4%a7%e5%85%a8.rar)
