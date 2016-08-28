@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>083594568FDD61EE12AFB4172D58DF8D</key>
+	<array>
+		<dict>
+			<key>localURL</key>
+			<string>media/2011-01-11_204240.gif</string>
+			<key>remoteURL</key>
+			<string>http://oec2003.qiniudn.com/2011-01-11_204240.gif</string>
+		</dict>
+		<dict>
+			<key>localURL</key>
+			<string>media/2011-01-11_204406.gif</string>
+			<key>remoteURL</key>
+			<string>http://oec2003.qiniudn.com/2011-01-11_204406.gif</string>
+		</dict>
+		<dict>
+			<key>localURL</key>
+			<string>media/2011-01-11_204420.gif</string>
+			<key>remoteURL</key>
+			<string>http://oec2003.qiniudn.com/2011-01-11_204420.gif</string>
+		</dict>
+		<dict>
+			<key>localURL</key>
+			<string>media/2011-01-11_211055.gif</string>
+			<key>remoteURL</key>
+			<string>http://oec2003.qiniudn.com/2011-01-11_211055.gif</string>
+		</dict>
+		<dict>
+			<key>localURL</key>
+			<string>media/2011-01-11_221442.gif</string>
+			<key>remoteURL</key>
+			<string>http://oec2003.qiniudn.com/2011-01-11_221442.gif</string>
+		</dict>
+		<dict>
+			<key>localURL</key>
+			<string>media/2011-01-11_221850.gif</string>
+			<key>remoteURL</key>
+			<string>http://oec2003.qiniudn.com/2011-01-11_221850.gif</string>
+		</dict>
+		<dict>
+			<key>localURL</key>
+			<string>media/2011-01-11_222312.gif</string>
+			<key>remoteURL</key>
+			<string>http://oec2003.qiniudn.com/2011-01-11_222312.gif</string>
+		</dict>
+		<dict>
+			<key>localURL</key>
+			<string>media/2011-01-11_222430.gif</string>
+			<key>remoteURL</key>
+			<string>http://oec2003.qiniudn.com/2011-01-11_222430.gif</string>
+		</dict>
+		<dict>
+			<key>localURL</key>
+			<string>media/201101130943278918.gif</string>
+			<key>remoteURL</key>
+			<string>http://oec2003.qiniudn.com/201101130943278918.gif</string>
+		</dict>
+	</array>
+	<key>selectedItem</key>
+	<string>083594568FDD61EE12AFB4172D58DF8D</string>
+</dict>
+</plist>
