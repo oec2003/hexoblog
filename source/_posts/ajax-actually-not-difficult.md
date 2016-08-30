@@ -1,6 +1,5 @@
 title:  Ajax,其实并不难
 date:  2007-07-23
-url:  /2007/07/ajax-actually-not-difficult/
 categories: [Asp.Net Ajax]
 tags:  [Ajax,AspNet]
 ---
@@ -28,9 +27,7 @@ function createRequest() {
 语法如下：
 
 *   xmlHttp.open(method, url, bool)
-
 *   method 表示http的请求方法，一共有5种方法：get,post,head,put,delete,其中比较常用的是get和post
-
 *   url表示数据的地址，如果是本地地址就指定具体的路径，如果是其他的网站的数据就指定完整的url地址。
 
 bool表示是否使用异步获取，true表示异步，false表示同步。如下：
@@ -63,7 +60,6 @@ xmlhttp.send(params);
 最后就是处理异步获取的数据，数据的类型有两种：
 
 *   文本型：用XMLHttp.ResponseText获取
-
 *   ml类型：用XMLHttp.ResponseXML获取。
 
 

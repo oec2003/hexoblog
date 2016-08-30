@@ -9,6 +9,7 @@ tags: [Ajax,AspNet]
 
 Calendar控件是一个很简单的控件，主要用来在页面中提供日历的选择，其实现在已经有很多用javascript写的[日历控件](http://blog.csdn.net/21aspnet/archive/2007/05/14/1607712.aspx)，但是Canlendar日历控件能够让我们更快速地来实现这种效果，只需要进行一些简单的设置即可。
 <!--more-->
+
 ## 重要属性
 
 * TargetControlID：用来显示选择日期的控件，改控件必需为TextBox

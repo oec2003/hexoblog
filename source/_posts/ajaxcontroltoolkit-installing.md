@@ -1,19 +1,19 @@
 title:  AjaxControlToolkit安装&下载
 date:  2007-08-03
-url:  /2007/08/ajaxcontroltoolkit-installing/
 categories: [Asp.Net Ajax]
 tags:  [Ajax,AspNet]
 ---
 
 以下是收集关于AjaxControlToolkit安装的一篇文章，感谢原作者
 <!--more-->
-# AjaxControlToolkit下载
+
+## AjaxControlToolkit下载
 
 [http://ajax.asp.net/downloads/default.aspx?tabid=47](http://ajax.asp.net/downloads/default.aspx?tabid=47)
 
 [http://www.codeplex.com/AtlasControlToolkit/Release/ProjectReleases.aspx?ReleaseId=1425](http://www.codeplex.com/AtlasControlToolkit/Release/ProjectReleases.aspx?ReleaseId=1425)
 
-# 环境设置
+## 环境设置
 
 1 下载完 ASPAJAXExtSetup.msi 安装更新后在你的系统盘下的（以C盘为例） 出现这个 文件夹：
 

@@ -1,6 +1,5 @@
 title:  差点受骗了
 date:  2007-06-10
-url:  /2007/06/almost-to-be-deceived/
 categories: [心情日记]
 tags: [日记]
 ---

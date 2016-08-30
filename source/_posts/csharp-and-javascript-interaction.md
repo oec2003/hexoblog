@@ -7,6 +7,7 @@ tags: [C#,javascript]
 
 在asp.net开发中，经常会用到后台和前台的交互，就此总结了一点c#和javascript相互操作的方法。
 <!--more-->
+
 ## 在后台c#代码中调用jacascript的方法
 
 ### javascript代码：

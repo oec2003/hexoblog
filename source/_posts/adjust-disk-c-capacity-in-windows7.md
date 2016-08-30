@@ -1,12 +1,12 @@
 title:  Windows7给C盘扩容
 date:  2013-07-13
-url:  /2013/07/adjust-disk-c-capacity-in-windows7/
 categories: [心情日记]
 tags: [小技巧]
 ---
 
 在之前的系统中都是使用PartitionMagic来进行磁盘容量的分配，但PartitionMagic在Windows7中的兼容性不是好很好，导致不能使用。其实Windows7自带了磁盘管理工具，下面说说怎样使用自带的磁盘管理工具进行C盘的扩容。
 <!--more-->
+
 1. 将D盘的文件转移到其他的地方；
 
 2. 使用[DiskGenius](http://www.diskgenius.cn/)将D盘转换成主分区，如果你的D盘已经是主分区，这一步可以省略；

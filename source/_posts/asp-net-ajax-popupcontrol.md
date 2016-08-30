@@ -9,6 +9,7 @@ tags: [Ajax,AspNet]
 
 Popupcontrol可以弹出任意类型的控件，不管是在服务器控件还是html控件。就是在某控件获取焦点时弹出另外一个控件，进行一些操作后，隐藏弹出的控件。
 <!--more-->
+
 ## 重要属性
 
 * TargetControlID:需要弹出的控件的id
