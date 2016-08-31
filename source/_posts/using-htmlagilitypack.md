@@ -5,8 +5,6 @@ categories: [Asp.Net]
 tags: [HtmlAgilityPack, HTML解析]
 ---
 
-## 前言
-
 HtmlAgilityPack是一个开源的解析HTML元素的类库，最大的特点是可以通过XPath来解析HMTL，如果您以前用C#操作过XML，那么使用起HtmlAgilityPack也会得心应手。目前最新版本为1.4.6,下载地址如下：
 
 [http://htmlagilitypack.codeplex.com/](http://htmlagilitypack.codeplex.com/)

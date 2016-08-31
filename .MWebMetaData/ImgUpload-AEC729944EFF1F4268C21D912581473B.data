@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>083594568FDD61EE12AFB4172D58DF8D</key>
+	<array>
+		<dict>
+			<key>localURL</key>
+			<string>media/wpid-14574474852300.jpg</string>
+			<key>remoteURL</key>
+			<string>http://oec2003.qiniudn.com/wpid-14574474852300.jpg</string>
+		</dict>
+		<dict>
+			<key>localURL</key>
+			<string>media/wpid-14574476388347.jpg</string>
+			<key>remoteURL</key>
+			<string>http://oec2003.qiniudn.com/wpid-14574476388347.jpg</string>
+		</dict>
+		<dict>
+			<key>localURL</key>
+			<string>media/wpid-14574478634829.jpg</string>
+			<key>remoteURL</key>
+			<string>http://oec2003.qiniudn.com/wpid-14574478634829.jpg</string>
+		</dict>
+		<dict>
+			<key>localURL</key>
+			<string>media/wpid-14574490215799.jpg</string>
+			<key>remoteURL</key>
+			<string>http://oec2003.qiniudn.com/wpid-14574490215799.jpg</string>
+		</dict>
+		<dict>
+			<key>localURL</key>
+			<string>media/wpid-14574491293072.jpg</string>
+			<key>remoteURL</key>
+			<string>http://oec2003.qiniudn.com/wpid-14574491293072.jpg</string>
+		</dict>
+		<dict>
+			<key>localURL</key>
+			<string>media/wpid-14574491097269.jpg</string>
+			<key>remoteURL</key>
+			<string>http://oec2003.qiniudn.com/wpid-14574491097269.jpg</string>
+		</dict>
+		<dict>
+			<key>localURL</key>
+			<string>media/wpid-14574511220078.jpg</string>
+			<key>remoteURL</key>
+			<string>http://oec2003.qiniudn.com/wpid-14574511220078.jpg</string>
+		</dict>
+		<dict>
+			<key>localURL</key>
+			<string>media/wpid-14574514129726.jpg</string>
+			<key>remoteURL</key>
+			<string>http://oec2003.qiniudn.com/wpid-14574514129726.jpg</string>
+		</dict>
+	</array>
+	<key>selectedItem</key>
+	<string>083594568FDD61EE12AFB4172D58DF8D</string>
+</dict>
+</plist>

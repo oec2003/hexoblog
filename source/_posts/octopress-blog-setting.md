@@ -5,8 +5,6 @@ categories: [Octopress]
 tags: [Octopress]
 ---
 
-## 前言
-
 在上一篇《[Windows下搭建Octopress博客](http://blog.fwhyy.com/2013/08/how-to-use-exist-octopress-in-windows/)》中介绍了怎样在Windows环境中搭建Octopress博客，以及如何部署到Github中，本文主要讲解怎样对Octopress进行一些设置，比如修改博客标题、添加侧边栏等等。
 
 ## Octopress文件目录
