@@ -11,8 +11,7 @@ OWA全称Office Web App，是用来做Office文档预览的一个很好的工具
 
 WopiHost是GitHub上大牛实现的使用OWA进行Word在线编辑的开源程序，代码地址[https://github.com/marx-yu/WopiHost.git](https://github.com/marx-yu/WopiHost.git)，该程序的代码结构如下图：
 
-![wpid-14538187926396](media/wpid-14538187926396.jpg)
-
+![wpid-14538187926396](http://oec2003.qiniudn.com/wpid-14538187926396.jpg)
 
 使用该程序需要注意的几个地方：
 
@@ -53,4 +52,5 @@ http://192.168.16.98/we/wordeditorframe.aspx?WOPISrc=http://localhost:9111/wopi/
 ## OWAEditorWeb
 
 一个简单的Asp.Net示例，代码地址：[https://github.com/oec2003/OWAEditorSample.git](https://github.com/oec2003/OWAEditorSample.git)
+
 
