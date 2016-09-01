@@ -1,5 +1,5 @@
 ---
-title: read-construction-method
+title: 读《构建之法》
 date: 2015-07-10
 categories: [读书笔记]
 tags: [构建之法, 软件工程]

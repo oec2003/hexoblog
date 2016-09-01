@@ -3,6 +3,7 @@ title: C# 带签名dll破解
 date: 2016-03-09
 categories: [C#]
 tags: [C#, ildasm, 破解]
+comments: true
 ---
 
 首先申明，本文只是从技术的角度来分析下怎样破解带签名的C#写的dll文件。大家如有遇到收费的软件或类库还是应该去购买正版，程序员何苦为难程序员呢。
