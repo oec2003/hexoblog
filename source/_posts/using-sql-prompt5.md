@@ -1,7 +1,7 @@
 ---
 title: SqlServer开发利器—SQL Prompt5
 date: 2012-10-11
-categories: [SqlServer, 软件推荐]
+categories: [软件推荐]
 tags: [SqlServer, 软件推荐]
 ---
 

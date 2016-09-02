@@ -1,7 +1,7 @@
 ---
 title: Linode VPS之旅
 date: 2015-01-12
-categories: [心情日记, 软件使用]
+categories: [心情日记]
 tags: [Linode, VPS, 博客]
 ---
 

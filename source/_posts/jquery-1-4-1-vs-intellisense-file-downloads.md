@@ -1,7 +1,7 @@
 ---
 title: jQuery 1.4.1 VS智能提示文件下载
 date: 2010-02-09
-categories: [JQuery, 软件推荐]
+categories: [软件推荐]
 tags: [JQuery, 软件推荐]
 ---
 

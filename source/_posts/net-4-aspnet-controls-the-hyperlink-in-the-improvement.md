@@ -1,7 +1,7 @@
 ---
 title: Net4.0—AspNet中的控件HyperLink的改进（支持路由跳转）
 date: 2010-07-28
-categories: [Asp.Net, DotNet]
+categories: [Asp.Net]
 tags: [AspNet, DotNet4, URL重写]
 ---
 

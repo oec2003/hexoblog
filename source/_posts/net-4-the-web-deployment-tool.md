@@ -1,7 +1,7 @@
 ---
 title: Net4.0—Web部署工具
 date: 2010-06-03
-categories: [Asp.Net, DotNet]
+categories: [Asp.Net]
 tags: [AspNet, DotNet4, 部署]
 ---
 

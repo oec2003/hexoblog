@@ -1,7 +1,7 @@
 ---
 title: C#用md5判断GridFS中文件是否存在
 date: 2015-05-21
-categories: [C#, MongoDB]
+categories: [MongoDB]
 tags: [GridFS, MongoDB]
 ---
 

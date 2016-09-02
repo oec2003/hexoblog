@@ -1,7 +1,7 @@
 ---
 title: 使用LoadRunner测试WMS
 date: 2010-05-21
-categories: [WMS, 软件测试]
+categories: [软件测试]
 tags: [LoadRunner, WMS]
 ---
 

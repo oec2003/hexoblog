@@ -1,7 +1,7 @@
 ---
 title: Asp.Net MVC 2 RC 2 发布
 date: 2010-02-05
-categories: [Asp.Net MVC, 软件推荐]
+categories: [软件推荐]
 tags: [AspNet, MVC]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Net4.0—AspNet中URL重写的改进
 date: 2010-07-27
-categories: [Asp.Net, DotNet]
+categories: [Asp.Net]
 tags: [AspNet, DotNet4, URL重写]
 ---
 

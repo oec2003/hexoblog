@@ -1,7 +1,7 @@
 ---
 title: VS2012在安装VS2013后打开文件报错，未找到与约束…
 date: 2015-01-23
-categories: [DotNet, 软件使用]
+categories: [软件使用]
 tags: [VS2012, VS2013]
 ---
 

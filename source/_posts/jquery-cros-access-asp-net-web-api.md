@@ -1,7 +1,7 @@
 ---
 title: jQuery跨域调用Asp.Net Web API
 date: 2015-08-15
-categories: [Asp.Net MVC, JQuery]
+categories: [JQuery]
 tags: [Cros, JQuery, Web API]
 ---
 

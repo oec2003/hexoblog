@@ -1,7 +1,7 @@
 ---
 title: 在vs2008中设置jquery智能提示
 date: 2009-05-20
-categories: [DotNet, JQuery]
+categories: [JQuery]
 tags: [DotNet, JQuery]
 ---
 

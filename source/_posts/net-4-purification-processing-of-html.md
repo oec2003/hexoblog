@@ -1,7 +1,7 @@
 ---
 title: Net4.0—对HTML净化的处理
 date: 2010-07-28
-categories: [Asp.Net, DotNet]
+categories: [Asp.Net]
 tags: [AspNet, DotNet4]
 ---
 

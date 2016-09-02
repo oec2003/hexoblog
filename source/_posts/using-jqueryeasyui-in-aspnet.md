@@ -1,7 +1,7 @@
 ---
 title: 在Asp.Net中使用jQueryEasyUI
 date: 2012-11-25
-categories: [Asp.Net, JQuery]
+categories: [JQuery]
 tags: [AspNet, JQuery, JQueryEasyUI]
 ---
 

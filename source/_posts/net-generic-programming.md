@@ -1,7 +1,7 @@
 ---
 title: .Net泛型编程简介
 date: 2007-05-22
-categories: [C#,DotNet]
+categories: [DotNet]
 tags: [C#,DotNet,泛型]
 ---
 

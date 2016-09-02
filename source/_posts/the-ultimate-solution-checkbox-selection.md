@@ -1,7 +1,7 @@
 ---
 title: CheckBox全选终极方案
 date: 2008-10-23
-categories: [Asp.Net,Javascript]
+categories: [Javascript]
 tags: [AspNet,CheckBox,javascript,全选]
 ---
 

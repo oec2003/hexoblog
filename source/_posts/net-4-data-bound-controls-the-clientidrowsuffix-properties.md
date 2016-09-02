@@ -1,7 +1,7 @@
 ---
 title: Net4.0—数据绑定控件（GridView ListView…）中的ClientIDRowSuffix属性
 date: 2010-07-30
-categories: [Asp.Net, DotNet]
+categories: [Asp.Net]
 tags: [AspNet, DotNet4]
 ---
 

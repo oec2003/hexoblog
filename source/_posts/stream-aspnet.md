@@ -1,7 +1,7 @@
 ---
 title: 开源上传组件stream的.Net后台实现
 date: 2015-08-13
-categories: [Asp.Net, DotNet]
+categories: [Asp.Net]
 tags: [C#, DotNet, stream]
 ---
 

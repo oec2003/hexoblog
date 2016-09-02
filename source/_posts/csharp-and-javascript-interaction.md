@@ -1,7 +1,7 @@
 ---
 title: C#和Javascript交互
 date: 2007-11-23
-categories: [C#,Javascript]
+categories: [Javascript]
 tags: [C#,javascript]
 ---
 

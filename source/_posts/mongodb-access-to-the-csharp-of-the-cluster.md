@@ -1,7 +1,7 @@
 ---
 title: C#访问群集部署时的MongoDB
 date: 2015-08-13
-categories: [C#, MongoDB]
+categories: [MongoDB]
 tags: [C#, MongoDB ]
 ---
 

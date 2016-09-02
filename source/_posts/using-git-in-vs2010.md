@@ -1,7 +1,7 @@
 ---
 title: 在VS2010中使用Git【图文】
 date: 2012-11-13
-categories: [Asp.Net, DotNet, Git]
+categories: [Git]
 tags: [Git, Github, vs2010, 源码管理]
 ---
 

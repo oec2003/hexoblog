@@ -1,7 +1,7 @@
 ---
 title: placeholder在IE8中兼容性问题解决
 date: 2014-02-12
-categories: [HTML, JQuery]
+categories: [JQuery]
 tags: [placeholder, 兼容性]
 ---
 

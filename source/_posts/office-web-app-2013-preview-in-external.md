@@ -1,7 +1,7 @@
 ---
 title: Office Web App 2013发布在外网进行预览
 date: 2015-06-20
-categories: [C#, Office Web App]
+categories: [Office Web App]
 tags: [Office Web App, Web API]
 ---
 

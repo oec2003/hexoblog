@@ -1,7 +1,7 @@
 ---
 title: Asp.Net正在中止线程引发的问题
 date: 2013-11-22
-categories: [Asp.Net, 经验总结]
+categories: [Asp.Net]
 tags: [AspNet, TimeOut]
 ---
 

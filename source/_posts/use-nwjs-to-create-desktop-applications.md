@@ -1,7 +1,7 @@
 ---
 title: 使用nw.js制作桌面应用程序
 date: 2015-10-22
-categories: [nodejs]
+categories: [Nodejs]
 tags: [mac, nodejs, nwjs]
 ---
 

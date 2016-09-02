@@ -1,7 +1,7 @@
 ---
 title: VS2010和VS2008使用不同编译方式在64位机器生成注册表对比
 date: 2012-10-14
-categories: [C#, DotNet]
+categories: [DotNet]
 tags: [C#, DotNet, Regedit]
 ---
 

@@ -1,8 +1,8 @@
 ---
 title: SQL实现分组统计查询（按月、小时分组）
 date: 2009-06-04
-categories:
-tags:
+categories: [SqlServer]
+tags: [SqlServer]
 ---
 
 ## 首先创建数据表

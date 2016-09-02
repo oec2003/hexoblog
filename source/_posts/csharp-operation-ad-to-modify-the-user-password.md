@@ -1,7 +1,7 @@
 ---
 title: C#操作AD修改用户密码
 date: 2015-09-24
-categories: [AD, C#]
+categories: [AD]
 tags: [AD, C#]
 ---
 

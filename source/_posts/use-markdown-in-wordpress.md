@@ -5,7 +5,7 @@ categories: [WordPress]
 tags: [Markdown, Wordprss]
 ---
 
-自从知道有Markdown这么个东西后，就彻底喜欢上了。期间也折腾过支持Markdown格式的博客系统，如：Octopress、hexo。之前也写过几篇关于Octopress的博文：[http://blog.fwhyy.com/category/jishu/octopress/](http://blog.fwhyy.com/category/jishu/octopress/)。对于hexo折腾一番后发布到了github上，可以通过[http://oec2003.github.io/](http://oec2003.github.io/)访问。
+自从知道有Markdown这么个东西后，就彻底喜欢上了。期间也折腾过支持Markdown格式的博客系统，如：Octopress、hexo。之前也写过几篇关于Octopress的博文：[http://fwhyy.com/categories/Octopress/](http://fwhyy.com/categories/Octopress/)。对于hexo折腾一番后发布到了github上，可以通过[http://oec2003.github.io/](http://oec2003.github.io/)访问。
 
 但自从用了独立博客以后，一直使用的是WordPress，去年又迁移到了Linode的VPS上，暂时还没找到好的方式在Linode上部署hexo，所以还是决定在WordPress中使用Markdown。
 

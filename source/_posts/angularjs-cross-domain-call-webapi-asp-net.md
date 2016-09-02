@@ -1,7 +1,7 @@
 ---
 title: Angularjs跨域调用Asp.Net WebAPI
 date: 2016-01-06
-categories: [Angularjs, Asp.Net MVC]
+categories: [Angularjs]
 tags: [AngularJS, WebAPI]
 ---
 
