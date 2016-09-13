@@ -5,7 +5,7 @@ categories: [Asp.Net]
 tags: [ExceptionLess,日志,Asp.Net]
 ---
 
-[ExceptionLess](http://exceptionless.com/)是一款免费开源的分布式日志收集框架，DotNet的几乎所有类型的程序都可以支持，并且还提供的接口，可以很方便的在js中进行日志的推送。
+[ExceptionLess](http://exceptionless.com/)是一款免费开源的分布式日志收集框架，DotNet的几乎所有类型的程序都可以支持，并且还提供了接口，可以很方便的在js中进行日志的推送。
 
 ## 来源
 
