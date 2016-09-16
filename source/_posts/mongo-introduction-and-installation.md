@@ -1,5 +1,5 @@
 ---
-title: mongo-introduction-and-installation
+title: MongoDB(1)--MongoDB介绍及安装
 date: 2011-09-13
 categories: [NoSQL]
 tags: [MongoDB, NoSQL]
