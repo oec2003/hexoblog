@@ -5,7 +5,7 @@
 # Site
 title: 冯威的个人博客
 subtitle: 临渊羡鱼 不如退而结网
-description: 
+description: DotNet平台为主，也关注分布式、NoSQL、微服务、动态语言等
 author: oec2003
 language: zh-CN
 timezone:
@@ -81,6 +81,12 @@ archive_generator:
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 theme: maupassant
+
+# sitemap
+sitemap: 
+  path: sitemap.xml
+baidusitemap:
+  path: baidusitemap.xml
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html

@@ -1,0 +1,6436 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2011/09/mongo-introduction-and-installation/</loc>
+    <lastmod>2016-09-16T14:36:42.000Z</lastmod>
+    <data>
+        <display>
+        <title>MongoDB(1)--MongoDB介绍及安装</title>
+        <pubTime>2011-09-12T16:00:00.000Z</pubTime>
+        
+        <tag>MongoDB</tag>
+         
+        <tag>NoSQL</tag>
+         
+         
+           
+             
+              <breadCrumb title="NoSQL" url="http://www.fwhyy.com/categories/NoSQL/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2016/09/use-exceptionLess/</loc>
+    <lastmod>2016-09-13T15:46:56.000Z</lastmod>
+    <data>
+        <display>
+        <title>使用ExceptionLess</title>
+        <pubTime>2016-09-13T15:03:26.000Z</pubTime>
+        
+        <tag>ExceptionLess</tag>
+         
+        <tag>日志</tag>
+         
+        <tag>Asp.Net</tag>
+         
+         
+           
+             
+              <breadCrumb title="Asp.Net" url="http://www.fwhyy.com/categories/Asp-Net/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2016/09/Talk-about-overtime/</loc>
+    <lastmod>2016-09-08T15:24:56.000Z</lastmod>
+    <data>
+        <display>
+        <title>谈谈加班</title>
+        <pubTime>2016-09-08T15:22:06.000Z</pubTime>
+        
+        <tag>经验总结</tag>
+         
+        <tag>加班</tag>
+         
+         
+           
+             
+              <breadCrumb title="经验总结" url="http://www.fwhyy.com/categories/%E7%BB%8F%E9%AA%8C%E6%80%BB%E7%BB%93/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2016/09/remoting-external-access/</loc>
+    <lastmod>2016-09-06T14:38:22.000Z</lastmod>
+    <data>
+        <display>
+        <title>Remoting 外网访问</title>
+        <pubTime>2016-09-06T14:01:52.000Z</pubTime>
+        
+        <tag>DotNet</tag>
+         
+        <tag>Remoting</tag>
+         
+         
+           
+             
+              <breadCrumb title="DotNet" url="http://www.fwhyy.com/categories/DotNet/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2015/10/use-nwjs-to-create-desktop-applications/</loc>
+    <lastmod>2016-09-02T01:24:24.000Z</lastmod>
+    <data>
+        <display>
+        <title>使用nw.js制作桌面应用程序</title>
+        <pubTime>2015-10-21T16:00:00.000Z</pubTime>
+        
+        <tag>mac</tag>
+         
+        <tag>nodejs</tag>
+         
+        <tag>nwjs</tag>
+         
+         
+           
+             
+              <breadCrumb title="Nodejs" url="http://www.fwhyy.com/categories/Nodejs/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2015/09/csharp-operation-ad-to-modify-the-user-password/</loc>
+    <lastmod>2016-09-02T01:23:28.000Z</lastmod>
+    <data>
+        <display>
+        <title>C#操作AD修改用户密码</title>
+        <pubTime>2015-09-23T16:00:00.000Z</pubTime>
+        
+        <tag>C#</tag>
+         
+        <tag>AD</tag>
+         
+         
+           
+             
+              <breadCrumb title="AD" url="http://www.fwhyy.com/categories/AD/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2015/08/jquery-cros-access-asp-net-web-api/</loc>
+    <lastmod>2016-09-02T01:22:57.000Z</lastmod>
+    <data>
+        <display>
+        <title>jQuery跨域调用Asp.Net Web API</title>
+        <pubTime>2015-08-14T16:00:00.000Z</pubTime>
+        
+        <tag>Web API</tag>
+         
+        <tag>JQuery</tag>
+         
+        <tag>Cros</tag>
+         
+         
+           
+             
+              <breadCrumb title="JQuery" url="http://www.fwhyy.com/categories/JQuery/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2016/01/angularjs-cross-domain-call-webapi-asp-net/</loc>
+    <lastmod>2016-09-02T01:22:18.000Z</lastmod>
+    <data>
+        <display>
+        <title>Angularjs跨域调用Asp.Net WebAPI</title>
+        <pubTime>2016-01-05T16:00:00.000Z</pubTime>
+        
+        <tag>AngularJS</tag>
+         
+        <tag>WebAPI</tag>
+         
+         
+           
+             
+              <breadCrumb title="Angularjs" url="http://www.fwhyy.com/categories/Angularjs/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2007/05/net-generic-programming/</loc>
+    <lastmod>2016-09-02T01:16:08.000Z</lastmod>
+    <data>
+        <display>
+        <title>.Net泛型编程简介</title>
+        <pubTime>2007-05-21T16:00:00.000Z</pubTime>
+        
+        <tag>C#</tag>
+         
+        <tag>DotNet</tag>
+         
+        <tag>泛型</tag>
+         
+         
+           
+             
+              <breadCrumb title="DotNet" url="http://www.fwhyy.com/categories/DotNet/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2007/11/csharp-and-javascript-interaction/</loc>
+    <lastmod>2016-09-02T01:15:40.000Z</lastmod>
+    <data>
+        <display>
+        <title>C#和Javascript交互</title>
+        <pubTime>2007-11-22T16:00:00.000Z</pubTime>
+        
+        <tag>C#</tag>
+         
+        <tag>javascript</tag>
+         
+         
+           
+             
+              <breadCrumb title="Javascript" url="http://www.fwhyy.com/categories/Javascript/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2008/10/the-ultimate-solution-checkbox-selection/</loc>
+    <lastmod>2016-09-02T01:14:43.000Z</lastmod>
+    <data>
+        <display>
+        <title>CheckBox全选终极方案</title>
+        <pubTime>2008-10-22T16:00:00.000Z</pubTime>
+        
+        <tag>AspNet</tag>
+         
+        <tag>javascript</tag>
+         
+        <tag>CheckBox</tag>
+         
+        <tag>全选</tag>
+         
+         
+           
+             
+              <breadCrumb title="Javascript" url="http://www.fwhyy.com/categories/Javascript/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2009/05/in-setting-the-jquery-vs2008-intellisense/</loc>
+    <lastmod>2016-09-02T01:14:21.000Z</lastmod>
+    <data>
+        <display>
+        <title>在vs2008中设置jquery智能提示</title>
+        <pubTime>2009-05-19T16:00:00.000Z</pubTime>
+        
+        <tag>DotNet</tag>
+         
+        <tag>JQuery</tag>
+         
+         
+           
+             
+              <breadCrumb title="JQuery" url="http://www.fwhyy.com/categories/JQuery/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2009/06/sql-implementation-group-statistical-query/</loc>
+    <lastmod>2016-09-02T01:14:11.000Z</lastmod>
+    <data>
+        <display>
+        <title>SQL实现分组统计查询（按月、小时分组）</title>
+        <pubTime>2009-06-03T16:00:00.000Z</pubTime>
+        
+        <tag>SqlServer</tag>
+         
+         
+           
+             
+              <breadCrumb title="SqlServer" url="http://www.fwhyy.com/categories/SqlServer/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2009/10/visual-studio-2010-beta-2-download-address-publicly/</loc>
+    <lastmod>2016-09-02T01:13:22.000Z</lastmod>
+    <data>
+        <display>
+        <title>Visual Studio 2010 Beta 2 公开下载地址</title>
+        <pubTime>2009-10-21T16:00:00.000Z</pubTime>
+        
+        <tag>vs2010</tag>
+         
+        <tag>DotNet</tag>
+         
+        <tag>DotNet4</tag>
+         
+        <tag>软件推荐</tag>
+         
+         
+           
+             
+              <breadCrumb title="软件推荐" url="http://www.fwhyy.com/categories/%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2010/02/aspnet-mvc-2-rc-2-release/</loc>
+    <lastmod>2016-09-02T01:12:37.000Z</lastmod>
+    <data>
+        <display>
+        <title>Asp.Net MVC 2 RC 2 发布</title>
+        <pubTime>2010-02-04T16:00:00.000Z</pubTime>
+        
+        <tag>AspNet</tag>
+         
+        <tag>MVC</tag>
+         
+         
+           
+             
+              <breadCrumb title="软件推荐" url="http://www.fwhyy.com/categories/%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2010/02/jquery-1-4-1-vs-intellisense-file-downloads/</loc>
+    <lastmod>2016-09-02T01:12:31.000Z</lastmod>
+    <data>
+        <display>
+        <title>jQuery 1.4.1 VS智能提示文件下载</title>
+        <pubTime>2010-02-08T16:00:00.000Z</pubTime>
+        
+        <tag>软件推荐</tag>
+         
+        <tag>JQuery</tag>
+         
+         
+           
+             
+              <breadCrumb title="软件推荐" url="http://www.fwhyy.com/categories/%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2010/05/using-loadrunner-test-wms/</loc>
+    <lastmod>2016-09-02T01:12:12.000Z</lastmod>
+    <data>
+        <display>
+        <title>使用LoadRunner测试WMS</title>
+        <pubTime>2010-05-20T16:00:00.000Z</pubTime>
+        
+        <tag>LoadRunner</tag>
+         
+        <tag>WMS</tag>
+         
+         
+           
+             
+              <breadCrumb title="软件测试" url="http://www.fwhyy.com/categories/%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2010/06/net-4-the-web-deployment-tool/</loc>
+    <lastmod>2016-09-02T01:12:00.000Z</lastmod>
+    <data>
+        <display>
+        <title>Net4.0—Web部署工具</title>
+        <pubTime>2010-06-02T16:00:00.000Z</pubTime>
+        
+        <tag>AspNet</tag>
+         
+        <tag>部署</tag>
+         
+        <tag>DotNet4</tag>
+         
+         
+           
+             
+              <breadCrumb title="Asp.Net" url="http://www.fwhyy.com/categories/Asp-Net/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2010/07/net-4-aspnet-url-rewriting-in-the-improvement/</loc>
+    <lastmod>2016-09-02T01:11:41.000Z</lastmod>
+    <data>
+        <display>
+        <title>Net4.0—AspNet中URL重写的改进</title>
+        <pubTime>2010-07-26T16:00:00.000Z</pubTime>
+        
+        <tag>AspNet</tag>
+         
+        <tag>DotNet4</tag>
+         
+        <tag>URL重写</tag>
+         
+         
+           
+             
+              <breadCrumb title="Asp.Net" url="http://www.fwhyy.com/categories/Asp-Net/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2010/07/net-4-aspnet-controls-the-hyperlink-in-the-improvement/</loc>
+    <lastmod>2016-09-02T01:11:35.000Z</lastmod>
+    <data>
+        <display>
+        <title>Net4.0—AspNet中的控件HyperLink的改进（支持路由跳转）</title>
+        <pubTime>2010-07-27T16:00:00.000Z</pubTime>
+        
+        <tag>AspNet</tag>
+         
+        <tag>DotNet4</tag>
+         
+        <tag>URL重写</tag>
+         
+         
+           
+             
+              <breadCrumb title="Asp.Net" url="http://www.fwhyy.com/categories/Asp-Net/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2010/07/net-4-purification-processing-of-html/</loc>
+    <lastmod>2016-09-02T01:11:31.000Z</lastmod>
+    <data>
+        <display>
+        <title>Net4.0—对HTML净化的处理</title>
+        <pubTime>2010-07-27T16:00:00.000Z</pubTime>
+        
+        <tag>AspNet</tag>
+         
+        <tag>DotNet4</tag>
+         
+         
+           
+             
+              <breadCrumb title="Asp.Net" url="http://www.fwhyy.com/categories/Asp-Net/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2010/07/net-4-data-bound-controls-the-clientidrowsuffix-properties/</loc>
+    <lastmod>2016-09-02T01:11:25.000Z</lastmod>
+    <data>
+        <display>
+        <title>Net4.0—数据绑定控件（GridView ListView…）中的ClientIDRowSuffix属性</title>
+        <pubTime>2010-07-29T16:00:00.000Z</pubTime>
+        
+        <tag>AspNet</tag>
+         
+        <tag>DotNet4</tag>
+         
+         
+           
+             
+              <breadCrumb title="Asp.Net" url="http://www.fwhyy.com/categories/Asp-Net/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2012/09/c-net-1-0-4-0/</loc>
+    <lastmod>2016-09-02T01:09:19.000Z</lastmod>
+    <data>
+        <display>
+        <title>C# & .NET 1.0-4.0</title>
+        <pubTime>2012-09-01T16:00:00.000Z</pubTime>
+        
+        <tag>C#</tag>
+         
+        <tag>DotNet</tag>
+         
+        <tag>DotNet3.0</tag>
+         
+        <tag>DotNet4</tag>
+         
+         
+           
+             
+              <breadCrumb title="DotNet" url="http://www.fwhyy.com/categories/DotNet/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2012/10/using-sql-prompt5/</loc>
+    <lastmod>2016-09-02T01:09:12.000Z</lastmod>
+    <data>
+        <display>
+        <title>SqlServer开发利器—SQL Prompt5</title>
+        <pubTime>2012-10-10T16:00:00.000Z</pubTime>
+        
+        <tag>SqlServer</tag>
+         
+        <tag>软件推荐</tag>
+         
+         
+           
+             
+              <breadCrumb title="软件推荐" url="http://www.fwhyy.com/categories/%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2012/10/gen-reg-in-vs2010-and-vs2008/</loc>
+    <lastmod>2016-09-02T01:09:06.000Z</lastmod>
+    <data>
+        <display>
+        <title>VS2010和VS2008使用不同编译方式在64位机器生成注册表对比</title>
+        <pubTime>2012-10-13T16:00:00.000Z</pubTime>
+        
+        <tag>C#</tag>
+         
+        <tag>DotNet</tag>
+         
+        <tag>Regedit</tag>
+         
+         
+           
+             
+              <breadCrumb title="DotNet" url="http://www.fwhyy.com/categories/DotNet/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2012/11/using-git-in-vs2010/</loc>
+    <lastmod>2016-09-02T01:08:58.000Z</lastmod>
+    <data>
+        <display>
+        <title>在VS2010中使用Git【图文】</title>
+        <pubTime>2012-11-12T16:00:00.000Z</pubTime>
+        
+        <tag>vs2010</tag>
+         
+        <tag>Git</tag>
+         
+        <tag>Github</tag>
+         
+        <tag>源码管理</tag>
+         
+         
+           
+             
+              <breadCrumb title="Git" url="http://www.fwhyy.com/categories/Git/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2012/11/using-jqueryeasyui-in-aspnet/</loc>
+    <lastmod>2016-09-02T01:08:51.000Z</lastmod>
+    <data>
+        <display>
+        <title>在Asp.Net中使用jQueryEasyUI</title>
+        <pubTime>2012-11-24T16:00:00.000Z</pubTime>
+        
+        <tag>AspNet</tag>
+         
+        <tag>JQuery</tag>
+         
+        <tag>JQueryEasyUI</tag>
+         
+         
+           
+             
+              <breadCrumb title="JQuery" url="http://www.fwhyy.com/categories/JQuery/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2013/11/aspnet-stoped-thread-method/</loc>
+    <lastmod>2016-09-02T01:08:24.000Z</lastmod>
+    <data>
+        <display>
+        <title>Asp.Net正在中止线程引发的问题</title>
+        <pubTime>2013-11-21T16:00:00.000Z</pubTime>
+        
+        <tag>AspNet</tag>
+         
+        <tag>TimeOut</tag>
+         
+         
+           
+             
+              <breadCrumb title="Asp.Net" url="http://www.fwhyy.com/categories/Asp-Net/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2014/02/placeholder-in-ie8/</loc>
+    <lastmod>2016-09-02T01:08:12.000Z</lastmod>
+    <data>
+        <display>
+        <title>placeholder在IE8中兼容性问题解决</title>
+        <pubTime>2014-02-11T16:00:00.000Z</pubTime>
+        
+        <tag>placeholder</tag>
+         
+        <tag>兼容性</tag>
+         
+         
+           
+             
+              <breadCrumb title="JQuery" url="http://www.fwhyy.com/categories/JQuery/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2015/01/linode-vps-trip/</loc>
+    <lastmod>2016-09-02T01:07:51.000Z</lastmod>
+    <data>
+        <display>
+        <title>Linode VPS之旅</title>
+        <pubTime>2015-01-11T16:00:00.000Z</pubTime>
+        
+        <tag>Linode</tag>
+         
+        <tag>VPS</tag>
+         
+        <tag>博客</tag>
+         
+         
+           
+             
+              <breadCrumb title="心情日记" url="http://www.fwhyy.com/categories/%E5%BF%83%E6%83%85%E6%97%A5%E8%AE%B0/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2015/01/contractname-microsoft-visualstudio-text-itextdocumentfactoryservice/</loc>
+    <lastmod>2016-09-02T01:07:41.000Z</lastmod>
+    <data>
+        <display>
+        <title>VS2012在安装VS2013后打开文件报错，未找到与约束…</title>
+        <pubTime>2015-01-22T16:00:00.000Z</pubTime>
+        
+        <tag>VS2012</tag>
+         
+        <tag>VS2013</tag>
+         
+         
+           
+             
+              <breadCrumb title="软件使用" url="http://www.fwhyy.com/categories/%E8%BD%AF%E4%BB%B6%E4%BD%BF%E7%94%A8/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2015/05/using-csharp-check-file-in-gridfs/</loc>
+    <lastmod>2016-09-02T01:07:25.000Z</lastmod>
+    <data>
+        <display>
+        <title>C#用md5判断GridFS中文件是否存在</title>
+        <pubTime>2015-05-20T16:00:00.000Z</pubTime>
+        
+        <tag>MongoDB</tag>
+         
+        <tag>GridFS</tag>
+         
+         
+           
+             
+              <breadCrumb title="MongoDB" url="http://www.fwhyy.com/categories/MongoDB/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2015/06/office-web-app-2013-preview-in-external/</loc>
+    <lastmod>2016-09-02T01:07:15.000Z</lastmod>
+    <data>
+        <display>
+        <title>Office Web App 2013发布在外网进行预览</title>
+        <pubTime>2015-06-19T16:00:00.000Z</pubTime>
+        
+        <tag>Web API</tag>
+         
+        <tag>Office Web App</tag>
+         
+         
+           
+             
+              <breadCrumb title="Office Web App" url="http://www.fwhyy.com/categories/Office-Web-App/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2015/08/stream-aspnet/</loc>
+    <lastmod>2016-09-02T01:07:07.000Z</lastmod>
+    <data>
+        <display>
+        <title>开源上传组件stream的.Net后台实现</title>
+        <pubTime>2015-08-12T16:00:00.000Z</pubTime>
+        
+        <tag>C#</tag>
+         
+        <tag>DotNet</tag>
+         
+        <tag>stream</tag>
+         
+         
+           
+             
+              <breadCrumb title="Asp.Net" url="http://www.fwhyy.com/categories/Asp-Net/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2015/08/mongodb-access-to-the-csharp-of-the-cluster/</loc>
+    <lastmod>2016-09-02T01:06:38.000Z</lastmod>
+    <data>
+        <display>
+        <title>C#访问群集部署时的MongoDB</title>
+        <pubTime>2015-08-12T16:00:00.000Z</pubTime>
+        
+        <tag>C#</tag>
+         
+        <tag>MongoDB</tag>
+         
+         
+           
+             
+              <breadCrumb title="MongoDB" url="http://www.fwhyy.com/categories/MongoDB/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2015/06/use-markdown-in-wordpress/</loc>
+    <lastmod>2016-09-02T01:06:19.000Z</lastmod>
+    <data>
+        <display>
+        <title>WordPress使用Markdown</title>
+        <pubTime>2015-06-21T16:00:00.000Z</pubTime>
+        
+        <tag>Markdown</tag>
+         
+        <tag>Wordprss</tag>
+         
+         
+           
+             
+              <breadCrumb title="WordPress" url="http://www.fwhyy.com/categories/WordPress/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2016/09/Build-Ubuntu12-04-in-Linode-on-Hexo/</loc>
+    <lastmod>2016-09-01T22:52:21.000Z</lastmod>
+    <data>
+        <display>
+        <title>在Linode上的Ubuntu12.04中搭建Hexo</title>
+        <pubTime>2016-09-01T22:42:53.000Z</pubTime>
+        
+        <tag>Linode</tag>
+         
+        <tag>Hexo</tag>
+         
+        <tag>Ubuntu</tag>
+         
+         
+           
+             
+              <breadCrumb title="Hexo" url="http://www.fwhyy.com/categories/Hexo/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2016/03/csharp-with-signature-dll-crack/</loc>
+    <lastmod>2016-09-01T05:39:52.000Z</lastmod>
+    <data>
+        <display>
+        <title>C# 带签名dll破解</title>
+        <pubTime>2016-03-08T16:00:00.000Z</pubTime>
+        
+        <tag>C#</tag>
+         
+        <tag>ildasm</tag>
+         
+        <tag>破解</tag>
+         
+         
+           
+             
+              <breadCrumb title="C#" url="http://www.fwhyy.com/categories/C/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2015/07/read-construction-method/</loc>
+    <lastmod>2016-09-01T05:29:44.000Z</lastmod>
+    <data>
+        <display>
+        <title>读《构建之法》</title>
+        <pubTime>2015-07-09T16:00:00.000Z</pubTime>
+        
+        <tag>构建之法</tag>
+         
+        <tag>软件工程</tag>
+         
+         
+           
+             
+              <breadCrumb title="读书笔记" url="http://www.fwhyy.com/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2016/01/word-owa-online-editor-from-gridfs/</loc>
+    <lastmod>2016-08-31T15:52:11.000Z</lastmod>
+    <data>
+        <display>
+        <title>OWA实现Word在线编辑（以GridFs存储文件）</title>
+        <pubTime>2016-01-25T16:00:00.000Z</pubTime>
+        
+        <tag>GridFS</tag>
+         
+        <tag>OWA</tag>
+         
+         
+           
+             
+              <breadCrumb title="Office Web App" url="http://www.fwhyy.com/categories/Office-Web-App/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2013/05/octopress-blog-setting/</loc>
+    <lastmod>2016-08-31T15:29:52.000Z</lastmod>
+    <data>
+        <display>
+        <title>Octopress博客设置</title>
+        <pubTime>2013-05-30T16:00:00.000Z</pubTime>
+        
+        <tag>Octopress</tag>
+         
+         
+           
+             
+              <breadCrumb title="Octopress" url="http://www.fwhyy.com/categories/Octopress/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2013/09/using-htmlagilitypack/</loc>
+    <lastmod>2016-08-31T15:29:43.000Z</lastmod>
+    <data>
+        <display>
+        <title>HTML解析组件HtmlAgilityPack使用</title>
+        <pubTime>2013-09-14T16:00:00.000Z</pubTime>
+        
+        <tag>HtmlAgilityPack</tag>
+         
+        <tag>HTML解析</tag>
+         
+         
+           
+             
+              <breadCrumb title="Asp.Net" url="http://www.fwhyy.com/categories/Asp-Net/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2015/06/office-web-app-preview-remove-top-menu/</loc>
+    <lastmod>2016-08-31T15:29:12.000Z</lastmod>
+    <data>
+        <display>
+        <title>Office Web APP预览去掉顶部菜单</title>
+        <pubTime>2015-06-18T16:00:00.000Z</pubTime>
+        
+        <tag>C#</tag>
+         
+        <tag>Office Web App</tag>
+         
+         
+           
+             
+              <breadCrumb title="Office Web App" url="http://www.fwhyy.com/categories/Office-Web-App/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2015/09/deploy-webapi-in-windows-server2008/</loc>
+    <lastmod>2016-08-31T15:28:48.000Z</lastmod>
+    <data>
+        <display>
+        <title>在Windows Server2008R2中部署WebAPI</title>
+        <pubTime>2015-09-15T16:00:00.000Z</pubTime>
+        
+        <tag>AspNet</tag>
+         
+        <tag>MVC</tag>
+         
+        <tag>Web API</tag>
+         
+         
+           
+             
+              <breadCrumb title="Asp.Net MVC" url="http://www.fwhyy.com/categories/Asp-Net-MVC/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2015/12/use-fancybox/</loc>
+    <lastmod>2016-08-31T15:28:31.000Z</lastmod>
+    <data>
+        <display>
+        <title>使用fancybox</title>
+        <pubTime>2015-12-01T16:00:00.000Z</pubTime>
+        
+        <tag>javascript</tag>
+         
+        <tag>JQuery</tag>
+         
+        <tag>fancybox</tag>
+         
+         
+           
+             
+              <breadCrumb title="Javascript" url="http://www.fwhyy.com/categories/Javascript/"/>
+          
+             
+              <breadCrumb title="JQuery" url="http://www.fwhyy.com/categories/Javascript/JQuery/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2015/12/aspnet-webapi-shi-pin-miao-bo/</loc>
+    <lastmod>2016-08-31T15:28:23.000Z</lastmod>
+    <data>
+        <display>
+        <title>Asp.Net WebAPI 视频秒播</title>
+        <pubTime>2015-12-11T16:00:00.000Z</pubTime>
+        
+        <tag>WebAPI</tag>
+         
+         
+           
+             
+              <breadCrumb title="Asp.Net MVC" url="http://www.fwhyy.com/categories/Asp-Net-MVC/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2015/02/2014-year-summary/</loc>
+    <lastmod>2016-08-31T14:29:27.000Z</lastmod>
+    <data>
+        <display>
+        <title>2014年总结</title>
+        <pubTime>2015-02-18T16:00:00.000Z</pubTime>
+        
+        <tag>总结</tag>
+         
+        <tag>2014</tag>
+         
+         
+           
+             
+              <breadCrumb title="经验总结" url="http://www.fwhyy.com/categories/%E7%BB%8F%E9%AA%8C%E6%80%BB%E7%BB%93/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2015/02/git-workflow/</loc>
+    <lastmod>2016-08-31T14:22:32.000Z</lastmod>
+    <data>
+        <display>
+        <title>Git工作流程</title>
+        <pubTime>2015-02-14T16:00:00.000Z</pubTime>
+        
+        <tag>Git</tag>
+         
+         
+           
+             
+              <breadCrumb title="Git" url="http://www.fwhyy.com/categories/Git/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2014/03/reading-pomodoro-technique-illustrated/</loc>
+    <lastmod>2016-08-31T14:14:58.000Z</lastmod>
+    <data>
+        <display>
+        <title>读《番茄工作法图解》</title>
+        <pubTime>2014-03-22T16:00:00.000Z</pubTime>
+        
+        <tag>读书笔记</tag>
+         
+        <tag>番茄工作法</tag>
+         
+         
+           
+             
+              <breadCrumb title="读书笔记" url="http://www.fwhyy.com/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2014/02/install-git-in-ubuntu12-04/</loc>
+    <lastmod>2016-08-31T14:11:29.000Z</lastmod>
+    <data>
+        <display>
+        <title>Ubuntu12.04中安装Git</title>
+        <pubTime>2014-02-22T16:00:00.000Z</pubTime>
+        
+        <tag>Ubuntu</tag>
+         
+        <tag>Git</tag>
+         
+        <tag>Linux</tag>
+         
+         
+           
+             
+              <breadCrumb title="Git" url="http://www.fwhyy.com/categories/Git/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2014/02/2013-year-summary/</loc>
+    <lastmod>2016-08-31T14:10:11.000Z</lastmod>
+    <data>
+        <display>
+        <title>2013年总结</title>
+        <pubTime>2014-02-21T16:00:00.000Z</pubTime>
+        
+        <tag>总结</tag>
+         
+        <tag>2013</tag>
+         
+         
+           
+             
+              <breadCrumb title="心情日记" url="http://www.fwhyy.com/categories/%E5%BF%83%E6%83%85%E6%97%A5%E8%AE%B0/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2014/01/buy-car/</loc>
+    <lastmod>2016-08-31T14:05:55.000Z</lastmod>
+    <data>
+        <display>
+        <title>买车记</title>
+        <pubTime>2014-01-19T16:00:00.000Z</pubTime>
+        
+        <tag>买车</tag>
+         
+         
+           
+             
+              <breadCrumb title="心情日记" url="http://www.fwhyy.com/categories/%E5%BF%83%E6%83%85%E6%97%A5%E8%AE%B0/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2014/01/connect-to-rtx-server-application-the-sdk-to-connect-sdk-server-error-problem-solution/</loc>
+    <lastmod>2016-08-31T14:03:14.000Z</lastmod>
+    <data>
+        <display>
+        <title>连接RTX服务器出现“应用SDK:连接SDK服务器错误”问题解决</title>
+        <pubTime>2014-01-08T16:00:00.000Z</pubTime>
+        
+        <tag>错误解决</tag>
+         
+        <tag>RTX</tag>
+         
+         
+           
+             
+              <breadCrumb title="RTX" url="http://www.fwhyy.com/categories/RTX/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2013/09/sqlserver2008r2-windows-login-18456-error/</loc>
+    <lastmod>2016-08-31T13:54:37.000Z</lastmod>
+    <data>
+        <display>
+        <title>SqlServer2008R2用Windows身份登录18456错误解决</title>
+        <pubTime>2013-09-06T16:00:00.000Z</pubTime>
+        
+        <tag>SqlServer</tag>
+         
+        <tag>sqlserver2008</tag>
+         
+        <tag>错误解决</tag>
+         
+         
+           
+             
+              <breadCrumb title="SqlServer" url="http://www.fwhyy.com/categories/SqlServer/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2013/08/how-to-use-exist-octopress-in-windows/</loc>
+    <lastmod>2016-08-31T13:52:51.000Z</lastmod>
+    <data>
+        <display>
+        <title>Windows中搭建已存在的Octopress环境</title>
+        <pubTime>2013-08-14T16:00:00.000Z</pubTime>
+        
+        <tag>Octopress</tag>
+         
+         
+           
+             
+              <breadCrumb title="Octopress" url="http://www.fwhyy.com/categories/Octopress/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2013/05/how-to-crate-octopress-blog-in-windows/</loc>
+    <lastmod>2016-08-31T13:41:24.000Z</lastmod>
+    <data>
+        <display>
+        <title>Windows下搭建Octopress博客</title>
+        <pubTime>2013-05-26T16:00:00.000Z</pubTime>
+        
+        <tag>Octopress</tag>
+         
+         
+           
+             
+              <breadCrumb title="Octopress" url="http://www.fwhyy.com/categories/Octopress/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2013/04/jquery-knowledge-summary/</loc>
+    <lastmod>2016-08-30T23:00:42.000Z</lastmod>
+    <data>
+        <display>
+        <title>jQuery知识总结</title>
+        <pubTime>2013-04-12T16:00:00.000Z</pubTime>
+        
+        <tag>JQuery</tag>
+         
+         
+           
+             
+              <breadCrumb title="JQuery" url="http://www.fwhyy.com/categories/JQuery/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2013/03/iis7-upload-issue/</loc>
+    <lastmod>2016-08-30T22:48:30.000Z</lastmod>
+    <data>
+        <display>
+        <title>IIS7上传出现乱码问题解决</title>
+        <pubTime>2013-03-21T16:00:00.000Z</pubTime>
+        
+        <tag>IIS7</tag>
+         
+        <tag>上传</tag>
+         
+        <tag>乱码</tag>
+         
+         
+           
+             
+              <breadCrumb title="Asp.Net" url="http://www.fwhyy.com/categories/Asp-Net/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2013/03/sql-query-for-xml-path/</loc>
+    <lastmod>2016-08-30T22:46:08.000Z</lastmod>
+    <data>
+        <display>
+        <title>SQL查询-将列转换成字符串（for xml path）</title>
+        <pubTime>2013-03-18T16:00:00.000Z</pubTime>
+        
+        <tag>SqlServer</tag>
+         
+        <tag>Sql</tag>
+         
+        <tag>For Xml</tag>
+         
+         
+           
+             
+              <breadCrumb title="SqlServer" url="http://www.fwhyy.com/categories/SqlServer/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2013/02/read-facebook/</loc>
+    <lastmod>2016-08-30T22:44:08.000Z</lastmod>
+    <data>
+        <display>
+        <title>读《打造FaceBook》</title>
+        <pubTime>2013-02-26T16:00:00.000Z</pubTime>
+        
+        <tag>读书笔记</tag>
+         
+        <tag>FaceBook</tag>
+         
+         
+           
+             
+              <breadCrumb title="读书笔记" url="http://www.fwhyy.com/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2007/11/unable-to-start-debugging-on-the-web-server-do-not-have-permission-to-debug-the-program-problem-solving/</loc>
+    <lastmod>2016-08-30T22:41:11.000Z</lastmod>
+    <data>
+        <display>
+        <title>“无法在web服务器上启动调试,不具备调试此程序的权限” 问题解决</title>
+        <pubTime>2007-11-27T16:00:00.000Z</pubTime>
+        
+        <tag>AspNet</tag>
+         
+        <tag>错误解决</tag>
+         
+         
+           
+             
+              <breadCrumb title="Asp.Net" url="http://www.fwhyy.com/categories/Asp-Net/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2007/11/aspnet-ajax-calendar-control/</loc>
+    <lastmod>2016-08-30T22:41:03.000Z</lastmod>
+    <data>
+        <display>
+        <title>Asp.Net Ajax—Calendar控件使用</title>
+        <pubTime>2007-11-04T16:00:00.000Z</pubTime>
+        
+        <tag>AspNet</tag>
+         
+        <tag>Ajax</tag>
+         
+         
+           
+             
+              <breadCrumb title="Asp.Net Ajax" url="http://www.fwhyy.com/categories/Asp-Net-Ajax/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2007/10/the-first-job-thoughts/</loc>
+    <lastmod>2016-08-30T22:40:57.000Z</lastmod>
+    <data>
+        <display>
+        <title>the-first-job-thoughts</title>
+        <pubTime>2007-10-16T16:00:00.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="心情日记" url="http://www.fwhyy.com/categories/%E5%BF%83%E6%83%85%E6%97%A5%E8%AE%B0/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2007/09/asp-net-ajax-popupcontrol/</loc>
+    <lastmod>2016-08-30T22:40:55.000Z</lastmod>
+    <data>
+        <display>
+        <title>asp-net-ajax-popupcontrol</title>
+        <pubTime>2007-09-18T16:00:00.000Z</pubTime>
+        
+        <tag>AspNet</tag>
+         
+        <tag>Ajax</tag>
+         
+         
+           
+             
+              <breadCrumb title="Asp.Net Ajax" url="http://www.fwhyy.com/categories/Asp-Net-Ajax/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2007/09/soon-to-be-a-programmer/</loc>
+    <lastmod>2016-08-30T22:40:52.000Z</lastmod>
+    <data>
+        <display>
+        <title>即将成为一名程序员</title>
+        <pubTime>2007-09-15T16:00:00.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="心情日记" url="http://www.fwhyy.com/categories/%E5%BF%83%E6%83%85%E6%97%A5%E8%AE%B0/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2007/08/dotnet-3-0-framework-introduce/</loc>
+    <lastmod>2016-08-30T22:40:45.000Z</lastmod>
+    <data>
+        <display>
+        <title>DotNet 3.0 框架介绍</title>
+        <pubTime>2007-08-09T16:00:00.000Z</pubTime>
+        
+        <tag>DotNet</tag>
+         
+        <tag>DotNet3.0</tag>
+         
+         
+           
+             
+              <breadCrumb title="DotNet" url="http://www.fwhyy.com/categories/DotNet/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2007/06/to-graduate/</loc>
+    <lastmod>2016-08-30T22:40:37.000Z</lastmod>
+    <data>
+        <display>
+        <title>要毕业了</title>
+        <pubTime>2007-06-25T16:00:00.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="心情日记" url="http://www.fwhyy.com/categories/%E5%BF%83%E6%83%85%E6%97%A5%E8%AE%B0/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2007/06/graduation-reply/</loc>
+    <lastmod>2016-08-30T22:40:34.000Z</lastmod>
+    <data>
+        <display>
+        <title>毕业答辩</title>
+        <pubTime>2007-06-22T16:00:00.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="心情日记" url="http://www.fwhyy.com/categories/%E5%BF%83%E6%83%85%E6%97%A5%E8%AE%B0/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2007/05/commonly-used-some-regular-expressions/</loc>
+    <lastmod>2016-08-30T22:40:28.000Z</lastmod>
+    <data>
+        <display>
+        <title>常用的一些正则表达式</title>
+        <pubTime>2007-05-07T16:00:00.000Z</pubTime>
+        
+        <tag>javascript</tag>
+         
+        <tag>正则</tag>
+         
+         
+           
+             
+              <breadCrumb title="Javascript" url="http://www.fwhyy.com/categories/Javascript/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2007/03/yao-ming-is-still-the-rockets-core/</loc>
+    <lastmod>2016-08-30T22:40:22.000Z</lastmod>
+    <data>
+        <display>
+        <title>姚明依然是火箭核心</title>
+        <pubTime>2007-03-11T16:00:00.000Z</pubTime>
+        
+        <tag>NBA</tag>
+         
+        <tag>篮球</tag>
+         
+         
+           
+             
+              <breadCrumb title="篮球" url="http://www.fwhyy.com/categories/%E7%AF%AE%E7%90%83/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2007/03/the-first-interview/</loc>
+    <lastmod>2016-08-30T22:40:19.000Z</lastmod>
+    <data>
+        <display>
+        <title>第一次面试</title>
+        <pubTime>2007-03-06T16:00:00.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="心情日记" url="http://www.fwhyy.com/categories/%E5%BF%83%E6%83%85%E6%97%A5%E8%AE%B0/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2006/12/asp-net-performance-issues/</loc>
+    <lastmod>2016-08-30T22:40:11.000Z</lastmod>
+    <data>
+        <display>
+        <title>Asp.Net的性能问题</title>
+        <pubTime>2006-12-22T16:00:00.000Z</pubTime>
+        
+        <tag>AspNet</tag>
+         
+        <tag>性能</tag>
+         
+         
+           
+             
+              <breadCrumb title="Asp.Net" url="http://www.fwhyy.com/categories/Asp-Net/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2006/12/programmers-not-really-35/</loc>
+    <lastmod>2016-08-30T22:39:06.000Z</lastmod>
+    <data>
+        <display>
+        <title>程序员—真的过不了35吗？</title>
+        <pubTime>2006-12-08T16:00:00.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="随笔杂谈" url="http://www.fwhyy.com/categories/%E9%9A%8F%E7%AC%94%E6%9D%82%E8%B0%88/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2007/04/07-guangdong-job-experience-1/</loc>
+    <lastmod>2016-08-30T22:38:53.000Z</lastmod>
+    <data>
+        <display>
+        <title>07广东求职经历一</title>
+        <pubTime>2007-04-05T16:00:00.000Z</pubTime>
+        
+        <tag>找工作</tag>
+         
+         
+           
+             
+              <breadCrumb title="心情日记" url="http://www.fwhyy.com/categories/%E5%BF%83%E6%83%85%E6%97%A5%E8%AE%B0/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2007/05/07-guangdong-job-experience-2/</loc>
+    <lastmod>2016-08-30T22:38:45.000Z</lastmod>
+    <data>
+        <display>
+        <title>07广东求职经历二</title>
+        <pubTime>2007-05-03T16:00:00.000Z</pubTime>
+        
+        <tag>找工作</tag>
+         
+         
+           
+             
+              <breadCrumb title="心情日记" url="http://www.fwhyy.com/categories/%E5%BF%83%E6%83%85%E6%97%A5%E8%AE%B0/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2007/09/a-little-understanding-of-design-patterns/</loc>
+    <lastmod>2016-08-30T22:37:55.000Z</lastmod>
+    <data>
+        <display>
+        <title>对设计模式的一点理解</title>
+        <pubTime>2007-09-07T16:00:00.000Z</pubTime>
+        
+        <tag>设计模式</tag>
+         
+         
+           
+             
+              <breadCrumb title="设计模式" url="http://www.fwhyy.com/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2013/07/adjust-disk-c-capacity-in-windows7/</loc>
+    <lastmod>2016-08-30T22:37:20.000Z</lastmod>
+    <data>
+        <display>
+        <title>Windows7给C盘扩容</title>
+        <pubTime>2013-07-12T16:00:00.000Z</pubTime>
+        
+        <tag>小技巧</tag>
+         
+         
+           
+             
+              <breadCrumb title="心情日记" url="http://www.fwhyy.com/categories/%E5%BF%83%E6%83%85%E6%97%A5%E8%AE%B0/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2008/03/after-watching-goodbye-gangster-feeling/</loc>
+    <lastmod>2016-08-30T22:37:01.000Z</lastmod>
+    <data>
+        <display>
+        <title>看完《再见古惑仔》的一点感想</title>
+        <pubTime>2008-03-05T16:00:00.000Z</pubTime>
+        
+        <tag>日记</tag>
+         
+         
+           
+             
+              <breadCrumb title="心情日记" url="http://www.fwhyy.com/categories/%E5%BF%83%E6%83%85%E6%97%A5%E8%AE%B0/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2007/07/ajax-actually-not-difficult/</loc>
+    <lastmod>2016-08-30T22:36:48.000Z</lastmod>
+    <data>
+        <display>
+        <title>Ajax,其实并不难</title>
+        <pubTime>2007-07-22T16:00:00.000Z</pubTime>
+        
+        <tag>AspNet</tag>
+         
+        <tag>Ajax</tag>
+         
+         
+           
+             
+              <breadCrumb title="Asp.Net Ajax" url="http://www.fwhyy.com/categories/Asp-Net-Ajax/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2007/08/ajaxcontroltoolkit-installing/</loc>
+    <lastmod>2016-08-30T22:36:18.000Z</lastmod>
+    <data>
+        <display>
+        <title>AjaxControlToolkit安装&下载</title>
+        <pubTime>2007-08-02T16:00:00.000Z</pubTime>
+        
+        <tag>AspNet</tag>
+         
+        <tag>Ajax</tag>
+         
+         
+           
+             
+              <breadCrumb title="Asp.Net Ajax" url="http://www.fwhyy.com/categories/Asp-Net-Ajax/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2007/06/almost-to-be-deceived/</loc>
+    <lastmod>2016-08-30T22:35:53.000Z</lastmod>
+    <data>
+        <display>
+        <title>差点受骗了</title>
+        <pubTime>2007-06-09T16:00:00.000Z</pubTime>
+        
+        <tag>日记</tag>
+         
+         
+           
+             
+              <breadCrumb title="心情日记" url="http://www.fwhyy.com/categories/%E5%BF%83%E6%83%85%E6%97%A5%E8%AE%B0/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2013/01/2012-year-summary/</loc>
+    <lastmod>2016-08-30T22:35:11.000Z</lastmod>
+    <data>
+        <display>
+        <title>2012年总结</title>
+        <pubTime>2013-01-15T16:00:00.000Z</pubTime>
+        
+        <tag>总结</tag>
+         
+         
+           
+             
+              <breadCrumb title="心情日记" url="http://www.fwhyy.com/categories/%E5%BF%83%E6%83%85%E6%97%A5%E8%AE%B0/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2013/01/wordpress-install-theme-error/</loc>
+    <lastmod>2016-08-30T22:31:53.000Z</lastmod>
+    <data>
+        <display>
+        <title>WordPress安装主题出错解决</title>
+        <pubTime>2013-01-06T16:00:00.000Z</pubTime>
+        
+        <tag>错误解决</tag>
+         
+        <tag>WordPress</tag>
+         
+        <tag>主题</tag>
+         
+         
+           
+             
+              <breadCrumb title="WordPress" url="http://www.fwhyy.com/categories/WordPress/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2013/01/unenabled-wordpress-plug-in-for-update-database/</loc>
+    <lastmod>2016-08-30T22:29:33.000Z</lastmod>
+    <data>
+        <display>
+        <title>通过修改数据库的方式禁用WordPress插件</title>
+        <pubTime>2013-01-03T16:00:00.000Z</pubTime>
+        
+        <tag>WordPress</tag>
+         
+         
+           
+             
+              <breadCrumb title="WordPress" url="http://www.fwhyy.com/categories/WordPress/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2012/10/how-to-improve-the-efficiency-of-development/</loc>
+    <lastmod>2016-08-30T15:00:34.000Z</lastmod>
+    <data>
+        <display>
+        <title>怎样提高开发效率</title>
+        <pubTime>2012-10-20T16:00:00.000Z</pubTime>
+        
+        <tag>经验总结</tag>
+         
+         
+           
+             
+              <breadCrumb title="经验总结" url="http://www.fwhyy.com/categories/%E7%BB%8F%E9%AA%8C%E6%80%BB%E7%BB%93/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2012/02/use-git-manage-github-project-on-windows/</loc>
+    <lastmod>2016-08-30T14:45:49.000Z</lastmod>
+    <data>
+        <display>
+        <title>Windows 下使用Git管理Github项目</title>
+        <pubTime>2012-02-05T16:00:00.000Z</pubTime>
+        
+        <tag>Git</tag>
+         
+        <tag>Github</tag>
+         
+         
+           
+             
+              <breadCrumb title="Git" url="http://www.fwhyy.com/categories/Git/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2012/03/wordpress-security-issues/</loc>
+    <lastmod>2016-08-30T14:44:56.000Z</lastmod>
+    <data>
+        <display>
+        <title>WordPress安全问题</title>
+        <pubTime>2012-03-26T16:00:00.000Z</pubTime>
+        
+        <tag>WordPress</tag>
+         
+        <tag>godaddy</tag>
+         
+        <tag>安全</tag>
+         
+         
+           
+             
+              <breadCrumb title="WordPress" url="http://www.fwhyy.com/categories/WordPress/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2012/07/set-tp-link/</loc>
+    <lastmod>2016-08-30T14:18:38.000Z</lastmod>
+    <data>
+        <display>
+        <title>TP-Link无线路由的设置</title>
+        <pubTime>2012-07-24T16:00:00.000Z</pubTime>
+        
+        <tag>TP-Link</tag>
+         
+        <tag>无线</tag>
+         
+         
+           
+             
+              <breadCrumb title="软件使用" url="http://www.fwhyy.com/categories/%E8%BD%AF%E4%BB%B6%E4%BD%BF%E7%94%A8/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2012/05/clear-code-reading-notes-two/</loc>
+    <lastmod>2016-08-30T14:16:46.000Z</lastmod>
+    <data>
+        <display>
+        <title>《代码整洁之道》读书笔记(下)</title>
+        <pubTime>2012-05-15T16:00:00.000Z</pubTime>
+        
+        <tag>整洁代码</tag>
+         
+        <tag>读书笔记</tag>
+         
+         
+           
+             
+              <breadCrumb title="读书笔记" url="http://www.fwhyy.com/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2012/05/to-save-live-writer-the-default-directory-is-mapped-to-the-baidu-net-disk/</loc>
+    <lastmod>2016-08-30T14:12:11.000Z</lastmod>
+    <data>
+        <display>
+        <title>将Live Writer默认保存目录映射到百度网盘</title>
+        <pubTime>2012-05-12T16:00:00.000Z</pubTime>
+        
+        <tag>小技巧</tag>
+         
+        <tag>mklink</tag>
+         
+        <tag>百度网盘</tag>
+         
+         
+           
+             
+              <breadCrumb title="软件使用" url="http://www.fwhyy.com/categories/%E8%BD%AF%E4%BB%B6%E4%BD%BF%E7%94%A8/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2012/05/clear-code-reading-notes-one/</loc>
+    <lastmod>2016-08-30T14:09:49.000Z</lastmod>
+    <data>
+        <display>
+        <title>《代码整洁之道》读书笔记(上)</title>
+        <pubTime>2012-05-12T16:00:00.000Z</pubTime>
+        
+        <tag>整洁代码</tag>
+         
+        <tag>读书笔记</tag>
+         
+         
+           
+             
+              <breadCrumb title="读书笔记" url="http://www.fwhyy.com/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2012/05/use-baidu-cloud-sync-onenote/</loc>
+    <lastmod>2016-08-30T14:06:25.000Z</lastmod>
+    <data>
+        <display>
+        <title>使用百度网盘同步OneNote</title>
+        <pubTime>2012-05-09T16:00:00.000Z</pubTime>
+        
+        <tag>小技巧</tag>
+         
+        <tag>OneNote</tag>
+         
+        <tag>网盘</tag>
+         
+         
+           
+             
+              <breadCrumb title="软件使用" url="http://www.fwhyy.com/categories/%E8%BD%AF%E4%BB%B6%E4%BD%BF%E7%94%A8/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2012/05/the-may-day-laundry-list-decoration/</loc>
+    <lastmod>2016-08-30T14:05:40.000Z</lastmod>
+    <data>
+        <display>
+        <title>五一流水账–装修</title>
+        <pubTime>2012-05-01T16:00:00.000Z</pubTime>
+        
+        <tag>装修</tag>
+         
+         
+           
+             
+              <breadCrumb title="心情日记" url="http://www.fwhyy.com/categories/%E5%BF%83%E6%83%85%E6%97%A5%E8%AE%B0/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2012/04/talk-about-performance-appraisal/</loc>
+    <lastmod>2016-08-30T14:03:28.000Z</lastmod>
+    <data>
+        <display>
+        <title>谈“绩效考核”</title>
+        <pubTime>2012-04-22T16:00:00.000Z</pubTime>
+        
+        <tag>绩效</tag>
+         
+         
+           
+             
+              <breadCrumb title="经验总结" url="http://www.fwhyy.com/categories/%E7%BB%8F%E9%AA%8C%E6%80%BB%E7%BB%93/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2012/04/the-replace-method-in-js/</loc>
+    <lastmod>2016-08-30T14:00:51.000Z</lastmod>
+    <data>
+        <display>
+        <title>JS中的Replace方法</title>
+        <pubTime>2012-04-15T16:00:00.000Z</pubTime>
+        
+        <tag>javascript</tag>
+         
+         
+           
+             
+              <breadCrumb title="Javascript" url="http://www.fwhyy.com/categories/Javascript/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2012/04/wordpress-upgrade-is-very-simple/</loc>
+    <lastmod>2016-08-30T13:58:17.000Z</lastmod>
+    <data>
+        <display>
+        <title>WordPress升级其实很简单</title>
+        <pubTime>2012-03-31T16:00:00.000Z</pubTime>
+        
+        <tag>WordPress</tag>
+         
+         
+           
+             
+              <breadCrumb title="WordPress" url="http://www.fwhyy.com/categories/WordPress/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2012/03/take-the-first-initials-method-of-csharp-and-vbnet/</loc>
+    <lastmod>2016-08-30T13:54:39.000Z</lastmod>
+    <data>
+        <display>
+        <title>取汉子拼音首字母的C#和VB.Net方法</title>
+        <pubTime>2012-03-03T16:00:00.000Z</pubTime>
+        
+        <tag>小技巧</tag>
+         
+        <tag>C#</tag>
+         
+         
+           
+             
+              <breadCrumb title="C#" url="http://www.fwhyy.com/categories/C/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2012/01/summary-in-2011/</loc>
+    <lastmod>2016-08-30T13:42:35.000Z</lastmod>
+    <data>
+        <display>
+        <title>2011年总结</title>
+        <pubTime>2012-01-13T16:00:00.000Z</pubTime>
+        
+        <tag>总结</tag>
+         
+         
+           
+             
+              <breadCrumb title="心情日记" url="http://www.fwhyy.com/categories/%E5%BF%83%E6%83%85%E6%97%A5%E8%AE%B0/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2011/11/mongo-service-startup/</loc>
+    <lastmod>2016-08-29T23:38:54.000Z</lastmod>
+    <data>
+        <display>
+        <title>MongoDB(4)–MongoDB服务的启动</title>
+        <pubTime>2011-11-02T16:00:00.000Z</pubTime>
+        
+        <tag>MongoDB</tag>
+         
+         
+           
+             
+              <breadCrumb title="NoSQL" url="http://www.fwhyy.com/categories/NoSQL/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2011/11/the-honeymoon-8/</loc>
+    <lastmod>2016-08-29T23:16:50.000Z</lastmod>
+    <data>
+        <display>
+        <title>蜜月8–插曲之深圳</title>
+        <pubTime>2011-11-08T16:00:00.000Z</pubTime>
+        
+        <tag>结婚</tag>
+         
+        <tag>蜜月</tag>
+         
+         
+           
+             
+              <breadCrumb title="心情日记" url="http://www.fwhyy.com/categories/%E5%BF%83%E6%83%85%E6%97%A5%E8%AE%B0/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2011/11/the-honeymoon-7/</loc>
+    <lastmod>2016-08-29T22:55:50.000Z</lastmod>
+    <data>
+        <display>
+        <title>蜜月7–尾声之广州</title>
+        <pubTime>2011-11-08T16:00:00.000Z</pubTime>
+        
+        <tag>结婚</tag>
+         
+        <tag>蜜月</tag>
+         
+         
+           
+             
+              <breadCrumb title="心情日记" url="http://www.fwhyy.com/categories/%E5%BF%83%E6%83%85%E6%97%A5%E8%AE%B0/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2011/11/the-honeymoon-6/</loc>
+    <lastmod>2016-08-29T22:50:28.000Z</lastmod>
+    <data>
+        <display>
+        <title>蜜月6–三亚之亚龙湾</title>
+        <pubTime>2011-11-07T16:00:00.000Z</pubTime>
+        
+        <tag>结婚</tag>
+         
+        <tag>蜜月</tag>
+         
+         
+           
+             
+              <breadCrumb title="心情日记" url="http://www.fwhyy.com/categories/%E5%BF%83%E6%83%85%E6%97%A5%E8%AE%B0/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2011/11/the-honeymoon-5/</loc>
+    <lastmod>2016-08-29T22:46:18.000Z</lastmod>
+    <data>
+        <display>
+        <title>蜜月5–三亚之南田温泉</title>
+        <pubTime>2011-11-07T16:00:00.000Z</pubTime>
+        
+        <tag>结婚</tag>
+         
+        <tag>蜜月</tag>
+         
+         
+           
+             
+              <breadCrumb title="心情日记" url="http://www.fwhyy.com/categories/%E5%BF%83%E6%83%85%E6%97%A5%E8%AE%B0/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2011/11/the-honeymoon-4/</loc>
+    <lastmod>2016-08-29T14:31:33.000Z</lastmod>
+    <data>
+        <display>
+        <title>蜜月4–三亚之呀诺达</title>
+        <pubTime>2011-11-07T16:00:00.000Z</pubTime>
+        
+        <tag>结婚</tag>
+         
+        <tag>蜜月</tag>
+         
+         
+           
+             
+              <breadCrumb title="心情日记" url="http://www.fwhyy.com/categories/%E5%BF%83%E6%83%85%E6%97%A5%E8%AE%B0/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2011/11/the-honeymoon-3/</loc>
+    <lastmod>2016-08-29T14:22:46.000Z</lastmod>
+    <data>
+        <display>
+        <title>蜜月3–三亚之蜈支洲岛</title>
+        <pubTime>2011-11-06T16:00:00.000Z</pubTime>
+        
+        <tag>结婚</tag>
+         
+        <tag>蜜月</tag>
+         
+         
+           
+             
+              <breadCrumb title="心情日记" url="http://www.fwhyy.com/categories/%E5%BF%83%E6%83%85%E6%97%A5%E8%AE%B0/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2011/11/the-honeymoon-2/</loc>
+    <lastmod>2016-08-29T14:11:03.000Z</lastmod>
+    <data>
+        <display>
+        <title>蜜月2–三亚之市区篇</title>
+        <pubTime>2011-11-04T16:00:00.000Z</pubTime>
+        
+        <tag>结婚</tag>
+         
+        <tag>蜜月</tag>
+         
+         
+           
+             
+              <breadCrumb title="心情日记" url="http://www.fwhyy.com/categories/%E5%BF%83%E6%83%85%E6%97%A5%E8%AE%B0/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2011/11/the-honeymoon-1/</loc>
+    <lastmod>2016-08-29T13:59:00.000Z</lastmod>
+    <data>
+        <display>
+        <title>the-honeymoon-1</title>
+        <pubTime>2011-11-04T16:00:00.000Z</pubTime>
+        
+        <tag>结婚</tag>
+         
+        <tag>蜜月</tag>
+         
+         
+           
+             
+              <breadCrumb title="心情日记" url="http://www.fwhyy.com/categories/%E5%BF%83%E6%83%85%E6%97%A5%E8%AE%B0/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2011/10/married-reporter/</loc>
+    <lastmod>2016-08-29T13:36:51.000Z</lastmod>
+    <data>
+        <display>
+        <title>结婚小记</title>
+        <pubTime>2011-10-14T16:00:00.000Z</pubTime>
+        
+        <tag>结婚</tag>
+         
+         
+           
+             
+              <breadCrumb title="心情日记" url="http://www.fwhyy.com/categories/%E5%BF%83%E6%83%85%E6%97%A5%E8%AE%B0/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2011/10/solution-for-ie-to-open-the-web-pop-up-windows-server2008-r2-block-box/</loc>
+    <lastmod>2016-08-29T13:35:26.000Z</lastmod>
+    <data>
+        <display>
+        <title>解决Windows Server2008 R2中IE开网页时弹出阻止框</title>
+        <pubTime>2011-10-14T16:00:00.000Z</pubTime>
+        
+        <tag>IE</tag>
+         
+        <tag>win2008</tag>
+         
+         
+           
+             
+              <breadCrumb title="软件使用" url="http://www.fwhyy.com/categories/%E8%BD%AF%E4%BB%B6%E4%BD%BF%E7%94%A8/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2011/09/some-concepts-about-nosql-and-mongodb/</loc>
+    <lastmod>2016-08-29T13:33:03.000Z</lastmod>
+    <data>
+        <display>
+        <title>MongoDB(3)–有关NoSQL及MongoDB的一些概念</title>
+        <pubTime>2011-09-28T16:00:00.000Z</pubTime>
+        
+        <tag>MongoDB</tag>
+         
+        <tag>NoSQL</tag>
+         
+         
+           
+             
+              <breadCrumb title="NoSQL" url="http://www.fwhyy.com/categories/NoSQL/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2011/09/mongvue-introduction/</loc>
+    <lastmod>2016-08-29T13:28:31.000Z</lastmod>
+    <data>
+        <display>
+        <title>MongoDB(2)–MongVUE介绍</title>
+        <pubTime>2011-09-19T16:00:00.000Z</pubTime>
+        
+        <tag>MongoDB</tag>
+         
+        <tag>NoSQL</tag>
+         
+        <tag>MongVUE</tag>
+         
+         
+           
+             
+              <breadCrumb title="NoSQL" url="http://www.fwhyy.com/categories/NoSQL/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2011/08/in-vs-view-who-file-is-checked-out/</loc>
+    <lastmod>2016-08-29T13:19:50.000Z</lastmod>
+    <data>
+        <display>
+        <title>在VS中查看文件是谁签出的</title>
+        <pubTime>2011-08-19T16:00:00.000Z</pubTime>
+        
+        <tag>AspNet</tag>
+         
+        <tag>VSS</tag>
+         
+         
+           
+             
+              <breadCrumb title="Asp.Net" url="http://www.fwhyy.com/categories/Asp-Net/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2011/08/in-the-sql-query-using-the-like-instead-of-the-in/</loc>
+    <lastmod>2016-08-29T13:15:38.000Z</lastmod>
+    <data>
+        <display>
+        <title>在SQL查询中使用LIKE来代替IN</title>
+        <pubTime>2011-08-12T16:00:00.000Z</pubTime>
+        
+        <tag>SqlServer</tag>
+         
+        <tag>小技巧</tag>
+         
+        <tag>Sql</tag>
+         
+         
+           
+             
+              <breadCrumb title="SqlServer" url="http://www.fwhyy.com/categories/SqlServer/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2011/08/essentially-a-table-of-deadlock-solution/</loc>
+    <lastmod>2016-08-29T04:17:13.000Z</lastmod>
+    <data>
+        <display>
+        <title>SqlServer表死锁的解决方法</title>
+        <pubTime>2011-08-05T16:00:00.000Z</pubTime>
+        
+        <tag>SqlServer</tag>
+         
+        <tag>Sql</tag>
+         
+        <tag>死锁</tag>
+         
+         
+           
+             
+              <breadCrumb title="SqlServer" url="http://www.fwhyy.com/categories/SqlServer/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2011/07/use-sp-xml-preparedocument-processing-xml-documents/</loc>
+    <lastmod>2016-08-28T23:34:35.000Z</lastmod>
+    <data>
+        <display>
+        <title>使用sp_xml_preparedocument处理XML文档</title>
+        <pubTime>2011-07-22T16:00:00.000Z</pubTime>
+        
+        <tag>SqlServer</tag>
+         
+        <tag>Sql</tag>
+         
+         
+           
+             
+              <breadCrumb title="SqlServer" url="http://www.fwhyy.com/categories/SqlServer/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2011/07/give-the-pdf-bookmarks-production/</loc>
+    <lastmod>2016-08-27T01:49:22.000Z</lastmod>
+    <data>
+        <display>
+        <title>Foxit Reader–给PDF制作书签</title>
+        <pubTime>2011-07-09T16:00:00.000Z</pubTime>
+        
+        <tag>PDF</tag>
+         
+        <tag>书签</tag>
+         
+        <tag>Foixt</tag>
+         
+         
+           
+             
+              <breadCrumb title="软件推荐" url="http://www.fwhyy.com/categories/%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2011/07/use-microsoft-clr-debug-to-debug-larger-projects/</loc>
+    <lastmod>2016-08-27T01:28:47.000Z</lastmod>
+    <data>
+        <display>
+        <title>使用MicroSoft CLR Debug来调试较大项目</title>
+        <pubTime>2011-07-19T16:00:00.000Z</pubTime>
+        
+        <tag>AspNet</tag>
+         
+        <tag>小技巧</tag>
+         
+        <tag>DotNet</tag>
+         
+        <tag>调试</tag>
+         
+         
+           
+             
+              <breadCrumb title="DotNet" url="http://www.fwhyy.com/categories/DotNet/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2011/06/retreat-to-the-javascript-code-reserved/</loc>
+    <lastmod>2016-08-27T01:20:59.000Z</lastmod>
+    <data>
+        <display>
+        <title>给Javascript代码“预留退路”</title>
+        <pubTime>2011-06-15T16:00:00.000Z</pubTime>
+        
+        <tag>javascript</tag>
+         
+         
+           
+             
+              <breadCrumb title="Javascript" url="http://www.fwhyy.com/categories/Javascript/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2011/06/not-registered-on-the-local-computer-microsoft-jet-oledb-4/</loc>
+    <lastmod>2016-08-27T01:19:28.000Z</lastmod>
+    <data>
+        <display>
+        <title>未在本地计算机上注册“Microsoft.Jet.OleDb.4.0”提供程序 错误解决</title>
+        <pubTime>2011-06-14T16:00:00.000Z</pubTime>
+        
+        <tag>AspNet</tag>
+         
+        <tag>错误解决</tag>
+         
+        <tag>Excel</tag>
+         
+         
+           
+             
+              <breadCrumb title="Asp.Net" url="http://www.fwhyy.com/categories/Asp-Net/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2011/05/windows-service-in-windows-7-cant-install-solution/</loc>
+    <lastmod>2016-08-27T01:16:39.000Z</lastmod>
+    <data>
+        <display>
+        <title>Windows服务在Win7中不能安装的解决方法</title>
+        <pubTime>2011-05-23T16:00:00.000Z</pubTime>
+        
+        <tag>错误解决</tag>
+         
+        <tag>C#</tag>
+         
+        <tag>Win7</tag>
+         
+         
+           
+             
+              <breadCrumb title="C#" url="http://www.fwhyy.com/categories/C/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2011/05/additional-database-failure-5120-error/</loc>
+    <lastmod>2016-08-27T01:13:50.000Z</lastmod>
+    <data>
+        <display>
+        <title>附加数据库失败 操作系统错误5</title>
+        <pubTime>2011-05-21T16:00:00.000Z</pubTime>
+        
+        <tag>SqlServer</tag>
+         
+        <tag>sqlserver2008</tag>
+         
+        <tag>错误解决</tag>
+         
+         
+           
+             
+              <breadCrumb title="SqlServer" url="http://www.fwhyy.com/categories/SqlServer/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2011/05/anniversary/</loc>
+    <lastmod>2016-08-27T01:09:25.000Z</lastmod>
+    <data>
+        <display>
+        <title>纪念日--领证</title>
+        <pubTime>2011-05-19T16:00:00.000Z</pubTime>
+        
+        <tag>纪念日</tag>
+         
+         
+           
+             
+              <breadCrumb title="心情日记" url="http://www.fwhyy.com/categories/%E5%BF%83%E6%83%85%E6%97%A5%E8%AE%B0/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2011/04/aspnet-website-compiled-into-a-dll-in-vs2010/</loc>
+    <lastmod>2016-08-26T14:13:59.000Z</lastmod>
+    <data>
+        <display>
+        <title>在VS2010中将AspNet网站编译成一个DLL</title>
+        <pubTime>2011-04-05T16:00:00.000Z</pubTime>
+        
+        <tag>AspNet</tag>
+         
+        <tag>vs2010</tag>
+         
+        <tag>部署</tag>
+         
+         
+           
+             
+              <breadCrumb title="Asp.Net" url="http://www.fwhyy.com/categories/Asp-Net/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2011/04/aspnet-site-integration-discuz-bbs-sync-reg-and-sso/</loc>
+    <lastmod>2016-08-26T14:10:33.000Z</lastmod>
+    <data>
+        <display>
+        <title>Asp.Net站点整合Discuz论坛实现同步注册和单点登录</title>
+        <pubTime>2011-03-31T16:00:00.000Z</pubTime>
+        
+        <tag>AspNet</tag>
+         
+        <tag>Discuz</tag>
+         
+        <tag>单点登录</tag>
+         
+         
+           
+             
+              <breadCrumb title="Asp.Net" url="http://www.fwhyy.com/categories/Asp-Net/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2011/03/data-into-the-sql-script-in-sqlserver-2008/</loc>
+    <lastmod>2016-08-26T14:06:38.000Z</lastmod>
+    <data>
+        <display>
+        <title>在SqlServer 2008中将数据导成脚本</title>
+        <pubTime>2011-03-30T16:00:00.000Z</pubTime>
+        
+        <tag>sqlserver2008</tag>
+         
+        <tag>小技巧</tag>
+         
+         
+           
+             
+              <breadCrumb title="SqlServer" url="http://www.fwhyy.com/categories/SqlServer/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2011/03/chm-file-locking/</loc>
+    <lastmod>2016-08-26T14:01:32.000Z</lastmod>
+    <data>
+        <display>
+        <title>CHM文件的锁定</title>
+        <pubTime>2011-03-03T16:00:00.000Z</pubTime>
+        
+        <tag>小技巧</tag>
+         
+        <tag>CHM</tag>
+         
+         
+           
+             
+              <breadCrumb title="软件使用" url="http://www.fwhyy.com/categories/%E8%BD%AF%E4%BB%B6%E4%BD%BF%E7%94%A8/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2011/03/sql2008-modify-and-save-the-table-structure-error/</loc>
+    <lastmod>2016-08-26T13:59:29.000Z</lastmod>
+    <data>
+        <display>
+        <title>SQL2008修改并保存表结构时报错的解决(阻止保存要求重新创建表的更改)</title>
+        <pubTime>2011-03-08T16:00:00.000Z</pubTime>
+        
+        <tag>SqlServer</tag>
+         
+        <tag>错误解决</tag>
+         
+         
+           
+             
+              <breadCrumb title="SqlServer" url="http://www.fwhyy.com/categories/SqlServer/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2011/03/excel-import-database-external-table-is-not-desired-format-mistakes-of-the-solution/</loc>
+    <lastmod>2016-08-26T13:57:03.000Z</lastmod>
+    <data>
+        <display>
+        <title>Excel导入数据库出现“外部表不是预期的格式”错误的解决方法</title>
+        <pubTime>2011-03-07T16:00:00.000Z</pubTime>
+        
+        <tag>AspNet</tag>
+         
+        <tag>错误解决</tag>
+         
+        <tag>Excel</tag>
+         
+         
+           
+             
+              <breadCrumb title="Asp.Net" url="http://www.fwhyy.com/categories/Asp-Net/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2011/03/virtualpc2007-file-is-copied-to-the-other-computer-cant-open-the-problem-solving/</loc>
+    <lastmod>2016-08-26T13:55:02.000Z</lastmod>
+    <data>
+        <display>
+        <title>VirtualPC2007的文件复制到其他电脑不能打开的问题解决</title>
+        <pubTime>2011-03-03T16:00:00.000Z</pubTime>
+        
+        <tag>小技巧</tag>
+         
+        <tag>Virtual PC</tag>
+         
+         
+           
+             
+              <breadCrumb title="软件使用" url="http://www.fwhyy.com/categories/%E8%BD%AF%E4%BB%B6%E4%BD%BF%E7%94%A8/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2011/02/sql-server-does-not-support-the-user-instance-login-flag/</loc>
+    <lastmod>2016-08-26T13:53:02.000Z</lastmod>
+    <data>
+        <display>
+        <title>解决“此版本的 SQL Server 不支持用户实例登录标志。该连接将关闭”问题</title>
+        <pubTime>2011-02-21T16:00:00.000Z</pubTime>
+        
+        <tag>SqlServer</tag>
+         
+        <tag>错误解决</tag>
+         
+         
+           
+             
+              <breadCrumb title="SqlServer" url="http://www.fwhyy.com/categories/SqlServer/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2011/01/solve-gridview-long-export-excel-such-as-digital-display/</loc>
+    <lastmod>2016-08-26T13:43:51.000Z</lastmod>
+    <data>
+        <display>
+        <title>解决AspNet中DataGrid GridView等列表控件导出Excel长数字显示成科学计数法的问题</title>
+        <pubTime>2011-01-22T16:00:00.000Z</pubTime>
+        
+        <tag>AspNet</tag>
+         
+        <tag>Excel</tag>
+         
+         
+           
+             
+              <breadCrumb title="Asp.Net" url="http://www.fwhyy.com/categories/Asp-Net/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2011/01/the-latest-microsoft-web-development-tools-webmatrix-simple-introduction-and-installation/</loc>
+    <lastmod>2016-08-26T13:42:00.000Z</lastmod>
+    <data>
+        <display>
+        <title>微软最新的 Web 开发工具WebMatrix的简单介绍及安装</title>
+        <pubTime>2011-01-13T16:00:00.000Z</pubTime>
+        
+        <tag>DotNet</tag>
+         
+        <tag>WebMatrix</tag>
+         
+         
+           
+             
+              <breadCrumb title="DotNet" url="http://www.fwhyy.com/categories/DotNet/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2011/01/sharepoint2007-related-service-startup/</loc>
+    <lastmod>2016-08-26T13:31:53.000Z</lastmod>
+    <data>
+        <display>
+        <title>在SharePoint2007中创建站点一：相关服务的启动</title>
+        <pubTime>2011-01-12T16:00:00.000Z</pubTime>
+        
+        <tag>SharePoint</tag>
+         
+         
+           
+             
+              <breadCrumb title="MOSS" url="http://www.fwhyy.com/categories/MOSS/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2011/01/sharepoint2007-configuration/</loc>
+    <lastmod>2016-08-26T13:24:47.000Z</lastmod>
+    <data>
+        <display>
+        <title>SharePoint2007配置</title>
+        <pubTime>2011-01-11T16:00:00.000Z</pubTime>
+        
+        <tag>SharePoint</tag>
+         
+         
+           
+             
+              <breadCrumb title="MOSS" url="http://www.fwhyy.com/categories/MOSS/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2011/01/installation-of-the-net-framework-3-0-and-sharepoint-2007/</loc>
+    <lastmod>2016-08-26T12:58:15.000Z</lastmod>
+    <data>
+        <display>
+        <title>SharePoint2007安装图文详解四：安装.NET Framework 3.0和SharePoint 2007</title>
+        <pubTime>2011-01-10T16:00:00.000Z</pubTime>
+        
+        <tag>DotNet3.0</tag>
+         
+        <tag>SharePoint</tag>
+         
+         
+           
+             
+              <breadCrumb title="MOSS" url="http://www.fwhyy.com/categories/MOSS/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2011/01/install-sqlserver2005/</loc>
+    <lastmod>2016-08-26T12:47:59.000Z</lastmod>
+    <data>
+        <display>
+        <title>SharePoint2007安装图文详解三：安装SqlServer2005</title>
+        <pubTime>2011-01-10T16:00:00.000Z</pubTime>
+        
+        <tag>SqlServer</tag>
+         
+        <tag>SharePoint</tag>
+         
+         
+           
+             
+              <breadCrumb title="MOSS" url="http://www.fwhyy.com/categories/MOSS/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2011/01/installation-of-ad-and-dns/</loc>
+    <lastmod>2016-08-26T12:31:21.000Z</lastmod>
+    <data>
+        <display>
+        <title>SharePoint2007安装图文详解二：安装AD（活动目录）及DNS</title>
+        <pubTime>2011-01-09T16:00:00.000Z</pubTime>
+        
+        <tag>AD</tag>
+         
+        <tag>SharePoint</tag>
+         
+         
+           
+             
+              <breadCrumb title="MOSS" url="http://www.fwhyy.com/categories/MOSS/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2011/01/iis-install/</loc>
+    <lastmod>2016-08-26T12:18:09.000Z</lastmod>
+    <data>
+        <display>
+        <title>SharePoint2007安装图文详解一：IIS安装</title>
+        <pubTime>2011-01-09T16:00:00.000Z</pubTime>
+        
+        <tag>IIS</tag>
+         
+        <tag>SharePoint</tag>
+         
+         
+           
+             
+              <breadCrumb title="MOSS" url="http://www.fwhyy.com/categories/MOSS/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2011/01/the-two-methods-get-the-wordpress-plugin-and-code-reply-email-notification/</loc>
+    <lastmod>2016-08-26T01:25:18.000Z</lastmod>
+    <data>
+        <display>
+        <title>插件和代码两种方法搞定WordPress回复邮件通知</title>
+        <pubTime>2011-01-06T16:00:00.000Z</pubTime>
+        
+        <tag>WordPress</tag>
+         
+        <tag>插件</tag>
+         
+         
+           
+             
+              <breadCrumb title="WordPress" url="http://www.fwhyy.com/categories/WordPress/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2011/01/back-in-the-2010-plan-2011/</loc>
+    <lastmod>2016-08-26T01:17:10.000Z</lastmod>
+    <data>
+        <display>
+        <title>回顾2010 计划2011</title>
+        <pubTime>2011-01-04T16:00:00.000Z</pubTime>
+        
+        <tag>总结</tag>
+         
+         
+           
+             
+              <breadCrumb title="心情日记" url="http://www.fwhyy.com/categories/%E5%BF%83%E6%83%85%E6%97%A5%E8%AE%B0/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2011/01/build-personal-blog-using-wordpress/</loc>
+    <lastmod>2016-08-26T01:13:30.000Z</lastmod>
+    <data>
+        <display>
+        <title>用WordPress搭建个人博客小记</title>
+        <pubTime>2011-01-03T16:00:00.000Z</pubTime>
+        
+        <tag>WordPress</tag>
+         
+         
+           
+             
+              <breadCrumb title="心情日记" url="http://www.fwhyy.com/categories/%E5%BF%83%E6%83%85%E6%97%A5%E8%AE%B0/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2010/12/jquery-boxy-plug-in-pop-up-the-four-edges-of-images-in-ie-dont-show/</loc>
+    <lastmod>2016-08-25T15:03:05.000Z</lastmod>
+    <data>
+        <display>
+        <title>jQuery boxy插件弹出框的四个边角图片在IE中不显示问题的解决</title>
+        <pubTime>2010-12-08T16:00:00.000Z</pubTime>
+        
+        <tag>JQuery</tag>
+         
+        <tag>boxy</tag>
+         
+         
+           
+             
+              <breadCrumb title="JQuery" url="http://www.fwhyy.com/categories/JQuery/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2010/11/use-jquery-boxy-plug-in-confirmation-box-in-the-aspnet/</loc>
+    <lastmod>2016-08-25T14:56:06.000Z</lastmod>
+    <data>
+        <display>
+        <title>jQuery boxy插件的确认框在AspNet中的应用</title>
+        <pubTime>2010-11-19T16:00:00.000Z</pubTime>
+        
+        <tag>JQuery</tag>
+         
+         
+           
+             
+              <breadCrumb title="JQuery" url="http://www.fwhyy.com/categories/JQuery/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2010/11/add-a-bookmark-to-a-pdf-document/</loc>
+    <lastmod>2016-08-25T14:52:17.000Z</lastmod>
+    <data>
+        <display>
+        <title>给PDF文档添加书签</title>
+        <pubTime>2010-11-19T16:00:00.000Z</pubTime>
+        
+        <tag>PDF</tag>
+         
+        <tag>书签</tag>
+         
+         
+           
+             
+              <breadCrumb title="软件使用" url="http://www.fwhyy.com/categories/%E8%BD%AF%E4%BB%B6%E4%BD%BF%E7%94%A8/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2010/11/csharp-a-friend-assembly/</loc>
+    <lastmod>2016-08-25T14:50:07.000Z</lastmod>
+    <data>
+        <display>
+        <title>C#:友元程序集</title>
+        <pubTime>2010-11-14T16:00:00.000Z</pubTime>
+        
+        <tag>C#</tag>
+         
+         
+           
+             
+              <breadCrumb title="C#" url="http://www.fwhyy.com/categories/C/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2010/11/let-the-aspnet-menu-controls-on-the-google-chrome-browser-run-normally/</loc>
+    <lastmod>2016-08-25T14:46:20.000Z</lastmod>
+    <data>
+        <display>
+        <title>让 ASP.NET Menu 控件在 Google Chrome 浏览器上正常运行</title>
+        <pubTime>2010-11-10T16:00:00.000Z</pubTime>
+        
+        <tag>AspNet</tag>
+         
+        <tag>Chrome</tag>
+         
+         
+           
+             
+              <breadCrumb title="Asp.Net" url="http://www.fwhyy.com/categories/Asp-Net/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2010/11/csharp-net-code-concise-optimization-techniques-c/</loc>
+    <lastmod>2016-08-25T14:44:45.000Z</lastmod>
+    <data>
+        <display>
+        <title>C#/Net代码精简优化技巧（3）</title>
+        <pubTime>2010-11-09T16:00:00.000Z</pubTime>
+        
+        <tag>小技巧</tag>
+         
+        <tag>C#</tag>
+         
+         
+           
+             
+              <breadCrumb title="C#" url="http://www.fwhyy.com/categories/C/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2010/11/disk-search-software-everything/</loc>
+    <lastmod>2016-08-25T14:36:54.000Z</lastmod>
+    <data>
+        <display>
+        <title>软件推荐：磁盘搜索软件Everything</title>
+        <pubTime>2010-11-02T16:00:00.000Z</pubTime>
+        
+        <tag>软件推荐</tag>
+         
+        <tag>Everything</tag>
+         
+         
+           
+             
+              <breadCrumb title="软件推荐" url="http://www.fwhyy.com/categories/%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2010/10/travel-to-xiangshan/</loc>
+    <lastmod>2016-08-25T14:34:17.000Z</lastmod>
+    <data>
+        <display>
+        <title>香山游</title>
+        <pubTime>2010-10-28T16:00:00.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="心情日记" url="http://www.fwhyy.com/categories/%E5%BF%83%E6%83%85%E6%97%A5%E8%AE%B0/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2010/10/csharp-net-code-concise-optimization-techniques-2/</loc>
+    <lastmod>2016-08-25T14:33:27.000Z</lastmod>
+    <data>
+        <display>
+        <title>C#/Net代码精简优化技巧（2）</title>
+        <pubTime>2010-10-25T16:00:00.000Z</pubTime>
+        
+        <tag>小技巧</tag>
+         
+        <tag>C#</tag>
+         
+         
+           
+             
+              <breadCrumb title="C#" url="http://www.fwhyy.com/categories/C/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2010/10/csharp-net-code-concise-optimization-techniques-1/</loc>
+    <lastmod>2016-08-25T14:26:52.000Z</lastmod>
+    <data>
+        <display>
+        <title>C#/Net代码精简优化技巧（1）</title>
+        <pubTime>2010-10-20T16:00:00.000Z</pubTime>
+        
+        <tag>小技巧</tag>
+         
+        <tag>C#</tag>
+         
+         
+           
+             
+              <breadCrumb title="C#" url="http://www.fwhyy.com/categories/C/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2010/10/2010-national-day-reporter/</loc>
+    <lastmod>2016-08-25T14:21:07.000Z</lastmod>
+    <data>
+        <display>
+        <title>2010十一长假小记</title>
+        <pubTime>2010-10-09T16:00:00.000Z</pubTime>
+        
+        <tag>日记</tag>
+         
+         
+           
+             
+              <breadCrumb title="心情日记" url="http://www.fwhyy.com/categories/%E5%BF%83%E6%83%85%E6%97%A5%E8%AE%B0/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2010/09/additional-program-installed-virtual-pc/</loc>
+    <lastmod>2016-08-25T14:17:51.000Z</lastmod>
+    <data>
+        <display>
+        <title>Virtual PC附加程序安装</title>
+        <pubTime>2010-09-22T16:00:00.000Z</pubTime>
+        
+        <tag>虚拟机</tag>
+         
+         
+           
+             
+              <breadCrumb title="软件使用" url="http://www.fwhyy.com/categories/%E8%BD%AF%E4%BB%B6%E4%BD%BF%E7%94%A8/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2010/09/desktop-pnotes-note-software/</loc>
+    <lastmod>2016-08-25T14:08:23.000Z</lastmod>
+    <data>
+        <display>
+        <title>桌面便签软件PNotes</title>
+        <pubTime>2010-09-05T16:00:00.000Z</pubTime>
+        
+        <tag>PNotes</tag>
+         
+        <tag>软件推荐</tag>
+         
+         
+           
+             
+              <breadCrumb title="软件推荐" url="http://www.fwhyy.com/categories/%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2010/09/nicedit-and-kindeditor/</loc>
+    <lastmod>2016-08-25T14:03:26.000Z</lastmod>
+    <data>
+        <display>
+        <title>推荐两款富文本编辑器：NicEdit和Kindeditor</title>
+        <pubTime>2010-09-04T16:00:00.000Z</pubTime>
+        
+        <tag>CKEditor</tag>
+         
+        <tag>CuteEditor</tag>
+         
+        <tag>文本编辑器</tag>
+         
+         
+           
+             
+              <breadCrumb title="Asp.Net" url="http://www.fwhyy.com/categories/Asp-Net/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2010/08/the-simple-introduction-of-the-wcf-binding/</loc>
+    <lastmod>2016-08-25T13:54:14.000Z</lastmod>
+    <data>
+        <display>
+        <title>WCF中绑定的简单介绍</title>
+        <pubTime>2010-08-28T16:00:00.000Z</pubTime>
+        
+        <tag>WCF</tag>
+         
+         
+           
+             
+              <breadCrumb title="WCF" url="http://www.fwhyy.com/categories/WCF/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2010/09/the-chinese-mens-basketball-team-for-the-world-championships-is-out/</loc>
+    <lastmod>2016-08-25T13:48:52.000Z</lastmod>
+    <data>
+        <display>
+        <title>世锦赛中国男篮“被”出线</title>
+        <pubTime>2010-09-02T16:00:00.000Z</pubTime>
+        
+        <tag>篮球</tag>
+         
+        <tag>男篮世锦赛</tag>
+         
+         
+           
+             
+              <breadCrumb title="篮球" url="http://www.fwhyy.com/categories/%E7%AF%AE%E7%90%83/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2010/08/the-2010-basketball-world-championships/</loc>
+    <lastmod>2016-08-25T13:46:56.000Z</lastmod>
+    <data>
+        <display>
+        <title>2010篮球世锦赛赛程</title>
+        <pubTime>2010-08-26T16:00:00.000Z</pubTime>
+        
+        <tag>篮球</tag>
+         
+        <tag>男篮世锦赛</tag>
+         
+         
+           
+             
+              <breadCrumb title="篮球" url="http://www.fwhyy.com/categories/%E7%AF%AE%E7%90%83/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2010/08/google-and-baidu-in-differences-in-details/</loc>
+    <lastmod>2016-08-25T13:44:08.000Z</lastmod>
+    <data>
+        <display>
+        <title>Google和百度在细节处理上的差别</title>
+        <pubTime>2010-08-24T16:00:00.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="随笔杂谈" url="http://www.fwhyy.com/categories/%E9%9A%8F%E7%AC%94%E6%9D%82%E8%B0%88/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2010/08/a-little-information-about-loadrunner/</loc>
+    <lastmod>2016-08-25T13:39:57.000Z</lastmod>
+    <data>
+        <display>
+        <title>关于LoadRunner的一点资料</title>
+        <pubTime>2010-08-23T16:00:00.000Z</pubTime>
+        
+        <tag>LoadRunner</tag>
+         
+        <tag>WMS</tag>
+         
+        <tag>压力测试</tag>
+         
+         
+           
+             
+              <breadCrumb title="软件测试" url="http://www.fwhyy.com/categories/%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2010/08/the-2010-08-24-love-record/</loc>
+    <lastmod>2016-08-25T13:38:13.000Z</lastmod>
+    <data>
+        <display>
+        <title>2010-08-24爱情记录</title>
+        <pubTime>2010-08-23T16:00:00.000Z</pubTime>
+        
+        <tag>爱情记录</tag>
+         
+         
+           
+             
+              <breadCrumb title="心情日记" url="http://www.fwhyy.com/categories/%E5%BF%83%E6%83%85%E6%97%A5%E8%AE%B0/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2010/08/maomao-son-big-sit-bear/</loc>
+    <lastmod>2016-08-25T13:33:30.000Z</lastmod>
+    <data>
+        <display>
+        <title>毛毛仔大坐熊</title>
+        <pubTime>2010-08-18T16:00:00.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="心情日记" url="http://www.fwhyy.com/categories/%E5%BF%83%E6%83%85%E6%97%A5%E8%AE%B0/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2010/08/webservice-to-generate-the-client-proxy-tool-wsdl-parameters-is-introduced/</loc>
+    <lastmod>2016-08-25T13:31:19.000Z</lastmod>
+    <data>
+        <display>
+        <title>WebService生成客户端代理的工具WSDL参数介绍</title>
+        <pubTime>2010-08-09T16:00:00.000Z</pubTime>
+        
+        <tag>AspNet</tag>
+         
+        <tag>WebService</tag>
+         
+         
+           
+             
+              <breadCrumb title="Asp.Net" url="http://www.fwhyy.com/categories/Asp-Net/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2010/07/a-trip-to-beidaihe-2010-07-24/</loc>
+    <lastmod>2016-08-25T12:57:37.000Z</lastmod>
+    <data>
+        <display>
+        <title>公司组织北戴河夏游小记 2010年7月24日</title>
+        <pubTime>2010-07-25T16:00:00.000Z</pubTime>
+        
+        <tag>旅游</tag>
+         
+         
+           
+             
+              <breadCrumb title="心情日记" url="http://www.fwhyy.com/categories/%E5%BF%83%E6%83%85%E6%97%A5%E8%AE%B0/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2010/07/the-simple-introduction-of-wcf-contract/</loc>
+    <lastmod>2016-08-25T12:56:27.000Z</lastmod>
+    <data>
+        <display>
+        <title>WCF契约的简单介绍（服务契约 数据契约 消息契约）</title>
+        <pubTime>2010-07-20T16:00:00.000Z</pubTime>
+        
+        <tag>WCF</tag>
+         
+         
+           
+             
+              <breadCrumb title="WCF" url="http://www.fwhyy.com/categories/WCF/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2010/07/wcf-problem-http-error-404-17-solution/</loc>
+    <lastmod>2016-08-25T12:46:08.000Z</lastmod>
+    <data>
+        <display>
+        <title>WCF问题:“HTTP 错误 404.17 – Not Found 请求的内容似乎是脚本，因而将无法由静态文件处理程序来处理”解决方法</title>
+        <pubTime>2010-07-18T16:00:00.000Z</pubTime>
+        
+        <tag>WCF</tag>
+         
+        <tag>错误解决</tag>
+         
+         
+           
+             
+              <breadCrumb title="WCF" url="http://www.fwhyy.com/categories/WCF/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2010/07/register-existing-wcf-service-in-iis/</loc>
+    <lastmod>2016-08-25T12:43:23.000Z</lastmod>
+    <data>
+        <display>
+        <title>在IIS中寄存已有WCF服务</title>
+        <pubTime>2010-07-18T16:00:00.000Z</pubTime>
+        
+        <tag>WCF</tag>
+         
+         
+           
+             
+              <breadCrumb title="WCF" url="http://www.fwhyy.com/categories/WCF/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2010/07/wcf-client-generation-agent-in-two-ways/</loc>
+    <lastmod>2016-08-25T12:37:16.000Z</lastmod>
+    <data>
+        <display>
+        <title>WCF中客户端生成代理的两种方式</title>
+        <pubTime>2010-07-15T16:00:00.000Z</pubTime>
+        
+        <tag>WCF</tag>
+         
+         
+           
+             
+              <breadCrumb title="WCF" url="http://www.fwhyy.com/categories/WCF/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2010/07/a-simple-wcf-example/</loc>
+    <lastmod>2016-08-25T12:30:54.000Z</lastmod>
+    <data>
+        <display>
+        <title>一个简单的WCF示例</title>
+        <pubTime>2010-07-14T16:00:00.000Z</pubTime>
+        
+        <tag>WCF</tag>
+         
+         
+           
+             
+              <breadCrumb title="WCF" url="http://www.fwhyy.com/categories/WCF/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2010/07/some-basic-knowledge-of-wcf/</loc>
+    <lastmod>2016-08-25T12:25:37.000Z</lastmod>
+    <data>
+        <display>
+        <title>WCF的一些基本知识点</title>
+        <pubTime>2010-07-13T16:00:00.000Z</pubTime>
+        
+        <tag>WCF</tag>
+         
+         
+           
+             
+              <breadCrumb title="WCF" url="http://www.fwhyy.com/categories/WCF/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2010/07/wcf-servicehost-initialization-in-two-ways/</loc>
+    <lastmod>2016-08-25T12:20:51.000Z</lastmod>
+    <data>
+        <display>
+        <title>WCF中的ServiceHost初始化两种方式</title>
+        <pubTime>2010-07-12T16:00:00.000Z</pubTime>
+        
+        <tag>WCF</tag>
+         
+         
+           
+             
+              <breadCrumb title="WCF" url="http://www.fwhyy.com/categories/WCF/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2010/07/windows-server-2008-enabled-wireless-lan-support/</loc>
+    <lastmod>2016-08-25T12:18:42.000Z</lastmod>
+    <data>
+        <display>
+        <title>Windows Server 2008启用无线局域网支持</title>
+        <pubTime>2010-07-12T16:00:00.000Z</pubTime>
+        
+        <tag>win2008</tag>
+         
+         
+           
+             
+              <breadCrumb title="软件使用" url="http://www.fwhyy.com/categories/%E8%BD%AF%E4%BB%B6%E4%BD%BF%E7%94%A8/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2010/07/zend-studio-7-2-localization-package-and-installation-method/</loc>
+    <lastmod>2016-08-25T12:16:26.000Z</lastmod>
+    <data>
+        <display>
+        <title>Zend Studio 7.2 汉化包 及安装方法</title>
+        <pubTime>2010-07-08T16:00:00.000Z</pubTime>
+        
+        <tag>Zend Studio</tag>
+         
+         
+           
+             
+              <breadCrumb title="软件使用" url="http://www.fwhyy.com/categories/%E8%BD%AF%E4%BB%B6%E4%BD%BF%E7%94%A8/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2010/07/zend-studio-7-2-registration-code/</loc>
+    <lastmod>2016-08-25T12:13:25.000Z</lastmod>
+    <data>
+        <display>
+        <title>Zend Studio 7.2 注册码</title>
+        <pubTime>2010-07-08T16:00:00.000Z</pubTime>
+        
+        <tag>Zend Studio</tag>
+         
+         
+           
+             
+              <breadCrumb title="软件使用" url="http://www.fwhyy.com/categories/%E8%BD%AF%E4%BB%B6%E4%BD%BF%E7%94%A8/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2010/07/net-remoting-error-try-to-create-unbounded-types-of-agent/</loc>
+    <lastmod>2016-08-25T12:12:21.000Z</lastmod>
+    <data>
+        <display>
+        <title>Net Remoting Error:试图创建未绑定类型的代理</title>
+        <pubTime>2010-07-06T16:00:00.000Z</pubTime>
+        
+        <tag>错误解决</tag>
+         
+        <tag>Remoting</tag>
+         
+         
+           
+             
+              <breadCrumb title="DotNet" url="http://www.fwhyy.com/categories/DotNet/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2010/06/update-weibo-by-google-talk-robot/</loc>
+    <lastmod>2016-08-25T12:11:12.000Z</lastmod>
+    <data>
+        <display>
+        <title>用GTalk机器人更新微博</title>
+        <pubTime>2010-06-29T16:00:00.000Z</pubTime>
+        
+        <tag>gtalk</tag>
+         
+         
+           
+             
+              <breadCrumb title="软件使用" url="http://www.fwhyy.com/categories/%E8%BD%AF%E4%BB%B6%E4%BD%BF%E7%94%A8/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2010/06/go-to-shijiazhuang-2010-6-5/</loc>
+    <lastmod>2016-08-25T12:06:09.000Z</lastmod>
+    <data>
+        <display>
+        <title>再去石家庄—2010-6-5</title>
+        <pubTime>2010-06-09T16:00:00.000Z</pubTime>
+        
+        <tag>石家庄</tag>
+         
+         
+           
+             
+              <breadCrumb title="心情日记" url="http://www.fwhyy.com/categories/%E5%BF%83%E6%83%85%E6%97%A5%E8%AE%B0/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2010/06/sqlserver2008-modifying-a-table-save-changes-is-not-permitted-the-solution/</loc>
+    <lastmod>2016-08-22T09:10:41.000Z</lastmod>
+    <data>
+        <display>
+        <title>SqlServer2008修改表时出现“save changes is not permitted…”解决方法</title>
+        <pubTime>2010-06-02T16:00:00.000Z</pubTime>
+        
+        <tag>sqlserver2008</tag>
+         
+        <tag>错误解决</tag>
+         
+         
+           
+             
+              <breadCrumb title="SqlServer" url="http://www.fwhyy.com/categories/SqlServer/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2010/06/a-billing-software-to-my-wife/</loc>
+    <lastmod>2016-08-22T09:01:41.000Z</lastmod>
+    <data>
+        <display>
+        <title>给老婆做的记账小软件</title>
+        <pubTime>2010-06-01T16:00:00.000Z</pubTime>
+        
+        <tag>记账本</tag>
+         
+         
+           
+             
+              <breadCrumb title="心情日记" url="http://www.fwhyy.com/categories/%E5%BF%83%E6%83%85%E6%97%A5%E8%AE%B0/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2010/05/net-4-vs2010-new-features/</loc>
+    <lastmod>2016-08-22T08:48:51.000Z</lastmod>
+    <data>
+        <display>
+        <title>Net4.0—VS2010新特性</title>
+        <pubTime>2010-05-26T16:00:00.000Z</pubTime>
+        
+        <tag>vs2010</tag>
+         
+        <tag>DotNet4</tag>
+         
+         
+           
+             
+              <breadCrumb title="DotNet" url="http://www.fwhyy.com/categories/DotNet/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2010/05/net-4-framwork-of-new-features/</loc>
+    <lastmod>2016-08-22T08:38:57.000Z</lastmod>
+    <data>
+        <display>
+        <title>Net4.0—Framwork新增特性</title>
+        <pubTime>2010-05-25T16:00:00.000Z</pubTime>
+        
+        <tag>DotNet4</tag>
+         
+         
+           
+             
+              <breadCrumb title="DotNet" url="http://www.fwhyy.com/categories/DotNet/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2010/05/add-the-default-distribution-point-wms/</loc>
+    <lastmod>2016-08-22T07:51:27.000Z</lastmod>
+    <data>
+        <display>
+        <title>WMS中添加默认发布点</title>
+        <pubTime>2010-05-18T16:00:00.000Z</pubTime>
+        
+        <tag>WMS</tag>
+         
+        <tag>发布点</tag>
+         
+         
+           
+             
+              <breadCrumb title="WMS" url="http://www.fwhyy.com/categories/WMS/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2010/05/in-a-batch-file-to-start-the-mediaplayer-play-set-files/</loc>
+    <lastmod>2016-08-22T07:46:32.000Z</lastmod>
+    <data>
+        <display>
+        <title>在批处理文件中启动MediaPlayer播放制定文件</title>
+        <pubTime>2010-05-04T16:00:00.000Z</pubTime>
+        
+        <tag>WMS</tag>
+         
+        <tag>发布点</tag>
+         
+         
+           
+             
+              <breadCrumb title="WMS" url="http://www.fwhyy.com/categories/WMS/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2010/04/in-beijing-these-days/</loc>
+    <lastmod>2016-08-22T07:41:55.000Z</lastmod>
+    <data>
+        <display>
+        <title>来北京的这些日子</title>
+        <pubTime>2010-04-29T16:00:00.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="心情日记" url="http://www.fwhyy.com/categories/%E5%BF%83%E6%83%85%E6%97%A5%E8%AE%B0/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2010/04/win2008-computer-cannot-be-added-to-the-domain-of-the-solution/</loc>
+    <lastmod>2016-08-22T07:39:37.000Z</lastmod>
+    <data>
+        <display>
+        <title>Win2008计算机不能添加到域的解决方法</title>
+        <pubTime>2010-04-27T16:00:00.000Z</pubTime>
+        
+        <tag>错误解决</tag>
+         
+        <tag>AD</tag>
+         
+        <tag>win2008</tag>
+         
+         
+           
+             
+              <breadCrumb title="AD" url="http://www.fwhyy.com/categories/AD/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2010/04/win2008-remote-desktop-installation-ad-after-log-in-problem-solving/</loc>
+    <lastmod>2016-08-22T07:36:28.000Z</lastmod>
+    <data>
+        <display>
+        <title>Win2008远程桌面安装AD后的登录问题解决</title>
+        <pubTime>2010-04-26T16:00:00.000Z</pubTime>
+        
+        <tag>错误解决</tag>
+         
+        <tag>AD</tag>
+         
+         
+           
+             
+              <breadCrumb title="AD" url="http://www.fwhyy.com/categories/AD/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2010/04/believe-in-yourself/</loc>
+    <lastmod>2016-08-22T07:33:05.000Z</lastmod>
+    <data>
+        <display>
+        <title>要相信自己</title>
+        <pubTime>2010-04-21T16:00:00.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="心情日记" url="http://www.fwhyy.com/categories/%E5%BF%83%E6%83%85%E6%97%A5%E8%AE%B0/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2010/04/use-expression-encoder-3-to-webdav-publishing-media-file/</loc>
+    <lastmod>2016-08-22T07:08:23.000Z</lastmod>
+    <data>
+        <display>
+        <title>使用Expression Encoder 3发布媒体文件到WebDAV</title>
+        <pubTime>2010-04-19T16:00:00.000Z</pubTime>
+        
+        <tag>WMS</tag>
+         
+        <tag>Expression Encoder3</tag>
+         
+         
+           
+             
+              <breadCrumb title="WMS" url="http://www.fwhyy.com/categories/WMS/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2010/04/http-error-500-19-internal-server-error-solution/</loc>
+    <lastmod>2016-08-20T15:43:39.000Z</lastmod>
+    <data>
+        <display>
+        <title>HTTP 错误 500.19 – Internal Server Error 错误解决方法</title>
+        <pubTime>2010-04-14T16:00:00.000Z</pubTime>
+        
+        <tag>错误解决</tag>
+         
+        <tag>部署</tag>
+         
+        <tag>WebService</tag>
+         
+         
+           
+             
+              <breadCrumb title="Asp.Net" url="http://www.fwhyy.com/categories/Asp-Net/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2010/02/aspnet-controls-development-1-the-introduction/</loc>
+    <lastmod>2016-08-20T15:41:23.000Z</lastmod>
+    <data>
+        <display>
+        <title>Asp.Net控件开发(1)—入门介绍</title>
+        <pubTime>2010-02-08T16:00:00.000Z</pubTime>
+        
+        <tag>AspNet</tag>
+         
+        <tag>控件开发</tag>
+         
+         
+           
+             
+              <breadCrumb title="Asp.Net" url="http://www.fwhyy.com/categories/Asp-Net/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2010/02/design-patterns-notes-25-summary/</loc>
+    <lastmod>2016-08-20T15:29:27.000Z</lastmod>
+    <data>
+        <display>
+        <title>设计模式笔记(25)—总结</title>
+        <pubTime>2010-02-02T16:00:00.000Z</pubTime>
+        
+        <tag>设计模式</tag>
+         
+        <tag>C#</tag>
+         
+         
+           
+             
+              <breadCrumb title="设计模式" url="http://www.fwhyy.com/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2010/02/design-patterns-notes-24-visitor-pattern/</loc>
+    <lastmod>2016-08-20T15:27:46.000Z</lastmod>
+    <data>
+        <display>
+        <title>设计模式笔记(24)—访问者模式（行为型）</title>
+        <pubTime>2010-02-01T16:00:00.000Z</pubTime>
+        
+        <tag>设计模式</tag>
+         
+        <tag>C#</tag>
+         
+         
+           
+             
+              <breadCrumb title="设计模式" url="http://www.fwhyy.com/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2010/02/some-tips-of-sqlserver/</loc>
+    <lastmod>2016-08-20T15:21:53.000Z</lastmod>
+    <data>
+        <display>
+        <title>SqlServer数据库的语句及一些操作整理</title>
+        <pubTime>2010-02-01T16:00:00.000Z</pubTime>
+        
+        <tag>小技巧</tag>
+         
+        <tag>Sql</tag>
+         
+         
+           
+             
+              <breadCrumb title="SqlServer" url="http://www.fwhyy.com/categories/SqlServer/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2010/01/design-patterns-notes-23-strategy-pattern/</loc>
+    <lastmod>2016-08-20T15:17:54.000Z</lastmod>
+    <data>
+        <display>
+        <title>设计模式笔记(23)—策略者模式（行为型）</title>
+        <pubTime>2010-01-30T16:00:00.000Z</pubTime>
+        
+        <tag>设计模式</tag>
+         
+        <tag>C#</tag>
+         
+         
+           
+             
+              <breadCrumb title="设计模式" url="http://www.fwhyy.com/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2010/01/design-patterns-notes-22-state-pattern/</loc>
+    <lastmod>2016-08-20T15:15:07.000Z</lastmod>
+    <data>
+        <display>
+        <title>设计模式笔记(22)—状态模式（行为型）</title>
+        <pubTime>2010-01-27T16:00:00.000Z</pubTime>
+        
+        <tag>设计模式</tag>
+         
+        <tag>C#</tag>
+         
+         
+           
+             
+              <breadCrumb title="设计模式" url="http://www.fwhyy.com/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2010/01/design-patterns-notes-21-memo-pattern/</loc>
+    <lastmod>2016-08-20T15:11:45.000Z</lastmod>
+    <data>
+        <display>
+        <title>设计模式笔记(21)—备忘录模式（行为型）</title>
+        <pubTime>2010-01-26T16:00:00.000Z</pubTime>
+        
+        <tag>设计模式</tag>
+         
+        <tag>C#</tag>
+         
+         
+           
+             
+              <breadCrumb title="设计模式" url="http://www.fwhyy.com/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2010/01/design-patterns-notes-20-chain-of-responsibility-pattern/</loc>
+    <lastmod>2016-08-20T15:09:00.000Z</lastmod>
+    <data>
+        <display>
+        <title>设计模式笔记(20)—职责链模式（行为型）</title>
+        <pubTime>2010-01-26T16:00:00.000Z</pubTime>
+        
+        <tag>设计模式</tag>
+         
+        <tag>C#</tag>
+         
+         
+           
+             
+              <breadCrumb title="设计模式" url="http://www.fwhyy.com/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2010/01/design-patterns-notes-19-observer-pattern/</loc>
+    <lastmod>2016-08-20T15:06:26.000Z</lastmod>
+    <data>
+        <display>
+        <title>设计模式笔记(19)—观察者模式（行为型）</title>
+        <pubTime>2010-01-24T16:00:00.000Z</pubTime>
+        
+        <tag>设计模式</tag>
+         
+        <tag>C#</tag>
+         
+         
+           
+             
+              <breadCrumb title="设计模式" url="http://www.fwhyy.com/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2010/01/design-patterns-notes-18-iterator-pattern/</loc>
+    <lastmod>2016-08-20T15:00:55.000Z</lastmod>
+    <data>
+        <display>
+        <title>设计模式笔记(18)—迭代器模式（行为型）</title>
+        <pubTime>2010-01-23T16:00:00.000Z</pubTime>
+        
+        <tag>设计模式</tag>
+         
+        <tag>C#</tag>
+         
+         
+           
+             
+              <breadCrumb title="设计模式" url="http://www.fwhyy.com/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2010/01/the-use-of-the-lable-and-literal-controls-and-differences/</loc>
+    <lastmod>2016-08-20T14:51:27.000Z</lastmod>
+    <data>
+        <display>
+        <title>Lable和Literal控件的使用和区别</title>
+        <pubTime>2010-01-22T16:00:00.000Z</pubTime>
+        
+        <tag>AspNet</tag>
+         
+        <tag>lable</tag>
+         
+         
+           
+             
+              <breadCrumb title="Asp.Net" url="http://www.fwhyy.com/categories/Asp-Net/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2010/01/design-patterns-notes-17-mediator-pattern/</loc>
+    <lastmod>2016-08-20T14:47:59.000Z</lastmod>
+    <data>
+        <display>
+        <title>设计模式笔记(17)—中介者模式（行为型）</title>
+        <pubTime>2010-01-19T16:00:00.000Z</pubTime>
+        
+        <tag>设计模式</tag>
+         
+        <tag>C#</tag>
+         
+         
+           
+             
+              <breadCrumb title="设计模式" url="http://www.fwhyy.com/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2010/01/design-patterns-notes-16-interpreter-pattern/</loc>
+    <lastmod>2016-08-20T14:47:44.000Z</lastmod>
+    <data>
+        <display>
+        <title>设计模式笔记(16)—解释器模式（行为型）</title>
+        <pubTime>2010-01-18T16:00:00.000Z</pubTime>
+        
+        <tag>设计模式</tag>
+         
+        <tag>C#</tag>
+         
+         
+           
+             
+              <breadCrumb title="设计模式" url="http://www.fwhyy.com/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2010/01/wuhan-goodbye/</loc>
+    <lastmod>2016-08-20T14:33:16.000Z</lastmod>
+    <data>
+        <display>
+        <title>武汉 再见</title>
+        <pubTime>2010-01-11T16:00:00.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="心情日记" url="http://www.fwhyy.com/categories/%E5%BF%83%E6%83%85%E6%97%A5%E8%AE%B0/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2010/01/the-first-snow-of-2010/</loc>
+    <lastmod>2016-08-20T14:31:12.000Z</lastmod>
+    <data>
+        <display>
+        <title>2010年的第一场雪</title>
+        <pubTime>2010-01-05T16:00:00.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="心情日记" url="http://www.fwhyy.com/categories/%E5%BF%83%E6%83%85%E6%97%A5%E8%AE%B0/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2010/01/jquery-upload-plugin-uploadify-use-explanation/</loc>
+    <lastmod>2016-08-20T14:27:12.000Z</lastmod>
+    <data>
+        <display>
+        <title>JQuery上传插件Uploadify使用详解</title>
+        <pubTime>2010-01-05T16:00:00.000Z</pubTime>
+        
+        <tag>JQuery</tag>
+         
+        <tag>Uploadify</tag>
+         
+         
+           
+             
+              <breadCrumb title="JQuery" url="http://www.fwhyy.com/categories/JQuery/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2009/11/design-patterns-notes-3-abstract-factory-pattern/</loc>
+    <lastmod>2016-08-20T00:53:22.000Z</lastmod>
+    <data>
+        <display>
+        <title>设计模式笔记(3)—抽象工厂模式（创建型）</title>
+        <pubTime>2009-11-19T16:00:00.000Z</pubTime>
+        
+        <tag>设计模式</tag>
+         
+        <tag>C#</tag>
+         
+         
+           
+             
+              <breadCrumb title="设计模式" url="http://www.fwhyy.com/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2009/12/design-patterns-notes-15-command-pattern/</loc>
+    <lastmod>2016-08-19T16:15:52.000Z</lastmod>
+    <data>
+        <display>
+        <title>设计模式笔记(15)—命令模式（行为型）</title>
+        <pubTime>2009-12-29T16:00:00.000Z</pubTime>
+        
+        <tag>设计模式</tag>
+         
+        <tag>C#</tag>
+         
+         
+           
+             
+              <breadCrumb title="设计模式" url="http://www.fwhyy.com/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2009/12/an-example-in-respect-to-multithreading/</loc>
+    <lastmod>2016-08-19T16:15:47.000Z</lastmod>
+    <data>
+        <display>
+        <title>关于多线程的一个例子（UI实时显示）</title>
+        <pubTime>2009-12-19T16:00:00.000Z</pubTime>
+        
+        <tag>C#</tag>
+         
+        <tag>多线程</tag>
+         
+         
+           
+             
+              <breadCrumb title="C#" url="http://www.fwhyy.com/categories/C/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2009/12/design-patterns-notes-14-template-method-pattern/</loc>
+    <lastmod>2016-08-19T16:15:44.000Z</lastmod>
+    <data>
+        <display>
+        <title>设计模式笔记(14)—模板方法模式（行为型）</title>
+        <pubTime>2009-12-13T16:00:00.000Z</pubTime>
+        
+        <tag>设计模式</tag>
+         
+        <tag>C#</tag>
+         
+         
+           
+             
+              <breadCrumb title="设计模式" url="http://www.fwhyy.com/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2009/12/design-patterns-notes-13-proxy-pattern/</loc>
+    <lastmod>2016-08-19T16:15:40.000Z</lastmod>
+    <data>
+        <display>
+        <title>设计模式笔记(13)—代理模式（结构型）</title>
+        <pubTime>2009-12-09T16:00:00.000Z</pubTime>
+        
+        <tag>设计模式</tag>
+         
+        <tag>C#</tag>
+         
+         
+           
+             
+              <breadCrumb title="设计模式" url="http://www.fwhyy.com/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2009/12/design-patterns-notes-12-flyweight-pattern/</loc>
+    <lastmod>2016-08-19T16:15:35.000Z</lastmod>
+    <data>
+        <display>
+        <title>设计模式笔记(12)—享元模式（结构型）</title>
+        <pubTime>2009-12-08T16:00:00.000Z</pubTime>
+        
+        <tag>设计模式</tag>
+         
+        <tag>C#</tag>
+         
+         
+           
+             
+              <breadCrumb title="设计模式" url="http://www.fwhyy.com/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2009/12/design-patterns-notes-11-appearance-pattern/</loc>
+    <lastmod>2016-08-19T16:15:30.000Z</lastmod>
+    <data>
+        <display>
+        <title>设计模式笔记(11)—外观模式（结构型）</title>
+        <pubTime>2009-12-06T16:00:00.000Z</pubTime>
+        
+        <tag>设计模式</tag>
+         
+        <tag>C#</tag>
+         
+         
+           
+             
+              <breadCrumb title="设计模式" url="http://www.fwhyy.com/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2009/12/design-patterns-notes-10-decorative-pattern/</loc>
+    <lastmod>2016-08-19T16:15:24.000Z</lastmod>
+    <data>
+        <display>
+        <title>设计模式笔记(10)—装饰模式（结构型）</title>
+        <pubTime>2009-12-03T16:00:00.000Z</pubTime>
+        
+        <tag>设计模式</tag>
+         
+        <tag>C#</tag>
+         
+         
+           
+             
+              <breadCrumb title="设计模式" url="http://www.fwhyy.com/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2009/12/design-patterns-notes-9-portfolio-pattern/</loc>
+    <lastmod>2016-08-19T16:15:21.000Z</lastmod>
+    <data>
+        <display>
+        <title>设计模式笔记(9)—组合模式（结构型）</title>
+        <pubTime>2009-12-01T16:00:00.000Z</pubTime>
+        
+        <tag>设计模式</tag>
+         
+        <tag>C#</tag>
+         
+         
+           
+             
+              <breadCrumb title="设计模式" url="http://www.fwhyy.com/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2009/12/design-patterns-notes-8-bridge-pattern/</loc>
+    <lastmod>2016-08-19T16:15:18.000Z</lastmod>
+    <data>
+        <display>
+        <title>设计模式笔记(8)—桥接模式（结构型）</title>
+        <pubTime>2009-11-30T16:00:00.000Z</pubTime>
+        
+        <tag>设计模式</tag>
+         
+        <tag>C#</tag>
+         
+         
+           
+             
+              <breadCrumb title="设计模式" url="http://www.fwhyy.com/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2009/11/design-patterns-notes-7-adapter-pattern/</loc>
+    <lastmod>2016-08-19T16:15:04.000Z</lastmod>
+    <data>
+        <display>
+        <title>设计模式笔记(7)—适配器模式（结构型）</title>
+        <pubTime>2009-11-25T16:00:00.000Z</pubTime>
+        
+        <tag>设计模式</tag>
+         
+        <tag>C#</tag>
+         
+         
+           
+             
+              <breadCrumb title="设计模式" url="http://www.fwhyy.com/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2009/11/design-patterns-notes-6-prototype-pattern/</loc>
+    <lastmod>2016-08-19T16:15:00.000Z</lastmod>
+    <data>
+        <display>
+        <title>设计模式笔记(6)—原型模式（创建型）</title>
+        <pubTime>2009-11-23T16:00:00.000Z</pubTime>
+        
+        <tag>设计模式</tag>
+         
+        <tag>C#</tag>
+         
+         
+           
+             
+              <breadCrumb title="设计模式" url="http://www.fwhyy.com/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2009/11/design-patterns-notes-5-factory-method-pattern/</loc>
+    <lastmod>2016-08-19T16:14:58.000Z</lastmod>
+    <data>
+        <display>
+        <title>设计模式笔记(5)—工厂方法模式（创建型）</title>
+        <pubTime>2009-11-21T16:00:00.000Z</pubTime>
+        
+        <tag>设计模式</tag>
+         
+        <tag>C#</tag>
+         
+         
+           
+             
+              <breadCrumb title="设计模式" url="http://www.fwhyy.com/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2009/11/design-patterns-notes-4-generator-pattern/</loc>
+    <lastmod>2016-08-19T16:14:55.000Z</lastmod>
+    <data>
+        <display>
+        <title>设计模式笔记(4)—生成器模式（创建型）</title>
+        <pubTime>2009-11-20T16:00:00.000Z</pubTime>
+        
+        <tag>设计模式</tag>
+         
+        <tag>C#</tag>
+         
+         
+           
+             
+              <breadCrumb title="设计模式" url="http://www.fwhyy.com/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2009/11/vs-font-recommended/</loc>
+    <lastmod>2016-08-19T16:14:49.000Z</lastmod>
+    <data>
+        <display>
+        <title>VS中的经典字体推荐</title>
+        <pubTime>2009-11-19T16:00:00.000Z</pubTime>
+        
+        <tag>软件推荐</tag>
+         
+        <tag>Consolas</tag>
+         
+        <tag>visualstudio</tag>
+         
+         
+           
+             
+              <breadCrumb title="软件推荐" url="http://www.fwhyy.com/categories/%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2009/11/design-patterns-notes-2-singleton-pattern/</loc>
+    <lastmod>2016-08-19T16:14:40.000Z</lastmod>
+    <data>
+        <display>
+        <title>设计模式笔记(2)—单件模式（创建型）</title>
+        <pubTime>2009-11-18T16:00:00.000Z</pubTime>
+        
+        <tag>设计模式</tag>
+         
+        <tag>C#</tag>
+         
+         
+           
+             
+              <breadCrumb title="设计模式" url="http://www.fwhyy.com/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2009/11/design-patterns-notes-1-index/</loc>
+    <lastmod>2016-08-19T16:14:35.000Z</lastmod>
+    <data>
+        <display>
+        <title>设计模式笔记(1)—开篇（文章索引）</title>
+        <pubTime>2009-11-17T16:00:00.000Z</pubTime>
+        
+        <tag>设计模式</tag>
+         
+        <tag>C#</tag>
+         
+         
+           
+             
+              <breadCrumb title="设计模式" url="http://www.fwhyy.com/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2009/10/experience-vs2010-improvements/</loc>
+    <lastmod>2016-08-19T16:14:32.000Z</lastmod>
+    <data>
+        <display>
+        <title>体验vs2010 （功能改进篇）</title>
+        <pubTime>2009-10-23T16:00:00.000Z</pubTime>
+        
+        <tag>vs2010</tag>
+         
+        <tag>DotNet4</tag>
+         
+         
+           
+             
+              <breadCrumb title="DotNet" url="http://www.fwhyy.com/categories/DotNet/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2009/10/experience-vs2010-installation/</loc>
+    <lastmod>2016-08-19T16:14:29.000Z</lastmod>
+    <data>
+        <display>
+        <title>体验VS2010（安装篇）</title>
+        <pubTime>2009-10-23T16:00:00.000Z</pubTime>
+        
+        <tag>vs2010</tag>
+         
+        <tag>DotNet4</tag>
+         
+         
+           
+             
+              <breadCrumb title="DotNet" url="http://www.fwhyy.com/categories/DotNet/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2009/12/in-js-method-return-multiple-values-of-the-three-methods/</loc>
+    <lastmod>2016-08-19T15:56:56.000Z</lastmod>
+    <data>
+        <display>
+        <title>在JS方法中返回多个值的三种方法</title>
+        <pubTime>2009-12-10T16:00:00.000Z</pubTime>
+        
+        <tag>javascript</tag>
+         
+         
+           
+             
+              <breadCrumb title="Javascript" url="http://www.fwhyy.com/categories/Javascript/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2009/11/the-programmer-how-to-learn-english/</loc>
+    <lastmod>2016-08-19T15:18:26.000Z</lastmod>
+    <data>
+        <display>
+        <title>程序员怎样学习英语</title>
+        <pubTime>2009-11-27T16:00:00.000Z</pubTime>
+        
+        <tag>英语</tag>
+         
+         
+           
+             
+              <breadCrumb title="经验总结" url="http://www.fwhyy.com/categories/%E7%BB%8F%E9%AA%8C%E6%80%BB%E7%BB%93/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2009/11/go-to-the-gym-already-two-weeks-produced-results/</loc>
+    <lastmod>2016-08-19T15:09:05.000Z</lastmod>
+    <data>
+        <display>
+        <title>去健身房已经两个礼拜了初见成效</title>
+        <pubTime>2009-11-25T16:00:00.000Z</pubTime>
+        
+        <tag>健身</tag>
+         
+         
+           
+             
+              <breadCrumb title="心情日记" url="http://www.fwhyy.com/categories/%E5%BF%83%E6%83%85%E6%97%A5%E8%AE%B0/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2008/03/separate-strings-in-sql/</loc>
+    <lastmod>2016-08-16T14:47:38.000Z</lastmod>
+    <data>
+        <display>
+        <title>Sql中分隔字串–>查询–>组合字串</title>
+        <pubTime>2008-03-17T16:00:00.000Z</pubTime>
+        
+        <tag>小技巧</tag>
+         
+        <tag>Sql</tag>
+         
+         
+           
+             
+              <breadCrumb title="SqlServer" url="http://www.fwhyy.com/categories/SqlServer/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2008/04/the-difference-between-the-and-aspnet/</loc>
+    <lastmod>2016-08-16T14:47:03.000Z</lastmod>
+    <data>
+        <display>
+        <title>Asp.Net中 %= 与%# 的区别</title>
+        <pubTime>2008-04-02T16:00:00.000Z</pubTime>
+        
+        <tag>AspNet</tag>
+         
+         
+           
+             
+              <breadCrumb title="Asp.Net" url="http://www.fwhyy.com/categories/Asp-Net/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2009/10/rare-small-company-activities-badminton-match/</loc>
+    <lastmod>2016-08-16T14:41:34.000Z</lastmod>
+    <data>
+        <display>
+        <title>难得的公司小活动—羽毛球比赛</title>
+        <pubTime>2009-10-16T16:00:00.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="心情日记" url="http://www.fwhyy.com/categories/%E5%BF%83%E6%83%85%E6%97%A5%E8%AE%B0/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2009/10/powerful-vs-plug-in-resharper/</loc>
+    <lastmod>2016-08-16T14:40:14.000Z</lastmod>
+    <data>
+        <display>
+        <title>强大的VS插件—Resharper</title>
+        <pubTime>2009-10-16T16:00:00.000Z</pubTime>
+        
+        <tag>visual studio</tag>
+         
+        <tag>软件推荐</tag>
+         
+        <tag>Resharper</tag>
+         
+         
+           
+             
+              <breadCrumb title="软件推荐" url="http://www.fwhyy.com/categories/%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2009/10/words-in-the-table-in-the-database-multi-line-merged-into-a-column/</loc>
+    <lastmod>2016-08-16T14:37:41.000Z</lastmod>
+    <data>
+        <display>
+        <title>在数据库中将字表中的多行合并到一列中</title>
+        <pubTime>2009-10-14T16:00:00.000Z</pubTime>
+        
+        <tag>Sql</tag>
+         
+        <tag>合并列</tag>
+         
+         
+           
+             
+              <breadCrumb title="SqlServer" url="http://www.fwhyy.com/categories/SqlServer/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2009/09/calligraphy-competition-prizes-heaven-umbrella/</loc>
+    <lastmod>2016-08-16T14:20:10.000Z</lastmod>
+    <data>
+        <display>
+        <title>书法比赛奖品—天堂遮阳伞</title>
+        <pubTime>2009-09-27T16:00:00.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="心情日记" url="http://www.fwhyy.com/categories/%E5%BF%83%E6%83%85%E6%97%A5%E8%AE%B0/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2009/09/backup-windows-live-writers-draft/</loc>
+    <lastmod>2016-08-16T14:10:39.000Z</lastmod>
+    <data>
+        <display>
+        <title>备份windows live writer的草稿</title>
+        <pubTime>2009-09-25T16:00:00.000Z</pubTime>
+        
+        <tag>windows live writer</tag>
+         
+         
+           
+             
+              <breadCrumb title="软件使用" url="http://www.fwhyy.com/categories/%E8%BD%AF%E4%BB%B6%E4%BD%BF%E7%94%A8/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2009/09/windows-live-writer-syntax-highlighting-in-the-plug-in/</loc>
+    <lastmod>2016-08-16T14:09:49.000Z</lastmod>
+    <data>
+        <display>
+        <title>Windows Live Writer中的语法高亮插件</title>
+        <pubTime>2009-09-21T16:00:00.000Z</pubTime>
+        
+        <tag>软件推荐</tag>
+         
+        <tag>语法高亮</tag>
+         
+         
+           
+             
+              <breadCrumb title="软件推荐" url="http://www.fwhyy.com/categories/%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2009/09/use-windows-live-writer-connection-csdn-and-cnblogs-blog/</loc>
+    <lastmod>2016-08-16T14:07:49.000Z</lastmod>
+    <data>
+        <display>
+        <title>使用windows live writer连接CSDN和博客园博客</title>
+        <pubTime>2009-09-25T16:00:00.000Z</pubTime>
+        
+        <tag>windows live writer</tag>
+         
+         
+           
+             
+              <breadCrumb title="软件使用" url="http://www.fwhyy.com/categories/%E8%BD%AF%E4%BB%B6%E4%BD%BF%E7%94%A8/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2009/08/aspnet-mvc-v2-preview-1/</loc>
+    <lastmod>2016-08-16T14:01:23.000Z</lastmod>
+    <data>
+        <display>
+        <title>Asp.net MVC V2 Preview 1 初探</title>
+        <pubTime>2009-08-05T16:00:00.000Z</pubTime>
+        
+        <tag>AspNet</tag>
+         
+        <tag>MVC</tag>
+         
+         
+           
+             
+              <breadCrumb title="Asp.Net MVC" url="http://www.fwhyy.com/categories/Asp-Net-MVC/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2009/07/clr-via-csharp-learning-notes-6-the-method-parameters-related/</loc>
+    <lastmod>2016-08-16T13:51:19.000Z</lastmod>
+    <data>
+        <display>
+        <title>CLR Via C# 学习笔记（6） 方法参数相关（out ref params）</title>
+        <pubTime>2009-07-15T16:00:00.000Z</pubTime>
+        
+        <tag>DotNet</tag>
+         
+        <tag>CLR via C#</tag>
+         
+         
+           
+             
+              <breadCrumb title="CLR Via C#" url="http://www.fwhyy.com/categories/CLR-Via-C/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2009/07/ajaxpro-autocomplete-function-implementation/</loc>
+    <lastmod>2016-08-16T13:47:31.000Z</lastmod>
+    <data>
+        <display>
+        <title>AjaxPro版自动完成（Autocomplete）功能实现</title>
+        <pubTime>2009-07-12T16:00:00.000Z</pubTime>
+        
+        <tag>AspNet</tag>
+         
+        <tag>ajaxpro</tag>
+         
+        <tag>Autocomplete</tag>
+         
+         
+           
+             
+              <breadCrumb title="Asp.Net Ajax" url="http://www.fwhyy.com/categories/Asp-Net-Ajax/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2009/07/clr-via-csharp-learning-notes-5-the-performance-of-the-static-constructor/</loc>
+    <lastmod>2016-08-16T13:42:50.000Z</lastmod>
+    <data>
+        <display>
+        <title>CLR Via C# 学习笔记（5） 静态构造函数的性能</title>
+        <pubTime>2009-07-07T16:00:00.000Z</pubTime>
+        
+        <tag>AspNet</tag>
+         
+        <tag>CLR via C#</tag>
+         
+         
+           
+             
+              <breadCrumb title="CLR Via C#" url="http://www.fwhyy.com/categories/CLR-Via-C/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2009/07/clr-via-csharp-learning-notes-5-methods-the-constructor/</loc>
+    <lastmod>2016-08-16T13:37:49.000Z</lastmod>
+    <data>
+        <display>
+        <title>CLR Via C# 学习笔记（4） 方法 构造函数</title>
+        <pubTime>2009-07-02T16:00:00.000Z</pubTime>
+        
+        <tag>AspNet</tag>
+         
+        <tag>DotNet</tag>
+         
+        <tag>CLR via C#</tag>
+         
+         
+           
+             
+              <breadCrumb title="CLR Via C#" url="http://www.fwhyy.com/categories/CLR-Via-C/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2009/06/aspnet-instead-of-eval-in-two-ways/</loc>
+    <lastmod>2016-08-15T14:42:32.000Z</lastmod>
+    <data>
+        <display>
+        <title>Asp.Net中替代Eval的两种方式</title>
+        <pubTime>2009-06-25T16:00:00.000Z</pubTime>
+        
+        <tag>AspNet</tag>
+         
+        <tag>Eval</tag>
+         
+         
+           
+             
+              <breadCrumb title="Asp.Net" url="http://www.fwhyy.com/categories/Asp-Net/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2009/06/clr-via-csharp-learning-notes-3-constants-and-fields/</loc>
+    <lastmod>2016-08-15T14:36:15.000Z</lastmod>
+    <data>
+        <display>
+        <title>CLR Via C# 学习笔记（3） 常量和字段（const readonly）</title>
+        <pubTime>2009-06-21T16:00:00.000Z</pubTime>
+        
+        <tag>DotNet</tag>
+         
+        <tag>CLR via C#</tag>
+         
+         
+           
+             
+              <breadCrumb title="CLR Via C#" url="http://www.fwhyy.com/categories/CLR-Via-C/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2009/06/clr-via-csharp-learning-notes-2-boxing-and-unboxing/</loc>
+    <lastmod>2016-08-15T14:09:32.000Z</lastmod>
+    <data>
+        <display>
+        <title>CLR Via C# 学习笔记（2） 装箱和拆箱</title>
+        <pubTime>2009-06-17T16:00:00.000Z</pubTime>
+        
+        <tag>DotNet</tag>
+         
+        <tag>CLR via C#</tag>
+         
+         
+           
+             
+              <breadCrumb title="CLR Via C#" url="http://www.fwhyy.com/categories/CLR-Via-C/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2009/06/clr-via-csharp-learning-notes-1-primitive-types/</loc>
+    <lastmod>2016-08-15T14:03:16.000Z</lastmod>
+    <data>
+        <display>
+        <title>CLR Via C# 学习笔记（1） 基元类型 值类型 引用类型</title>
+        <pubTime>2009-06-16T16:00:00.000Z</pubTime>
+        
+        <tag>DotNet</tag>
+         
+        <tag>CLR via C#</tag>
+         
+         
+           
+             
+              <breadCrumb title="CLR Via C#" url="http://www.fwhyy.com/categories/CLR-Via-C/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2009/06/use-zedgraph-in-the-web/</loc>
+    <lastmod>2016-08-15T13:48:12.000Z</lastmod>
+    <data>
+        <display>
+        <title>ZedGraph在Web中的使用</title>
+        <pubTime>2009-06-05T16:00:00.000Z</pubTime>
+        
+        <tag>AspNet</tag>
+         
+        <tag>ZedGraph</tag>
+         
+        <tag>报表统计</tag>
+         
+         
+           
+             
+              <breadCrumb title="Asp.Net" url="http://www.fwhyy.com/categories/Asp-Net/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2009/05/recommend-a-small-screenshots-tools/</loc>
+    <lastmod>2016-08-15T13:35:18.000Z</lastmod>
+    <data>
+        <display>
+        <title>推荐一款小巧的截图工具</title>
+        <pubTime>2009-05-14T16:00:00.000Z</pubTime>
+        
+        <tag>软件推荐</tag>
+         
+        <tag>FastStone</tag>
+         
+         
+           
+             
+              <breadCrumb title="软件推荐" url="http://www.fwhyy.com/categories/%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2009/05/sqlserver2005-additional-database-for-read-only-solutions/</loc>
+    <lastmod>2016-08-15T13:33:42.000Z</lastmod>
+    <data>
+        <display>
+        <title>Sqlserver2005附加数据库为只读的解决方法</title>
+        <pubTime>2009-05-07T16:00:00.000Z</pubTime>
+        
+        <tag>SqlServer</tag>
+         
+        <tag>错误解决</tag>
+         
+         
+           
+             
+              <breadCrumb title="SqlServer" url="http://www.fwhyy.com/categories/SqlServer/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2009/04/aspnet-recursive-implementation-of-css-menu/</loc>
+    <lastmod>2016-08-14T07:59:46.000Z</lastmod>
+    <data>
+        <display>
+        <title>Asp.net中递归实现CSS菜单</title>
+        <pubTime>2009-04-17T16:00:00.000Z</pubTime>
+        
+        <tag>AspNet</tag>
+         
+         
+           
+             
+              <breadCrumb title="Asp.Net" url="http://www.fwhyy.com/categories/Asp-Net/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2009/01/an-introduction-to-the-sample-to-nhibernate/</loc>
+    <lastmod>2016-08-14T07:55:18.000Z</lastmod>
+    <data>
+        <display>
+        <title>NHibernate入门级示例（增 删 改）</title>
+        <pubTime>2009-01-19T16:00:00.000Z</pubTime>
+        
+        <tag>AspNet</tag>
+         
+        <tag>NHibernate</tag>
+         
+         
+           
+             
+              <breadCrumb title="NHibernate" url="http://www.fwhyy.com/categories/NHibernate/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2009/01/aspnet-2-0-the-eval-method-of-explanation/</loc>
+    <lastmod>2016-08-14T07:47:44.000Z</lastmod>
+    <data>
+        <display>
+        <title>Asp.net 2.0的Eval方法详解</title>
+        <pubTime>2009-01-13T16:00:00.000Z</pubTime>
+        
+        <tag>AspNet</tag>
+         
+        <tag>Eval</tag>
+         
+         
+           
+             
+              <breadCrumb title="Asp.Net" url="http://www.fwhyy.com/categories/Asp-Net/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2009/01/aspnet-access-database-connection/</loc>
+    <lastmod>2016-08-14T07:44:32.000Z</lastmod>
+    <data>
+        <display>
+        <title>Asp.Net 连接Access数据库</title>
+        <pubTime>2009-01-09T16:00:00.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="Asp.Net" url="http://www.fwhyy.com/categories/Asp-Net/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2009/01/eliminate-the-prompt-window/</loc>
+    <lastmod>2016-08-14T07:35:22.000Z</lastmod>
+    <data>
+        <display>
+        <title>消除window.close()的提示窗口</title>
+        <pubTime>2009-01-07T16:00:00.000Z</pubTime>
+        
+        <tag>javascript</tag>
+         
+         
+           
+             
+              <breadCrumb title="Javascript" url="http://www.fwhyy.com/categories/Javascript/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2009/01/response-redirect-in-a-new-window-open-3-0-extension-methods/</loc>
+    <lastmod>2016-08-14T07:31:28.000Z</lastmod>
+    <data>
+        <display>
+        <title>Response.Redirect在新窗口打开 && 3.0扩展方法</title>
+        <pubTime>2009-01-06T16:00:00.000Z</pubTime>
+        
+        <tag>AspNet</tag>
+         
+        <tag>DotNet3.0</tag>
+         
+         
+           
+             
+              <breadCrumb title="Asp.Net" url="http://www.fwhyy.com/categories/Asp-Net/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2008/12/masterpage-introduction/</loc>
+    <lastmod>2016-08-14T07:21:23.000Z</lastmod>
+    <data>
+        <display>
+        <title>MasterPage 小谈</title>
+        <pubTime>2008-12-05T16:00:00.000Z</pubTime>
+        
+        <tag>AspNet</tag>
+         
+        <tag>MasterPage</tag>
+         
+         
+           
+             
+              <breadCrumb title="Asp.Net" url="http://www.fwhyy.com/categories/Asp-Net/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2008/11/using-httpmodule-prevent-sql-injection/</loc>
+    <lastmod>2016-08-14T07:18:49.000Z</lastmod>
+    <data>
+        <display>
+        <title>利用HttpModule实现防sql注入</title>
+        <pubTime>2008-11-22T16:00:00.000Z</pubTime>
+        
+        <tag>HttpModule</tag>
+         
+        <tag>Sql注入</tag>
+         
+         
+           
+             
+              <breadCrumb title="Asp.Net" url="http://www.fwhyy.com/categories/Asp-Net/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2008/10/some-tips-of-my97/</loc>
+    <lastmod>2016-08-14T07:02:27.000Z</lastmod>
+    <data>
+        <display>
+        <title>My97 使用的一点技巧</title>
+        <pubTime>2008-10-14T16:00:00.000Z</pubTime>
+        
+        <tag>javascript</tag>
+         
+        <tag>My97</tag>
+         
+         
+           
+             
+              <breadCrumb title="Javascript" url="http://www.fwhyy.com/categories/Javascript/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2008/08/summary-the-database-development/</loc>
+    <lastmod>2016-08-14T06:52:03.000Z</lastmod>
+    <data>
+        <display>
+        <title>开发总结—数据库篇</title>
+        <pubTime>2008-08-05T16:00:00.000Z</pubTime>
+        
+        <tag>小技巧</tag>
+         
+        <tag>Sql</tag>
+         
+         
+           
+             
+              <breadCrumb title="SqlServer" url="http://www.fwhyy.com/categories/SqlServer/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2008/08/sql-to-calculate-a-string-in-the-number-of-occurrences-of-another-string/</loc>
+    <lastmod>2016-08-14T06:46:47.000Z</lastmod>
+    <data>
+        <display>
+        <title>SQL 计算一個字符串在另一个字符串中出現的次数</title>
+        <pubTime>2008-08-05T16:00:00.000Z</pubTime>
+        
+        <tag>小技巧</tag>
+         
+        <tag>Sql</tag>
+         
+         
+           
+             
+              <breadCrumb title="SqlServer" url="http://www.fwhyy.com/categories/SqlServer/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2008/07/remove-the-file-upload-control-values/</loc>
+    <lastmod>2016-08-14T06:43:04.000Z</lastmod>
+    <data>
+        <display>
+        <title>清除上传控件 File 的值</title>
+        <pubTime>2008-07-03T16:00:00.000Z</pubTime>
+        
+        <tag>javascript</tag>
+         
+         
+           
+             
+              <breadCrumb title="Javascript" url="http://www.fwhyy.com/categories/Javascript/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2008/07/to-solve-the-unable-to-solve-the-equal-to-operation-collation-conflict-problem/</loc>
+    <lastmod>2016-08-14T06:41:45.000Z</lastmod>
+    <data>
+        <display>
+        <title>解決“无法解决 equal to 操作的排序规则冲突 ”问题</title>
+        <pubTime>2008-07-02T16:00:00.000Z</pubTime>
+        
+        <tag>SqlServer</tag>
+         
+        <tag>错误解决</tag>
+         
+         
+           
+             
+              <breadCrumb title="SqlServer" url="http://www.fwhyy.com/categories/SqlServer/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2008/05/generate-html-server-controls-in-the-background/</loc>
+    <lastmod>2016-08-14T06:39:27.000Z</lastmod>
+    <data>
+        <display>
+        <title>将服务器控件在后台生成html</title>
+        <pubTime>2008-05-27T16:00:00.000Z</pubTime>
+        
+        <tag>AspNet</tag>
+         
+         
+           
+             
+              <breadCrumb title="Asp.Net" url="http://www.fwhyy.com/categories/Asp-Net/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2008/05/development-summary-javascript/</loc>
+    <lastmod>2016-08-14T06:37:32.000Z</lastmod>
+    <data>
+        <display>
+        <title>开发总结—Javascript篇</title>
+        <pubTime>2008-05-24T16:00:00.000Z</pubTime>
+        
+        <tag>小技巧</tag>
+         
+        <tag>javascript</tag>
+         
+         
+           
+             
+              <breadCrumb title="Javascript" url="http://www.fwhyy.com/categories/Javascript/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2008/05/sybase-powerdesiner12-0-download/</loc>
+    <lastmod>2016-08-13T15:00:01.000Z</lastmod>
+    <data>
+        <display>
+        <title>Sybase.PowerDesiner12.0 下载 破解 汉化</title>
+        <pubTime>2008-05-10T16:00:00.000Z</pubTime>
+        
+        <tag>PowerDesiner</tag>
+         
+         
+           
+             
+              <breadCrumb title="软件使用" url="http://www.fwhyy.com/categories/%E8%BD%AF%E4%BB%B6%E4%BD%BF%E7%94%A8/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2008/03/the-rockets-18-in-a-row/</loc>
+    <lastmod>2016-08-13T14:48:55.000Z</lastmod>
+    <data>
+        <display>
+        <title>火箭十八连胜 振奋人心</title>
+        <pubTime>2008-03-08T16:00:00.000Z</pubTime>
+        
+        <tag>NBA</tag>
+         
+        <tag>篮球</tag>
+         
+         
+           
+             
+              <breadCrumb title="篮球" url="http://www.fwhyy.com/categories/%E7%AF%AE%E7%90%83/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2008/03/learning-csharp-3-0-3-anonymous-types/</loc>
+    <lastmod>2016-08-13T14:47:45.000Z</lastmod>
+    <data>
+        <display>
+        <title>C#3.0学习(3)—匿名类型</title>
+        <pubTime>2008-03-08T16:00:00.000Z</pubTime>
+        
+        <tag>C#</tag>
+         
+        <tag>DotNet3.0</tag>
+         
+         
+           
+             
+              <breadCrumb title="C#" url="http://www.fwhyy.com/categories/C/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2008/03/window-print-implementation-local-print/</loc>
+    <lastmod>2016-08-13T14:46:09.000Z</lastmod>
+    <data>
+        <display>
+        <title>window.print()实现局部打印</title>
+        <pubTime>2008-03-05T16:00:00.000Z</pubTime>
+        
+        <tag>javascript</tag>
+         
+        <tag>print</tag>
+         
+         
+           
+             
+              <breadCrumb title="Javascript" url="http://www.fwhyy.com/categories/Javascript/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2008/01/updatepanel-issues/</loc>
+    <lastmod>2016-08-13T14:44:25.000Z</lastmod>
+    <data>
+        <display>
+        <title>解决AJAX中使用UpdatePanel后再用Response.Write();无法弹出对话框问题</title>
+        <pubTime>2008-01-18T16:00:00.000Z</pubTime>
+        
+        <tag>AspNet</tag>
+         
+        <tag>错误解决</tag>
+         
+        <tag>Ajax</tag>
+         
+         
+           
+             
+              <breadCrumb title="Asp.Net Ajax" url="http://www.fwhyy.com/categories/Asp-Net-Ajax/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2008/02/using-iedevtoolbar/</loc>
+    <lastmod>2016-08-13T14:40:51.000Z</lastmod>
+    <data>
+        <display>
+        <title>DOM结构展现工具—iedevtoolbar</title>
+        <pubTime>2008-02-24T16:00:00.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="软件推荐" url="http://www.fwhyy.com/categories/%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2008/02/learning-c-3-0-2-object-collection-initializer/</loc>
+    <lastmod>2016-08-13T14:39:31.000Z</lastmod>
+    <data>
+        <display>
+        <title>C#3.0学习(2)—对象集合初始化器</title>
+        <pubTime>2008-02-24T16:00:00.000Z</pubTime>
+        
+        <tag>C#</tag>
+         
+        <tag>DotNet3.0</tag>
+         
+         
+           
+             
+              <breadCrumb title="C#" url="http://www.fwhyy.com/categories/C/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2008/02/learning-csharp-3-0-1-implied-type-of-local-variables-and-extension-methods/</loc>
+    <lastmod>2016-08-13T14:35:46.000Z</lastmod>
+    <data>
+        <display>
+        <title>C#3.0学习(1)—隐含类型局部变量和扩展方法</title>
+        <pubTime>2008-02-21T16:00:00.000Z</pubTime>
+        
+        <tag>C#</tag>
+         
+        <tag>DotNet3.0</tag>
+         
+         
+           
+             
+              <breadCrumb title="C#" url="http://www.fwhyy.com/categories/C/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2008/02/dynamically-add-tow-to-gridview/</loc>
+    <lastmod>2016-08-13T14:31:29.000Z</lastmod>
+    <data>
+        <display>
+        <title>动态添加GridView行</title>
+        <pubTime>2008-02-14T16:00:00.000Z</pubTime>
+        
+        <tag>AspNet</tag>
+         
+        <tag>GrdiView</tag>
+         
+         
+           
+             
+              <breadCrumb title="Asp.Net" url="http://www.fwhyy.com/categories/Asp-Net/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2008/01/the-realization-of-the-html-form-thin-lines/</loc>
+    <lastmod>2016-08-13T14:29:37.000Z</lastmod>
+    <data>
+        <display>
+        <title>Html细线表格的实现</title>
+        <pubTime>2008-01-09T16:00:00.000Z</pubTime>
+        
+        <tag>HTML</tag>
+         
+         
+           
+             
+              <breadCrumb title="HTML" url="http://www.fwhyy.com/categories/HTML/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2007/12/type-of-the-gridview-controls-within-the-form-tag-must-be-placed-with-runat-equal-server-error-solution/</loc>
+    <lastmod>2016-08-13T14:08:05.000Z</lastmod>
+    <data>
+        <display>
+        <title>类型“GridView”的控件 必须放在具有 runat=server 的窗体标记内 错误的解决方法</title>
+        <pubTime>2007-12-15T16:00:00.000Z</pubTime>
+        
+        <tag>AspNet</tag>
+         
+        <tag>错误解决</tag>
+         
+        <tag>GrdiView</tag>
+         
+         
+           
+             
+              <breadCrumb title="Asp.Net" url="http://www.fwhyy.com/categories/Asp-Net/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2007/12/delete-recently-opened-in-visual-studio-project-and-file-records/</loc>
+    <lastmod>2016-08-13T14:06:04.000Z</lastmod>
+    <data>
+        <display>
+        <title>在visual studio中删除最近打开的项目和文件记录的方法</title>
+        <pubTime>2007-12-04T16:00:00.000Z</pubTime>
+        
+        <tag>visual studio</tag>
+         
+         
+           
+             
+              <breadCrumb title="DotNet" url="http://www.fwhyy.com/categories/DotNet/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2007/12/solve-the-problem-of-sqlserver2005-database-sa-login/</loc>
+    <lastmod>2016-08-13T14:04:46.000Z</lastmod>
+    <data>
+        <display>
+        <title>解决sqlserver2005数据库sa登录问题</title>
+        <pubTime>2007-12-01T16:00:00.000Z</pubTime>
+        
+        <tag>SqlServer</tag>
+         
+        <tag>错误解决</tag>
+         
+        <tag>Sql</tag>
+         
+         
+           
+             
+              <breadCrumb title="SqlServer" url="http://www.fwhyy.com/categories/SqlServer/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2007/11/several-different-types-without-refresh-linkage-example/</loc>
+    <lastmod>2016-08-13T14:01:24.000Z</lastmod>
+    <data>
+        <display>
+        <title>几个不同类型无刷新联动例子</title>
+        <pubTime>2007-11-29T16:00:00.000Z</pubTime>
+        
+        <tag>AspNet</tag>
+         
+        <tag>Ajax</tag>
+         
+        <tag>无刷新联动</tag>
+         
+         
+           
+             
+              <breadCrumb title="Asp.Net Ajax" url="http://www.fwhyy.com/categories/Asp-Net-Ajax/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2007/11/to-realize-the-checkbox-selection-in-the-gridview/</loc>
+    <lastmod>2016-08-13T13:54:42.000Z</lastmod>
+    <data>
+        <display>
+        <title>GridView中实现CheckBox的全选</title>
+        <pubTime>2007-11-08T16:00:00.000Z</pubTime>
+        
+        <tag>AspNet</tag>
+         
+        <tag>CheckBox</tag>
+         
+        <tag>全选</tag>
+         
+        <tag>gridview</tag>
+         
+         
+           
+             
+              <breadCrumb title="Asp.Net" url="http://www.fwhyy.com/categories/Asp-Net/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2007/10/stored-procedure-to-generate-a-serial-number/</loc>
+    <lastmod>2016-08-13T13:37:46.000Z</lastmod>
+    <data>
+        <display>
+        <title>存储过程生成流水号</title>
+        <pubTime>2007-10-30T16:00:00.000Z</pubTime>
+        
+        <tag>SqlServer</tag>
+         
+        <tag>Sql</tag>
+         
+        <tag>存储过程</tag>
+         
+         
+           
+             
+              <breadCrumb title="SqlServer" url="http://www.fwhyy.com/categories/SqlServer/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2007/09/asp-net-ajax-validatorcallout/</loc>
+    <lastmod>2016-08-13T13:29:10.000Z</lastmod>
+    <data>
+        <display>
+        <title>Asp.Net Ajax—ValidatorCallout控件使用</title>
+        <pubTime>2007-09-05T16:00:00.000Z</pubTime>
+        
+        <tag>AspNet</tag>
+         
+        <tag>Ajax</tag>
+         
+         
+           
+             
+              <breadCrumb title="Asp.Net Ajax" url="http://www.fwhyy.com/categories/Asp-Net-Ajax/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2007/09/asp-net-ajax-hovermenu/</loc>
+    <lastmod>2016-08-13T13:21:08.000Z</lastmod>
+    <data>
+        <display>
+        <title>Asp.Net Ajax-HoverMenu控件使用</title>
+        <pubTime>2007-09-05T16:00:00.000Z</pubTime>
+        
+        <tag>AspNet</tag>
+         
+        <tag>Ajax</tag>
+         
+         
+           
+             
+              <breadCrumb title="Asp.Net Ajax" url="http://www.fwhyy.com/categories/Asp-Net-Ajax/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2007/07/solve-the-problem-of-the-aspnet-ajax-updatepanel-garbled/</loc>
+    <lastmod>2016-08-13T08:37:28.000Z</lastmod>
+    <data>
+        <display>
+        <title>解决Asp.Net Ajax UpdatePanel 乱码问题</title>
+        <pubTime>2007-07-24T16:00:00.000Z</pubTime>
+        
+        <tag>AspNet</tag>
+         
+        <tag>Ajax</tag>
+         
+         
+           
+             
+              <breadCrumb title="Asp.Net Ajax" url="http://www.fwhyy.com/categories/Asp-Net-Ajax/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2007/08/asp-net-ajax-autocomplete/</loc>
+    <lastmod>2016-08-13T08:37:09.000Z</lastmod>
+    <data>
+        <display>
+        <title>Asp.Net Ajax —AutoComplete控件使用</title>
+        <pubTime>2007-08-17T16:00:00.000Z</pubTime>
+        
+        <tag>AspNet</tag>
+         
+        <tag>Autocomplete</tag>
+         
+        <tag>Ajax</tag>
+         
+         
+           
+             
+              <breadCrumb title="Asp.Net Ajax" url="http://www.fwhyy.com/categories/Asp-Net-Ajax/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2007/08/asp-net-ajax-filteredtextbox/</loc>
+    <lastmod>2016-08-13T08:37:01.000Z</lastmod>
+    <data>
+        <display>
+        <title>Asp.Net Ajax—FilteredTextBox控件使用</title>
+        <pubTime>2007-08-20T16:00:00.000Z</pubTime>
+        
+        <tag>AspNet</tag>
+         
+        <tag>Ajax</tag>
+         
+         
+           
+             
+              <breadCrumb title="Asp.Net Ajax" url="http://www.fwhyy.com/categories/Asp-Net-Ajax/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2007/08/asp-net-ajax-textboxwateramrk/</loc>
+    <lastmod>2016-08-13T08:36:53.000Z</lastmod>
+    <data>
+        <display>
+        <title>Asp.Net Ajax—TextBoxWateramrk</title>
+        <pubTime>2007-08-22T16:00:00.000Z</pubTime>
+        
+        <tag>Ajax</tag>
+         
+        <tag>spNet</tag>
+         
+         
+           
+             
+              <breadCrumb title="Asp.Net Ajax" url="http://www.fwhyy.com/categories/Asp-Net-Ajax/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2007/08/asp-net-ajax-passwordstrength/</loc>
+    <lastmod>2016-08-13T08:36:47.000Z</lastmod>
+    <data>
+        <display>
+        <title>Asp.Net Ajax-Passwordstrength控件使用</title>
+        <pubTime>2007-08-24T16:00:00.000Z</pubTime>
+        
+        <tag>AspNet</tag>
+         
+        <tag>Ajax</tag>
+         
+         
+           
+             
+              <breadCrumb title="Asp.Net Ajax" url="http://www.fwhyy.com/categories/Asp-Net-Ajax/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2007/05/implement-mouseover-highlight-respectively-in-the-gridview-and-the-datagrid/</loc>
+    <lastmod>2016-08-12T16:12:23.000Z</lastmod>
+    <data>
+        <display>
+        <title>实现鼠标悬停高亮显示—分别在gridview和datagrid中</title>
+        <pubTime>2007-05-06T16:00:00.000Z</pubTime>
+        
+        <tag>AspNet</tag>
+         
+        <tag>小技巧</tag>
+         
+        <tag>GrdiView</tag>
+         
+         
+           
+             
+              <breadCrumb title="Asp.Net" url="http://www.fwhyy.com/categories/Asp-Net/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2007/01/simple-to-use-aspnet-in-crystal-reports/</loc>
+    <lastmod>2016-08-12T16:05:23.000Z</lastmod>
+    <data>
+        <display>
+        <title>Asp.Net中水晶报表的简单使用</title>
+        <pubTime>2007-01-10T16:00:00.000Z</pubTime>
+        
+        <tag>AspNet</tag>
+         
+        <tag>水晶报表</tag>
+         
+         
+           
+             
+              <breadCrumb title="Asp.Net" url="http://www.fwhyy.com/categories/Asp-Net/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2007/01/see-yaos-injury-after-the-rockets/</loc>
+    <lastmod>2016-08-12T16:01:44.000Z</lastmod>
+    <data>
+        <display>
+        <title>看姚明受伤后的火箭</title>
+        <pubTime>2007-01-07T16:00:00.000Z</pubTime>
+        
+        <tag>NBA</tag>
+         
+        <tag>篮球</tag>
+         
+         
+           
+             
+              <breadCrumb title="篮球" url="http://www.fwhyy.com/categories/%E7%AF%AE%E7%90%83/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2007/01/2006-2007/</loc>
+    <lastmod>2016-08-12T15:58:02.000Z</lastmod>
+    <data>
+        <display>
+        <title>回顾2006 畅想2007</title>
+        <pubTime>2007-01-05T16:00:00.000Z</pubTime>
+        
+        <tag>总结</tag>
+         
+         
+           
+             
+              <breadCrumb title="心情日记" url="http://www.fwhyy.com/categories/%E5%BF%83%E6%83%85%E6%97%A5%E8%AE%B0/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2007/01/a-small-performance-test-of-asp-net/</loc>
+    <lastmod>2016-08-12T15:53:51.000Z</lastmod>
+    <data>
+        <display>
+        <title>Asp.Net中的一个小的性能测试</title>
+        <pubTime>2007-01-02T16:00:00.000Z</pubTime>
+        
+        <tag>AspNet</tag>
+         
+        <tag>性能</tag>
+         
+         
+           
+             
+              <breadCrumb title="Asp.Net" url="http://www.fwhyy.com/categories/Asp-Net/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2007/01/asp-net-lists-data-bound-controls/</loc>
+    <lastmod>2016-08-12T15:33:50.000Z</lastmod>
+    <data>
+        <display>
+        <title>Asp.Net中列表数据绑定控件浅析</title>
+        <pubTime>2007-01-02T16:00:00.000Z</pubTime>
+        
+        <tag>AspNet</tag>
+         
+         
+           
+             
+              <breadCrumb title="Asp.Net" url="http://www.fwhyy.com/categories/Asp-Net/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+    
+  <url>
+    <loc>http://www.fwhyy.com/2006/12/yao-ming-a-rebounding-flat-poor-records-the-rockets-2-points-defeat-the-blazers/</loc>
+    <lastmod>2016-08-12T04:54:46.000Z</lastmod>
+    <data>
+        <display>
+        <title>姚明差一篮板平记录 火箭2分惜败开拓者</title>
+        <pubTime>2006-12-21T16:00:00.000Z</pubTime>
+        
+        <tag>NBA</tag>
+         
+        <tag>篮球</tag>
+         
+         
+           
+             
+              <breadCrumb title="篮球" url="http://www.fwhyy.com/categories/%E7%AF%AE%E7%90%83/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2006/12/to-promote-the-blog-four-tips/</loc>
+    <lastmod>2016-08-12T04:53:15.000Z</lastmod>
+    <data>
+        <display>
+        <title>推广blog四妙招！</title>
+        <pubTime>2006-12-20T16:00:00.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="随笔杂谈" url="http://www.fwhyy.com/categories/%E9%9A%8F%E7%AC%94%E6%9D%82%E8%B0%88/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2006/12/english-cet-4/</loc>
+    <lastmod>2016-08-12T04:49:06.000Z</lastmod>
+    <data>
+        <display>
+        <title>该死的英语四级</title>
+        <pubTime>2006-12-13T16:00:00.000Z</pubTime>
+        
+        <tag>英语</tag>
+         
+         
+           
+             
+              <breadCrumb title="心情日记" url="http://www.fwhyy.com/categories/%E5%BF%83%E6%83%85%E6%97%A5%E8%AE%B0/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2006/11/prison-break/</loc>
+    <lastmod>2016-08-12T01:48:53.000Z</lastmod>
+    <data>
+        <display>
+        <title>越狱</title>
+        <pubTime>2006-11-28T16:00:00.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="心情日记" url="http://www.fwhyy.com/categories/%E5%BF%83%E6%83%85%E6%97%A5%E8%AE%B0/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+</urlset>
