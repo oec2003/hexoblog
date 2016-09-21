@@ -1,7 +1,7 @@
 ---
 title: 使用fancybox
 date: 2015-12-02
-categories: [Javascript, JQuery]
+categories: [JQuery]
 tags: [fancybox, javascript, JQuery]
 ---
 

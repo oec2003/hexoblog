@@ -1,5 +1,5 @@
 ---
-title: the-first-job-thoughts
+title: 第一份工作感想
 date: 2007-10-17
 categories: [心情日记]
 tags:

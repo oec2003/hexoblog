@@ -431,7 +431,7 @@
     <link href="http://www.fwhyy.com/2015/12/use-fancybox/"/>
     <id>http://www.fwhyy.com/2015/12/use-fancybox/</id>
     <published>2015-12-01T16:00:00.000Z</published>
-    <updated>2016-08-31T15:28:31.000Z</updated>
+    <updated>2016-09-21T15:37:34.000Z</updated>
     
     <content type="html"><![CDATA[<p>fancybox是一款不错的展示图片的jQuery插件，就目前在网上查到的资料大体有1.x和2.x两个大大版本，两个版本的用法有不少的差别，本文主要介绍的是2.1.5版本的使用。</p>
 <h2 id="实现功能"><a href="#实现功能" class="headerlink" title="实现功能"></a>实现功能</h2><p>fancybox功能很多，也有很多的插件，本文主要实现以下功能：</p>
@@ -454,9 +454,7 @@
     
     </summary>
     
-      <category term="Javascript" scheme="http://www.fwhyy.com/categories/Javascript/"/>
-    
-      <category term="JQuery" scheme="http://www.fwhyy.com/categories/Javascript/JQuery/"/>
+      <category term="JQuery" scheme="http://www.fwhyy.com/categories/JQuery/"/>
     
     
       <category term="javascript" scheme="http://www.fwhyy.com/tags/javascript/"/>
@@ -702,34 +700,6 @@
   </entry>
   
   <entry>
-    <title>C#访问群集部署时的MongoDB</title>
-    <link href="http://www.fwhyy.com/2015/08/mongodb-access-to-the-csharp-of-the-cluster/"/>
-    <id>http://www.fwhyy.com/2015/08/mongodb-access-to-the-csharp-of-the-cluster/</id>
-    <published>2015-08-12T16:00:00.000Z</published>
-    <updated>2016-09-02T01:06:38.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>普通的MongoDB部署有一台主、一台备，程序连接MongoDB时需要主服务器的地址以及端口，当群集部署的时候就会有多个服务器地址需要连接，MongoDB的C# API可以支持同时连接多台服务器。</p>
-<h2 id="单台"><a href="#单台" class="headerlink" title="单台"></a>单台</h2><figure class="highlight crmsh"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">MongoClient mc = new MongoClient(<span class="string">"mongodb://oec2003:20720"</span>);</div><div class="line">MongoServer <span class="keyword">ms</span> <span class="title">= mc</span>.GetServer();</div><div class="line">MongoDatabase md = ms.GetDatabase(<span class="string">"DBName"</span>);</div></pre></td></tr></table></figure>
-<h3 id="群集"><a href="#群集" class="headerlink" title="群集"></a>群集</h3><figure class="highlight lasso"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div></pre></td><td class="code"><pre><div class="line"><span class="built_in">List</span>&lt;MongoServerAddress&gt; <span class="built_in">list</span> = <span class="literal">new</span> <span class="built_in">List</span>&lt;MongoServerAddress&gt;();</div><div class="line"><span class="built_in">list</span>.Add(<span class="literal">new</span> MongoServerAddress(<span class="string">"192.168.16.207"</span>, <span class="number">40000</span>));</div><div class="line"><span class="built_in">list</span>.Add(<span class="literal">new</span> MongoServerAddress(<span class="string">"192.168.16.208"</span>, <span class="number">40000</span>));</div><div class="line"><span class="built_in">list</span>.Add(<span class="literal">new</span> MongoServerAddress(<span class="string">"192.168.16.209"</span>, <span class="number">40000</span>));</div><div class="line">MongoClientSettings mcs = <span class="literal">new</span> MongoClientSettings();</div><div class="line">mcs.Servers = <span class="built_in">list</span>;</div><div class="line">MongoClient mc = <span class="literal">new</span> MongoClient(mcs);</div><div class="line">MongoServer ms = mc.GetServer();</div><div class="line"></div><div class="line">MongoDatabase md = ms.GetDatabase(<span class="string">"DBName"</span>);</div></pre></td></tr></table></figure>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;普通的MongoDB部署有一台主、一台备，程序连接MongoDB时需要主服务器的地址以及端口，当群集部署的时候就会有多个服务器地址需要连接，MongoDB的C# API可以支持同时连接多台服务器。&lt;/p&gt;
-&lt;h2 id=&quot;单台&quot;&gt;&lt;a href=&quot;#单台&quot; class=&quot;h
-    
-    </summary>
-    
-      <category term="MongoDB" scheme="http://www.fwhyy.com/categories/MongoDB/"/>
-    
-    
-      <category term="C#" scheme="http://www.fwhyy.com/tags/C/"/>
-    
-      <category term="MongoDB" scheme="http://www.fwhyy.com/tags/MongoDB/"/>
-    
-  </entry>
-  
-  <entry>
     <title>开源上传组件stream的.Net后台实现</title>
     <link href="http://www.fwhyy.com/2015/08/stream-aspnet/"/>
     <id>http://www.fwhyy.com/2015/08/stream-aspnet/</id>
@@ -773,6 +743,34 @@
       <category term="DotNet" scheme="http://www.fwhyy.com/tags/DotNet/"/>
     
       <category term="stream" scheme="http://www.fwhyy.com/tags/stream/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>C#访问群集部署时的MongoDB</title>
+    <link href="http://www.fwhyy.com/2015/08/mongodb-access-to-the-csharp-of-the-cluster/"/>
+    <id>http://www.fwhyy.com/2015/08/mongodb-access-to-the-csharp-of-the-cluster/</id>
+    <published>2015-08-12T16:00:00.000Z</published>
+    <updated>2016-09-02T01:06:38.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>普通的MongoDB部署有一台主、一台备，程序连接MongoDB时需要主服务器的地址以及端口，当群集部署的时候就会有多个服务器地址需要连接，MongoDB的C# API可以支持同时连接多台服务器。</p>
+<h2 id="单台"><a href="#单台" class="headerlink" title="单台"></a>单台</h2><figure class="highlight crmsh"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">MongoClient mc = new MongoClient(<span class="string">"mongodb://oec2003:20720"</span>);</div><div class="line">MongoServer <span class="keyword">ms</span> <span class="title">= mc</span>.GetServer();</div><div class="line">MongoDatabase md = ms.GetDatabase(<span class="string">"DBName"</span>);</div></pre></td></tr></table></figure>
+<h3 id="群集"><a href="#群集" class="headerlink" title="群集"></a>群集</h3><figure class="highlight lasso"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div></pre></td><td class="code"><pre><div class="line"><span class="built_in">List</span>&lt;MongoServerAddress&gt; <span class="built_in">list</span> = <span class="literal">new</span> <span class="built_in">List</span>&lt;MongoServerAddress&gt;();</div><div class="line"><span class="built_in">list</span>.Add(<span class="literal">new</span> MongoServerAddress(<span class="string">"192.168.16.207"</span>, <span class="number">40000</span>));</div><div class="line"><span class="built_in">list</span>.Add(<span class="literal">new</span> MongoServerAddress(<span class="string">"192.168.16.208"</span>, <span class="number">40000</span>));</div><div class="line"><span class="built_in">list</span>.Add(<span class="literal">new</span> MongoServerAddress(<span class="string">"192.168.16.209"</span>, <span class="number">40000</span>));</div><div class="line">MongoClientSettings mcs = <span class="literal">new</span> MongoClientSettings();</div><div class="line">mcs.Servers = <span class="built_in">list</span>;</div><div class="line">MongoClient mc = <span class="literal">new</span> MongoClient(mcs);</div><div class="line">MongoServer ms = mc.GetServer();</div><div class="line"></div><div class="line">MongoDatabase md = ms.GetDatabase(<span class="string">"DBName"</span>);</div></pre></td></tr></table></figure>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;普通的MongoDB部署有一台主、一台备，程序连接MongoDB时需要主服务器的地址以及端口，当群集部署的时候就会有多个服务器地址需要连接，MongoDB的C# API可以支持同时连接多台服务器。&lt;/p&gt;
+&lt;h2 id=&quot;单台&quot;&gt;&lt;a href=&quot;#单台&quot; class=&quot;h
+    
+    </summary>
+    
+      <category term="MongoDB" scheme="http://www.fwhyy.com/categories/MongoDB/"/>
+    
+    
+      <category term="C#" scheme="http://www.fwhyy.com/tags/C/"/>
+    
+      <category term="MongoDB" scheme="http://www.fwhyy.com/tags/MongoDB/"/>
     
   </entry>
   

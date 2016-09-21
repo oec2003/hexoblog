@@ -1,5 +1,5 @@
 ---
-title: asp-net-ajax-popupcontrol
+title: Asp.Net Ajax-PopupControl控件使用
 date: 2007-09-19
 categories: [Asp.Net Ajax]
 tags: [Ajax,AspNet]
