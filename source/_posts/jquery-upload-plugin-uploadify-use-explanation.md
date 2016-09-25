@@ -1,11 +1,13 @@
 ---
-title: JQuery上传插件Uploadify使用详解
+title: jQuery上传插件Uploadify使用详解
 date: 2010-01-06
 categories: [JQuery]
 tags: [JQuery, Uploadify]
 ---
 
-Uploadify是JQuery的一个上传插件，实现的效果非常不错，带进度显示。不过官方提供的实例时php版本的，本文将详细介绍Uploadify在Aspnet中的使用，您也可以点击下面的链接进行演示或下载。
+**截止（2016-09-25）最新版本3.2.1的详解请移步《[jQuery上传插件Uploadify使用详解(3.2.1)](http://fwhyy.com/2016/09/jquery-upload-plugin-uploadify-3-2-1-use-explanation/)》**
+
+Uploadify是jQuery的一个上传插件，实现的效果非常不错，带进度显示。不过官方提供的实例时php版本的，本文将详细介绍Uploadify在Aspnet中的使用，您也可以点击下面的链接进行演示或下载。
 
 * [官方下载](http://www.uploadify.com/download)
 * [官方文档](http://www.uploadify.com/documentation)
