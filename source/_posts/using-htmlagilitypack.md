@@ -13,15 +13,15 @@ HtmlAgilityPack是一个开源的解析HTML元素的类库，最大的特点是�
 
 下面以一个简单的例子来介绍下HtmlAgilityPack的使用，对于Asp.Net程序开发的网站要做模拟登录的时候，除了要知道用户名文本框和密码文本框的name属性值外，还需要知道页面的__VIEWSTATE、__EVENTVALIDATION这两个隐藏控件的值，以及提交按钮的name属性，下面看看怎样使用HtmlAgilityPack来获得这个额外的值。
 
-1. 在项目中添加对HtmlAgilityPack.dll的引用
+1、在项目中添加对HtmlAgilityPack.dll的引用
 
-![3cefded1gw1e8nc9tc79qj208m05tt95](http://oec2003.qiniudn.com/3cefded1gw1e8nc9tc79qj208m05tt95.jpg)
+![](http://oec2003.qiniudn.com/3cefded1gw1e8nc9tc79qj208m05tt95.jpg)
 
-2. 在Aspx页面中放几个文本框控件和一个按钮控件
+2、在Aspx页面中放几个文本框控件和一个按钮控件
 
-![3cefded1gw1e8ncsgq6y7j208u0a0gls](http://oec2003.qiniudn.com/3cefded1gw1e8ncsgq6y7j208u0a0gls.jpg)
+![](http://oec2003.qiniudn.com/3cefded1gw1e8ncsgq6y7j208u0a0gls.jpg)
 
-3. 按钮的后台事件如下
+3、按钮的后台事件如下
 
 ```
 protected void btnHtml_Click(object sender, EventArgs e)
@@ -44,9 +44,9 @@ protected void btnHtml_Click(object sender, EventArgs e)
 }
 ```
 
-4. 以博客园的登录界面为例，获取后的界面如下
+4、以博客园的登录界面为例，获取后的界面如下
 
-![3cefded1gw1e8ncsg37e7j208w09zdgu](http://oec2003.qiniudn.com/3cefded1gw1e8ncsg37e7j208w09zdgu.jpg)
+![](http://oec2003.qiniudn.com/3cefded1gw1e8ncsg37e7j208w09zdgu.jpg)
 
 [示例下载](http://pan.baidu.com/share/link?shareid=71500880&uk=2902808695)
 

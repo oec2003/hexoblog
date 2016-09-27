@@ -13,7 +13,7 @@ stream是一款功能很强大的上传组件，支持Html5和Flash两种方式�
 
 ## 项目结构图如下：
 
-![3cefded1gw1ev09rbskuoj20880eeab8](http://oec2003.qiniudn.com/3cefded1gw1ev09rbskuoj20880eeab8.jpg)
+![项目结构图](http://oec2003.qiniudn.com/3cefded1gw1ev09rbskuoj20880eeab8.jpg)
 
 * common： 一些公共的帮助类和实体类
 * css： stream的css文件和图片
@@ -30,5 +30,5 @@ stream是一款功能很强大的上传组件，支持Html5和Flash两种方式�
 
 ## 运行效果
 
-![3cefded1gw1ev0a2g8kg7j20h90fhab](http://oec2003.qiniudn.com/3cefded1gw1ev0a2g8kg7j20h90fhabc.jpg)
+![运行效果](http://oec2003.qiniudn.com/3cefded1gw1ev0a2g8kg7j20h90fhabc.jpg)
 

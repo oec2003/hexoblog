@@ -34,7 +34,7 @@ Uploadify 的使用分为属性配置，事件和方法三大块，根据[官方
 * 官方网站：[http://www.twinkling.cn/](http://www.twinkling.cn/)
 * 项目地址：[http://git.oschina.net/jiangdx/stream](http://git.oschina.net/jiangdx/stream)
 
-该组件是纯 js 组件，理论上可以支持任何的服务端语言，目前可以支持 Java 、Perl 、PHP 和 Asp.Net ，其中 Asp.Net 的实现是我写的，代码实现也放在了 Github上：
+该组件是纯 js 组件，理论上可以支持任何的服务端语言，目前可以支持 Java 、Perl 、PHP 和 Asp.Net ，其中 Asp.Net 的实现是我写的，之前也写了篇博客《[开源上传组件stream的.Net后台实现](http://fwhyy.com/2015/08/stream-aspnet/)》来介绍，代码实现也放在了 Github上：
 
 * StreamAsp.Net项目地址：[https://github.com/oec2003/StreamAspNet](https://github.com/oec2003/StreamAspNet)
 

@@ -4,12 +4,36 @@
 
     
   <url>
-    <loc>http://www.fwhyy.com/2016/09/jquery-upload-plugin-uploadify-3-2-1-use-explanation/</loc>
-    <lastmod>2016-09-25T13:29:08.000Z</lastmod>
+    <loc>http://www.fwhyy.com/2015/08/stream-aspnet/</loc>
+    <lastmod>2016-09-27T13:29:24.000Z</lastmod>
     <data>
         <display>
-        <title>jQuery上传插件Uploadify使用详解(3.2.1)</title>
-        <pubTime>2016-09-25T10:57:49.000Z</pubTime>
+        <title>开源上传组件stream的.Net后台实现</title>
+        <pubTime>2015-08-12T16:00:00.000Z</pubTime>
+        
+        <tag>C#</tag>
+         
+        <tag>DotNet</tag>
+         
+        <tag>stream</tag>
+         
+         
+           
+             
+              <breadCrumb title="Asp.Net" url="http://www.fwhyy.com/categories/Asp-Net/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2010/01/jquery-upload-plugin-uploadify-use-explanation/</loc>
+    <lastmod>2016-09-26T01:22:00.000Z</lastmod>
+    <data>
+        <display>
+        <title>jQuery上传插件Uploadify使用详解</title>
+        <pubTime>2010-01-05T16:00:00.000Z</pubTime>
         
         <tag>JQuery</tag>
          
@@ -26,12 +50,34 @@
 
     
   <url>
-    <loc>http://www.fwhyy.com/2010/01/jquery-upload-plugin-uploadify-use-explanation/</loc>
-    <lastmod>2016-09-25T12:03:29.000Z</lastmod>
+    <loc>http://www.fwhyy.com/2013/09/using-htmlagilitypack/</loc>
+    <lastmod>2016-09-25T15:19:26.000Z</lastmod>
     <data>
         <display>
-        <title>jQuery上传插件Uploadify使用详解</title>
-        <pubTime>2010-01-05T16:00:00.000Z</pubTime>
+        <title>HTML解析组件HtmlAgilityPack使用</title>
+        <pubTime>2013-09-14T16:00:00.000Z</pubTime>
+        
+        <tag>HtmlAgilityPack</tag>
+         
+        <tag>HTML解析</tag>
+         
+         
+           
+             
+              <breadCrumb title="Asp.Net" url="http://www.fwhyy.com/categories/Asp-Net/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.fwhyy.com/2016/09/jquery-upload-plugin-uploadify-3-2-1-use-explanation/</loc>
+    <lastmod>2016-09-25T15:09:36.000Z</lastmod>
+    <data>
+        <display>
+        <title>jQuery上传插件Uploadify使用详解(3.2.1)</title>
+        <pubTime>2016-09-25T10:57:49.000Z</pubTime>
         
         <tag>JQuery</tag>
          
@@ -892,30 +938,6 @@
 
     
   <url>
-    <loc>http://www.fwhyy.com/2015/08/stream-aspnet/</loc>
-    <lastmod>2016-09-02T01:07:07.000Z</lastmod>
-    <data>
-        <display>
-        <title>开源上传组件stream的.Net后台实现</title>
-        <pubTime>2015-08-12T16:00:00.000Z</pubTime>
-        
-        <tag>C#</tag>
-         
-        <tag>DotNet</tag>
-         
-        <tag>stream</tag>
-         
-         
-           
-             
-              <breadCrumb title="Asp.Net" url="http://www.fwhyy.com/categories/Asp-Net/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://www.fwhyy.com/2015/08/mongodb-access-to-the-csharp-of-the-cluster/</loc>
     <lastmod>2016-09-02T01:06:38.000Z</lastmod>
     <data>
@@ -1065,28 +1087,6 @@
            
              
               <breadCrumb title="Octopress" url="http://www.fwhyy.com/categories/Octopress/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://www.fwhyy.com/2013/09/using-htmlagilitypack/</loc>
-    <lastmod>2016-08-31T15:29:43.000Z</lastmod>
-    <data>
-        <display>
-        <title>HTML解析组件HtmlAgilityPack使用</title>
-        <pubTime>2013-09-14T16:00:00.000Z</pubTime>
-        
-        <tag>HtmlAgilityPack</tag>
-         
-        <tag>HTML解析</tag>
-         
-         
-           
-             
-              <breadCrumb title="Asp.Net" url="http://www.fwhyy.com/categories/Asp-Net/"/>
           
         </display>
     </data>
@@ -3663,9 +3663,9 @@
         <title>WCF问题:“HTTP 错误 404.17 – Not Found 请求的内容似乎是脚本，因而将无法由静态文件处理程序来处理”解决方法</title>
         <pubTime>2010-07-18T16:00:00.000Z</pubTime>
         
-        <tag>错误解决</tag>
-         
         <tag>WCF</tag>
+         
+        <tag>错误解决</tag>
          
          
            
@@ -4185,9 +4185,9 @@
         <title>设计模式笔记(25)—总结</title>
         <pubTime>2010-02-02T16:00:00.000Z</pubTime>
         
-        <tag>C#</tag>
-         
         <tag>设计模式</tag>
+         
+        <tag>C#</tag>
          
          
            
@@ -4207,9 +4207,9 @@
         <title>设计模式笔记(24)—访问者模式（行为型）</title>
         <pubTime>2010-02-01T16:00:00.000Z</pubTime>
         
-        <tag>C#</tag>
-         
         <tag>设计模式</tag>
+         
+        <tag>C#</tag>
          
          
            
@@ -4251,9 +4251,9 @@
         <title>设计模式笔记(23)—策略者模式（行为型）</title>
         <pubTime>2010-01-30T16:00:00.000Z</pubTime>
         
-        <tag>C#</tag>
-         
         <tag>设计模式</tag>
+         
+        <tag>C#</tag>
          
          
            
@@ -4273,9 +4273,9 @@
         <title>设计模式笔记(22)—状态模式（行为型）</title>
         <pubTime>2010-01-27T16:00:00.000Z</pubTime>
         
-        <tag>C#</tag>
-         
         <tag>设计模式</tag>
+         
+        <tag>C#</tag>
          
          
            
@@ -4295,9 +4295,9 @@
         <title>设计模式笔记(21)—备忘录模式（行为型）</title>
         <pubTime>2010-01-26T16:00:00.000Z</pubTime>
         
-        <tag>C#</tag>
-         
         <tag>设计模式</tag>
+         
+        <tag>C#</tag>
          
          
            
@@ -4317,9 +4317,9 @@
         <title>设计模式笔记(20)—职责链模式（行为型）</title>
         <pubTime>2010-01-26T16:00:00.000Z</pubTime>
         
-        <tag>C#</tag>
-         
         <tag>设计模式</tag>
+         
+        <tag>C#</tag>
          
          
            
@@ -4339,9 +4339,9 @@
         <title>设计模式笔记(19)—观察者模式（行为型）</title>
         <pubTime>2010-01-24T16:00:00.000Z</pubTime>
         
-        <tag>C#</tag>
-         
         <tag>设计模式</tag>
+         
+        <tag>C#</tag>
          
          
            
@@ -4361,9 +4361,9 @@
         <title>设计模式笔记(18)—迭代器模式（行为型）</title>
         <pubTime>2010-01-23T16:00:00.000Z</pubTime>
         
-        <tag>C#</tag>
-         
         <tag>设计模式</tag>
+         
+        <tag>C#</tag>
          
          
            
@@ -4405,9 +4405,9 @@
         <title>设计模式笔记(17)—中介者模式（行为型）</title>
         <pubTime>2010-01-19T16:00:00.000Z</pubTime>
         
-        <tag>C#</tag>
-         
         <tag>设计模式</tag>
+         
+        <tag>C#</tag>
          
          
            
@@ -4427,9 +4427,9 @@
         <title>设计模式笔记(16)—解释器模式（行为型）</title>
         <pubTime>2010-01-18T16:00:00.000Z</pubTime>
         
-        <tag>C#</tag>
-         
         <tag>设计模式</tag>
+         
+        <tag>C#</tag>
          
          
            
@@ -4485,9 +4485,9 @@
         <title>设计模式笔记(3)—抽象工厂模式（创建型）</title>
         <pubTime>2009-11-19T16:00:00.000Z</pubTime>
         
-        <tag>C#</tag>
-         
         <tag>设计模式</tag>
+         
+        <tag>C#</tag>
          
          
            
@@ -4507,9 +4507,9 @@
         <title>设计模式笔记(15)—命令模式（行为型）</title>
         <pubTime>2009-12-29T16:00:00.000Z</pubTime>
         
-        <tag>C#</tag>
-         
         <tag>设计模式</tag>
+         
+        <tag>C#</tag>
          
          
            
@@ -4551,9 +4551,9 @@
         <title>设计模式笔记(14)—模板方法模式（行为型）</title>
         <pubTime>2009-12-13T16:00:00.000Z</pubTime>
         
-        <tag>C#</tag>
-         
         <tag>设计模式</tag>
+         
+        <tag>C#</tag>
          
          
            
@@ -4573,9 +4573,9 @@
         <title>设计模式笔记(13)—代理模式（结构型）</title>
         <pubTime>2009-12-09T16:00:00.000Z</pubTime>
         
-        <tag>C#</tag>
-         
         <tag>设计模式</tag>
+         
+        <tag>C#</tag>
          
          
            
@@ -4595,9 +4595,9 @@
         <title>设计模式笔记(12)—享元模式（结构型）</title>
         <pubTime>2009-12-08T16:00:00.000Z</pubTime>
         
-        <tag>C#</tag>
-         
         <tag>设计模式</tag>
+         
+        <tag>C#</tag>
          
          
            
@@ -4617,9 +4617,9 @@
         <title>设计模式笔记(11)—外观模式（结构型）</title>
         <pubTime>2009-12-06T16:00:00.000Z</pubTime>
         
-        <tag>C#</tag>
-         
         <tag>设计模式</tag>
+         
+        <tag>C#</tag>
          
          
            
@@ -4639,9 +4639,9 @@
         <title>设计模式笔记(10)—装饰模式（结构型）</title>
         <pubTime>2009-12-03T16:00:00.000Z</pubTime>
         
-        <tag>C#</tag>
-         
         <tag>设计模式</tag>
+         
+        <tag>C#</tag>
          
          
            
@@ -4661,9 +4661,9 @@
         <title>设计模式笔记(9)—组合模式（结构型）</title>
         <pubTime>2009-12-01T16:00:00.000Z</pubTime>
         
-        <tag>C#</tag>
-         
         <tag>设计模式</tag>
+         
+        <tag>C#</tag>
          
          
            
@@ -4683,9 +4683,9 @@
         <title>设计模式笔记(8)—桥接模式（结构型）</title>
         <pubTime>2009-11-30T16:00:00.000Z</pubTime>
         
-        <tag>C#</tag>
-         
         <tag>设计模式</tag>
+         
+        <tag>C#</tag>
          
          
            
@@ -4705,9 +4705,9 @@
         <title>设计模式笔记(7)—适配器模式（结构型）</title>
         <pubTime>2009-11-25T16:00:00.000Z</pubTime>
         
-        <tag>C#</tag>
-         
         <tag>设计模式</tag>
+         
+        <tag>C#</tag>
          
          
            
@@ -4727,9 +4727,9 @@
         <title>设计模式笔记(6)—原型模式（创建型）</title>
         <pubTime>2009-11-23T16:00:00.000Z</pubTime>
         
-        <tag>C#</tag>
-         
         <tag>设计模式</tag>
+         
+        <tag>C#</tag>
          
          
            
@@ -4749,9 +4749,9 @@
         <title>设计模式笔记(5)—工厂方法模式（创建型）</title>
         <pubTime>2009-11-21T16:00:00.000Z</pubTime>
         
-        <tag>C#</tag>
-         
         <tag>设计模式</tag>
+         
+        <tag>C#</tag>
          
          
            
@@ -4771,9 +4771,9 @@
         <title>设计模式笔记(4)—生成器模式（创建型）</title>
         <pubTime>2009-11-20T16:00:00.000Z</pubTime>
         
-        <tag>C#</tag>
-         
         <tag>设计模式</tag>
+         
+        <tag>C#</tag>
          
          
            
@@ -4817,9 +4817,9 @@
         <title>设计模式笔记(2)—单件模式（创建型）</title>
         <pubTime>2009-11-18T16:00:00.000Z</pubTime>
         
-        <tag>C#</tag>
-         
         <tag>设计模式</tag>
+         
+        <tag>C#</tag>
          
          
            
@@ -4839,9 +4839,9 @@
         <title>设计模式笔记(1)—开篇（文章索引）</title>
         <pubTime>2009-11-17T16:00:00.000Z</pubTime>
         
-        <tag>C#</tag>
-         
         <tag>设计模式</tag>
+         
+        <tag>C#</tag>
          
          
            
