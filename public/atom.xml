@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.fwhyy.com/"/>
-  <updated>2016-09-25T15:09:36.000Z</updated>
+  <updated>2016-10-15T14:59:44.000Z</updated>
   <id>http://www.fwhyy.com/</id>
   
   <author>
@@ -14,6 +14,78 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>读《软技能》---敏捷个人管理</title>
+    <link href="http://www.fwhyy.com/2016/10/reading-soft-skills-agile-personal-management/"/>
+    <id>http://www.fwhyy.com/2016/10/reading-soft-skills-agile-personal-management/</id>
+    <published>2016-10-15T14:53:26.000Z</published>
+    <updated>2016-10-15T14:59:44.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>《软技能》是一本写给技术人员的非技术类书籍，即使你不写代码，读读这本书也可以受益不少。书中涉猎甚广，甚至有理财、健身、心理等内容。读完这本书，有一种相见恨晚的感觉。</p>
+<p>本书通篇在讲各个方面个人的成长，个人成长就需要自己对自己进行管理，敏捷的思想我认为核心就是快速迭代，用到个人身上就是要有很多的小目标，以迭代的方式向前进，最终实现大目标，这种方式可以让我们能快速试错，及时调整方向；也能让我们能快速看到一些成果，激励自己向前。<br><a id="more"></a></p>
+<h2 id="向企业一样思考"><a href="#向企业一样思考" class="headerlink" title="向企业一样思考"></a>向企业一样思考</h2><p>书中提到一个在我看来比较新颖的观点：<strong>将自己当作一个企业来思考</strong></p>
+<blockquote>
+<p>企业通常会售卖产品或提供服务，程序员能提供的就是写代码的技能；<br>企业需要不断改进和完善自己的产品，程序员也需要持续的学习提升自己的技能；<br>企业要想自己的产品能被客户认可，在众多竞争中脱引而出，需要做到与众不同，程序员要想得到上级甚至公司的认可，就需要能表现出明显强于其他人的地方。</p>
+</blockquote>
+<p>可能有朋友会说，我又没有经营过企业，怎样像将自己当一个企业来思考？是的，大多数人或许没有管理一个企业的经验，但应该都有被管理的经验，身处一个企业当中，有很多事情是可以<strong>换位思考</strong>的。当我们想要升职加薪时可以换位思考下，如果你是老板，你会给什么样的员工升职加薪，想清楚这些问题，你就知道应该怎么做了。</p>
+<p>在公司中经常会出现这样的情况，公司的成长往往会“落后于”员工的成长，每个人在入职一家公司时肯定是认为当时的薪资和自己的能力是匹配的，经过一段时间之后，员工就会认为自己的能力有很大提高需要涨工资，公司认为你每天做的事情就是你拿这个工资应该做的，这就形成了一种矛盾，最终结果就是员工可能离职另谋高就了。</p>
+<p>想让公司主动为自己加薪，或者让自己有资本去和公司谈薪资，可以从下面两个方面着手：</p>
+<p>1、就需要能承担更多的责任</p>
+<ul>
+<li>做别人不愿意做的事情，例如遗留的系统优化、主动做一些巡检，修复一些bug；</li>
+<li>帮助团队的新人成长，当你能将一个问题向新人讲明白时，自己也会得到提高；</li>
+<li>在平时工作中除了本职工作，多思考，多想想怎样能够提高开发效率，首先是对自己，更重要的是要对整个团队有帮助。我经常对团队成员讲我之前的一个例子：当时在一家知名房地产ERP软件公司做开发，起初是为了自己方便写了一个小工具，后来慢慢推广在整个部门都在使用，我相信后来升为开发Leader和薪水的调整应该和这件事情分不开。</li>
+</ul>
+<p>2、引起领导重视</p>
+<ul>
+<li><strong>让领导知道自己在做什么。</strong> 你多承担的责任、工作之外额外的共享、对团队成员的帮助等等，要让你的直属领导或是公司领导知道并认可。前提是你确确实实做了这些事情，如果想弄虚作假，靠糊弄，只会适得其反。</li>
+<li><strong>主动做分享，团队内交流。</strong> 很多公司都有团队内的技术分享的制度，可以是和工作相关的，也可以是感兴趣的技术点，这种机会应该要抓住，争取更多的做分享人，如果是在一个较大的公司中，时间长了，你便会成为别人都“认识”的人。如果你所在的公司没有内部分享制度，你也可以自己去组织类似的分享会。</li>
+</ul>
+<h2 id="个人品牌建立"><a href="#个人品牌建立" class="headerlink" title="个人品牌建立"></a>个人品牌建立</h2><p>个人品牌的建立是自我营销的一种方式，也是提升个人价值的一种方式。书中提供了多种建立个人品牌的方式：写博客、录制播客、写书（出版社或自出版）、参加技术大会（可以先从公司内部分享做起）。有些方式对于大多数人来说可能有些困难，但写博客是人人都可以去做的。</p>
+<p>写博客的目的有很多种，如果是以建立个人品牌为目的，就需要利用自己的专长在一些特定的领域持续输出高质量的文章，如果觉得自己没有专长的，就需要通过学习找到自己的专长，或者一个兴趣点也可以，只有在一个细分市场站住脚跟，才容易让自己保持激情，也更容易吸引读者的关注。例如微信公众号 MacTalk 的作者池建强在开始写公众号时就是以 Mac 技巧为突破口的。</p>
+<p>写博客也是一件非常容易的事情，只要你想写，花5分钟在一个写作平台上注册账号，剩下的就是持续的产出了。比如技术人员可以选择<a href="http://www.cnblogs.com/" target="_blank" rel="external">博客园</a>、<a href="http://www.csdn.net/" target="_blank" rel="external">CSDN</a> 等，其他的还有知乎专栏、简书等。如果你喜欢折腾，可以自己购买域名和空间搭建自己的独立博客，有很多的博客程序员可以使用，如：WordPress、Hexo、Octopress等。在一些知名平台上发布文章，更容让更多的人阅读到你的内容，想要获得更多的影响力，就不能只为自己而写，需要和读者一起互动，也需要经常去别人的博客中参与讨论。</p>
+<p>除了写博客我认为自出版书也是个不错的选择，当你在系统的学习某些东西时，可以产出系列文章，这些系统文章其实就可以组织成书，现在有GitBook、GitHub这样的平台可以让你很好的将写的文章分享出去。如果你达到了一定的水准，还可以到自出版的平台进行出售，现在我了解到的平台有：</p>
+<h3 id="国内"><a href="#国内" class="headerlink" title="国内"></a>国内</h3><ul>
+<li><a href="http://www.epubit.com.cn/article/78" target="_blank" rel="external">http://www.epubit.com.cn/article/78</a> </li>
+<li><a href="http://zhibimo.com/" target="_blank" rel="external">http://zhibimo.com/</a></li>
+</ul>
+<h3 id="国外"><a href="#国外" class="headerlink" title="国外"></a>国外</h3><ul>
+<li><a href="https://gumroad.com/" target="_blank" rel="external">https://gumroad.com/</a></li>
+<li><a href="https://sellfy.com/" target="_blank" rel="external">https://sellfy.com/</a></li>
+<li><a href="https://leanpub.com/" target="_blank" rel="external">https://leanpub.com/</a></li>
+<li><a href="https://play.google.com/books/publish/" target="_blank" rel="external">https://play.google.com/books/publish/</a> （仅限国外）</li>
+<li><a href="https://www.apple.com/itunes/working-itunes/sell-content/books/" target="_blank" rel="external">https://www.apple.com/itunes/working-itunes/sell-content/books/</a> （仅限国外）</li>
+<li><a href="https://kdp.amazon.com/" target="_blank" rel="external">https://kdp.amazon.com/</a> （仅限国外）</li>
+</ul>
+<h2 id="健身"><a href="#健身" class="headerlink" title="健身"></a>健身</h2><p>好的身体是革命的本钱，本书的作者也是一名健身达人。每个人都应该养成运动的习惯，有了运动的习惯，都不用刻意去减肥，时间一长自然量变到质变。</p>
+<p>很多朋友应该都有去健身房的经历，我自己也办过好几次的健身房的会员卡，但每次都没能坚持到最后。想运动，其实不用去健身房，一双运动鞋，舒适的T恤短裤，来到户外跑起来就可以。</p>
+<p>跑步是比较枯燥的，可以选择在跑步时听听音乐、或者有声书，我在跑步时喜欢在喜马拉雅上找一些感兴趣的栏目来听。即便这样，很多人还是难以坚持，这时就需要时不时的喝点“鸡汤”了，我当时坚持不住的时候就在网上找了些跑马人士的访谈看看，基本都很励志，或是看看之前的各个城市的马拉松比赛的录播，那种现场热烈的气氛会让人很想跑起来。</p>
+<p>运动就会涉及到受伤的问题，即便是跑步这么简单的运动也会面临着受伤，今年的4月份的一段时间我加大了跑量，每天早上5～6公里、晚上5～6公里，一段时间后膝盖特别痛，当发现身体有不适时应当立即停止或减量，当时我停止跑步了一个礼拜，每天靠墙静蹲来恢复，这种方法很有效，慢慢膝盖就好了。</p>
+<p>运动的目的是健身，千万不要因为急于求成而对身体造成了伤害。当运动成为一种习惯时，你就会享受运动的过程以及运动给我们带来身体上的好处。</p>
+<p>2016年4月参加了汉马的健康跑，明年准备报名参加半马，我相信我的跑步之旅不会停止。</p>
+<h2 id="后记"><a href="#后记" class="headerlink" title="后记"></a>后记</h2><p>开车上下班的途中一直都听喜马拉雅，一天上班的路上听《代码时间》节目，正好是《软技能》的译者王小刚作为嘉宾在谈《软技能》这本书，最后他提到了两点他认为很重要而书中没有提到的技能，可以算是本文的一个补充：</p>
+<blockquote>
+<p>语言能力，包括沟通、演讲等等；<br>英语能力</p>
+</blockquote>
+<p>记得李笑来说过一句话：钱在银行存着不算是我的，只有花出去了才算是我的。书中讲了很多的技巧，方法，我们眼睛看过了不算掌握了，只有将这些付诸实践才算真正掌握，就像我博客副标题写，临渊羡鱼 不如退而结网，所以，立即行动起来吧。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;《软技能》是一本写给技术人员的非技术类书籍，即使你不写代码，读读这本书也可以受益不少。书中涉猎甚广，甚至有理财、健身、心理等内容。读完这本书，有一种相见恨晚的感觉。&lt;/p&gt;
+&lt;p&gt;本书通篇在讲各个方面个人的成长，个人成长就需要自己对自己进行管理，敏捷的思想我认为核心就是快速迭代，用到个人身上就是要有很多的小目标，以迭代的方式向前进，最终实现大目标，这种方式可以让我们能快速试错，及时调整方向；也能让我们能快速看到一些成果，激励自己向前。&lt;br&gt;
+    
+    </summary>
+    
+      <category term="读书笔记" scheme="http://www.fwhyy.com/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="读书笔记" scheme="http://www.fwhyy.com/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    
+      <category term="软技能" scheme="http://www.fwhyy.com/tags/%E8%BD%AF%E6%8A%80%E8%83%BD/"/>
+    
+  </entry>
   
   <entry>
     <title>jQuery上传插件Uploadify使用详解(3.2.1)</title>
@@ -744,34 +816,6 @@
   </entry>
   
   <entry>
-    <title>C#访问群集部署时的MongoDB</title>
-    <link href="http://www.fwhyy.com/2015/08/mongodb-access-to-the-csharp-of-the-cluster/"/>
-    <id>http://www.fwhyy.com/2015/08/mongodb-access-to-the-csharp-of-the-cluster/</id>
-    <published>2015-08-12T16:00:00.000Z</published>
-    <updated>2016-09-02T01:06:38.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>普通的MongoDB部署有一台主、一台备，程序连接MongoDB时需要主服务器的地址以及端口，当群集部署的时候就会有多个服务器地址需要连接，MongoDB的C# API可以支持同时连接多台服务器。</p>
-<h2 id="单台"><a href="#单台" class="headerlink" title="单台"></a>单台</h2><figure class="highlight crmsh"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">MongoClient mc = new MongoClient(<span class="string">"mongodb://oec2003:20720"</span>);</div><div class="line">MongoServer <span class="keyword">ms</span> <span class="title">= mc</span>.GetServer();</div><div class="line">MongoDatabase md = ms.GetDatabase(<span class="string">"DBName"</span>);</div></pre></td></tr></table></figure>
-<h3 id="群集"><a href="#群集" class="headerlink" title="群集"></a>群集</h3><figure class="highlight lasso"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div></pre></td><td class="code"><pre><div class="line"><span class="built_in">List</span>&lt;MongoServerAddress&gt; <span class="built_in">list</span> = <span class="literal">new</span> <span class="built_in">List</span>&lt;MongoServerAddress&gt;();</div><div class="line"><span class="built_in">list</span>.Add(<span class="literal">new</span> MongoServerAddress(<span class="string">"192.168.16.207"</span>, <span class="number">40000</span>));</div><div class="line"><span class="built_in">list</span>.Add(<span class="literal">new</span> MongoServerAddress(<span class="string">"192.168.16.208"</span>, <span class="number">40000</span>));</div><div class="line"><span class="built_in">list</span>.Add(<span class="literal">new</span> MongoServerAddress(<span class="string">"192.168.16.209"</span>, <span class="number">40000</span>));</div><div class="line">MongoClientSettings mcs = <span class="literal">new</span> MongoClientSettings();</div><div class="line">mcs.Servers = <span class="built_in">list</span>;</div><div class="line">MongoClient mc = <span class="literal">new</span> MongoClient(mcs);</div><div class="line">MongoServer ms = mc.GetServer();</div><div class="line"></div><div class="line">MongoDatabase md = ms.GetDatabase(<span class="string">"DBName"</span>);</div></pre></td></tr></table></figure>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;普通的MongoDB部署有一台主、一台备，程序连接MongoDB时需要主服务器的地址以及端口，当群集部署的时候就会有多个服务器地址需要连接，MongoDB的C# API可以支持同时连接多台服务器。&lt;/p&gt;
-&lt;h2 id=&quot;单台&quot;&gt;&lt;a href=&quot;#单台&quot; class=&quot;h
-    
-    </summary>
-    
-      <category term="MongoDB" scheme="http://www.fwhyy.com/categories/MongoDB/"/>
-    
-    
-      <category term="C#" scheme="http://www.fwhyy.com/tags/C/"/>
-    
-      <category term="MongoDB" scheme="http://www.fwhyy.com/tags/MongoDB/"/>
-    
-  </entry>
-  
-  <entry>
     <title>开源上传组件stream的.Net后台实现</title>
     <link href="http://www.fwhyy.com/2015/08/stream-aspnet/"/>
     <id>http://www.fwhyy.com/2015/08/stream-aspnet/</id>
@@ -815,6 +859,34 @@
       <category term="DotNet" scheme="http://www.fwhyy.com/tags/DotNet/"/>
     
       <category term="stream" scheme="http://www.fwhyy.com/tags/stream/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>C#访问群集部署时的MongoDB</title>
+    <link href="http://www.fwhyy.com/2015/08/mongodb-access-to-the-csharp-of-the-cluster/"/>
+    <id>http://www.fwhyy.com/2015/08/mongodb-access-to-the-csharp-of-the-cluster/</id>
+    <published>2015-08-12T16:00:00.000Z</published>
+    <updated>2016-09-02T01:06:38.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>普通的MongoDB部署有一台主、一台备，程序连接MongoDB时需要主服务器的地址以及端口，当群集部署的时候就会有多个服务器地址需要连接，MongoDB的C# API可以支持同时连接多台服务器。</p>
+<h2 id="单台"><a href="#单台" class="headerlink" title="单台"></a>单台</h2><figure class="highlight crmsh"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">MongoClient mc = new MongoClient(<span class="string">"mongodb://oec2003:20720"</span>);</div><div class="line">MongoServer <span class="keyword">ms</span> <span class="title">= mc</span>.GetServer();</div><div class="line">MongoDatabase md = ms.GetDatabase(<span class="string">"DBName"</span>);</div></pre></td></tr></table></figure>
+<h3 id="群集"><a href="#群集" class="headerlink" title="群集"></a>群集</h3><figure class="highlight lasso"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div></pre></td><td class="code"><pre><div class="line"><span class="built_in">List</span>&lt;MongoServerAddress&gt; <span class="built_in">list</span> = <span class="literal">new</span> <span class="built_in">List</span>&lt;MongoServerAddress&gt;();</div><div class="line"><span class="built_in">list</span>.Add(<span class="literal">new</span> MongoServerAddress(<span class="string">"192.168.16.207"</span>, <span class="number">40000</span>));</div><div class="line"><span class="built_in">list</span>.Add(<span class="literal">new</span> MongoServerAddress(<span class="string">"192.168.16.208"</span>, <span class="number">40000</span>));</div><div class="line"><span class="built_in">list</span>.Add(<span class="literal">new</span> MongoServerAddress(<span class="string">"192.168.16.209"</span>, <span class="number">40000</span>));</div><div class="line">MongoClientSettings mcs = <span class="literal">new</span> MongoClientSettings();</div><div class="line">mcs.Servers = <span class="built_in">list</span>;</div><div class="line">MongoClient mc = <span class="literal">new</span> MongoClient(mcs);</div><div class="line">MongoServer ms = mc.GetServer();</div><div class="line"></div><div class="line">MongoDatabase md = ms.GetDatabase(<span class="string">"DBName"</span>);</div></pre></td></tr></table></figure>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;普通的MongoDB部署有一台主、一台备，程序连接MongoDB时需要主服务器的地址以及端口，当群集部署的时候就会有多个服务器地址需要连接，MongoDB的C# API可以支持同时连接多台服务器。&lt;/p&gt;
+&lt;h2 id=&quot;单台&quot;&gt;&lt;a href=&quot;#单台&quot; class=&quot;h
+    
+    </summary>
+    
+      <category term="MongoDB" scheme="http://www.fwhyy.com/categories/MongoDB/"/>
+    
+    
+      <category term="C#" scheme="http://www.fwhyy.com/tags/C/"/>
+    
+      <category term="MongoDB" scheme="http://www.fwhyy.com/tags/MongoDB/"/>
     
   </entry>
   
@@ -980,38 +1052,6 @@
     
     
       <category term="Web API" scheme="http://www.fwhyy.com/tags/Web-API/"/>
-    
-      <category term="Office Web App" scheme="http://www.fwhyy.com/tags/Office-Web-App/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Office Web APP预览去掉顶部菜单</title>
-    <link href="http://www.fwhyy.com/2015/06/office-web-app-preview-remove-top-menu/"/>
-    <id>http://www.fwhyy.com/2015/06/office-web-app-preview-remove-top-menu/</id>
-    <published>2015-06-18T16:00:00.000Z</published>
-    <updated>2016-08-31T15:29:12.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>Office Web APP应该是用来做Office文档预览最好的方式，原生的预览页面中的顶部会有Microsoft的相关文字以及一些功能按钮，比如文件,查找（如下图）。如果仅仅是预览没有什么问题，但系统中如果预览和下载两个工能的权限是分开的，在预览时文件按钮中的 打印功能可以将文件导出成PDF，这样就分不开这两种功能权限了。下面就介绍怎样将顶部的Microsoft相关文字和功能按钮隐藏掉。</p>
-<p><img src="http://oec2003.qiniudn.com/3cefded1gw1et90cjtya1j20h3056dg4.jpg" alt="3cefded1gw1et90cjtya1j20h3056dg4"></p>
-<h2 id="解决方法"><a href="#解决方法" class="headerlink" title="解决方法"></a>解决方法</h2><p>在Office Web APP的预览会涉及4中类型的文 件：Word、Excel、PowerPoint、PDF，不同的类型在预览时调用的文件是不一样的，其中Word和 PDF调用的是同一个文件。每个预览的页面都有对应的CSS文件，如下：</p>
-<h3 id="PowerPoint"><a href="#PowerPoint" class="headerlink" title="PowerPoint"></a>PowerPoint</h3><figure class="highlight taggerscript"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">C:<span class="symbol">\P</span>rogram Files<span class="symbol">\M</span>icrosoft Office Web Apps<span class="symbol">\W</span>ebPPTViewer<span class="symbol">\p</span>ptresources<span class="symbol">\2</span>052<span class="symbol">\s</span>tyleread.css</div></pre></td></tr></table></figure>
-<h3 id="Word"><a href="#Word" class="headerlink" title="Word"></a>Word</h3><figure class="highlight taggerscript"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">C:<span class="symbol">\P</span>rogram Files<span class="symbol">\M</span>icrosoft Office Web Apps<span class="symbol">\W</span>ebWordViewer<span class="symbol">\R</span>esources<span class="symbol">\2</span>052<span class="symbol">\W</span>ordViewer.css</div></pre></td></tr></table></figure>
-<h3 id="Excel"><a href="#Excel" class="headerlink" title="Excel"></a>Excel</h3><figure class="highlight taggerscript"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">C:<span class="symbol">\P</span>rogram Files<span class="symbol">\M</span>icrosoft Office Web Apps<span class="symbol">\E</span>xcelServicesWfe<span class="symbol">\_</span>layouts<span class="symbol">\s</span>tyles<span class="symbol">\e</span>xcelribbon.css</div></pre></td></tr></table></figure>
-<p>在上面的三个css文件中找到cui-ribbonTopBars，在css样式中追加display:none。下面是修改后的预览效果：</p>
-<p><img src="http://oec2003.qiniudn.com/3cefded1gw1et90ck1vftj20h405j0t4.jpg" alt="3cefded1gw1et90ck1vftj20h405j0t4"></p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;Office Web APP应该是用来做Office文档预览最好的方式，原生的预览页面中的顶部会有Microsoft的相关文字以及一些功能按钮，比如文件,查找（如下图）。如果仅仅是预览没有什么问题，但系统中如果预览和下载两个工能的权限是分开的，在预览时文件按钮中的 打印功能
-    
-    </summary>
-    
-      <category term="Office Web App" scheme="http://www.fwhyy.com/categories/Office-Web-App/"/>
-    
-    
-      <category term="C#" scheme="http://www.fwhyy.com/tags/C/"/>
     
       <category term="Office Web App" scheme="http://www.fwhyy.com/tags/Office-Web-App/"/>
     
