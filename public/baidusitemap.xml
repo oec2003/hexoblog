@@ -4,6 +4,28 @@
 
     
   <url>
+    <loc>http://www.fwhyy.com/2016/10/Reading-soft-skills-learning-to-improve-productivity/</loc>
+    <lastmod>2016-10-25T14:35:43.000Z</lastmod>
+    <data>
+        <display>
+        <title>读《软技能》：自学提高生产力</title>
+        <pubTime>2016-10-25T14:29:32.000Z</pubTime>
+        
+        <tag>软技能</tag>
+         
+        <tag>读书笔记</tag>
+         
+         
+           
+             
+              <breadCrumb title="读书笔记" url="http://www.fwhyy.com/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://www.fwhyy.com/2016/10/reading-soft-skills-agile-personal-management/</loc>
     <lastmod>2016-10-17T14:18:58.000Z</lastmod>
     <data>
@@ -11,9 +33,9 @@
         <title>读《软技能》：敏捷个人管理</title>
         <pubTime>2016-10-15T14:53:26.000Z</pubTime>
         
-        <tag>读书笔记</tag>
-         
         <tag>软技能</tag>
+         
+        <tag>读书笔记</tag>
          
          
            
@@ -2033,9 +2055,9 @@
         <title>《代码整洁之道》读书笔记(下)</title>
         <pubTime>2012-05-15T16:00:00.000Z</pubTime>
         
-        <tag>整洁代码</tag>
-         
         <tag>读书笔记</tag>
+         
+        <tag>整洁代码</tag>
          
          
            
@@ -2079,9 +2101,9 @@
         <title>《代码整洁之道》读书笔记(上)</title>
         <pubTime>2012-05-12T16:00:00.000Z</pubTime>
         
-        <tag>整洁代码</tag>
-         
         <tag>读书笔记</tag>
+         
+        <tag>整洁代码</tag>
          
          
            
@@ -3685,9 +3707,9 @@
         <title>WCF问题:“HTTP 错误 404.17 – Not Found 请求的内容似乎是脚本，因而将无法由静态文件处理程序来处理”解决方法</title>
         <pubTime>2010-07-18T16:00:00.000Z</pubTime>
         
-        <tag>WCF</tag>
-         
         <tag>错误解决</tag>
+         
+        <tag>WCF</tag>
          
          
            

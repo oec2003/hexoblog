@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.fwhyy.com/"/>
-  <updated>2016-10-17T14:18:58.000Z</updated>
+  <updated>2016-10-25T14:35:43.000Z</updated>
   <id>http://www.fwhyy.com/</id>
   
   <author>
@@ -14,6 +14,59 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>读《软技能》：自学提高生产力</title>
+    <link href="http://www.fwhyy.com/2016/10/Reading-soft-skills-learning-to-improve-productivity/"/>
+    <id>http://www.fwhyy.com/2016/10/Reading-soft-skills-learning-to-improve-productivity/</id>
+    <published>2016-10-25T14:29:32.000Z</published>
+    <updated>2016-10-25T14:35:43.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>《软技能》这本书内容较多，在<a href="http://fwhyy.com/2016/10/reading-soft-skills-agile-personal-management/" target="_blank" rel="external">读《软技能》：敏捷个人管理</a>一文中主要谈的是个人管理方面的内容，本文将对怎样进行个人管理、怎样提高生产里进行一点思考。</p>
+<h2 id="自学"><a href="#自学" class="headerlink" title="自学"></a>自学</h2><p>个人管理中，不管是创建个人品牌、还是健身，都是一个学习的过程，工作后的学习大部分时候都要靠我们自学。所以说如果你在大学时期就学会了自学，对你今后的道路是多么重要。</p>
+<h3 id="兴趣是最好的老师"><a href="#兴趣是最好的老师" class="headerlink" title="兴趣是最好的老师"></a>兴趣是最好的老师</h3><p>当我们想做一件事情，而恰巧这件事情正好是你感兴趣的事情，那么这件事情多半能做成。有兴趣才能使我们一直保持激情。篮球是我最喜欢的运动，记得在学生时代，每次暑假回家，每天的下午到太阳下山都是和小伙伴们在篮球场上度过，在旁人看来很苦很累，但我们却乐在其中，就是因为有兴趣。</p>
+<p>兴趣是可以培养的，兴趣也是可以转移的，一件事情，当你从懵懵懂懂到慢慢可以胜任，再到越来越精通时，你会发现你已经对他产生兴趣了。前段时间很流行一款消消乐的闯关类手游，我和我老婆几乎同时开始玩，周围同事玩的人也很多，一开始很有兴致，但慢慢我就屡屡受挫，也就觉得这游戏没什么意思了，再后来觉得这游戏太浪费时间，果断卸载了；而我老婆一直都玩的还不错，现在每天虽然在上面花的时间不多，但一直没有放弃，闯的关数也是越来越高。这个例子充分说明了把事情做好后慢慢就会有兴趣了，一直受挫也会让你丧失兴趣。</p>
+<h3 id="动手实践"><a href="#动手实践" class="headerlink" title="动手实践"></a>动手实践</h3><p>有了兴趣只是第一步，让我们有激情、容易坚持。但如果不实践很多事情依然是做不好。买一本《20天精通游泳》很有兴趣的看一年，你也学不会游泳；每天捧着《骑自行车从入门到精通》刻苦研读，你也永远都学不会骑自行车；就算你把《C#高级编程》背下来，你也不会是一个好的程序员。毛主席也说过：实践是检验真理的唯一标准。学习的过程就是理论和实践交替执行的过程，反复迭代直到对一个问题理解透彻。最近搭建<a href="http://fwhyy.com/2016/09/use-exceptionLess/" target="_blank" rel="external">ExceptionLess</a>，就是反复的尝试，遇到问题在群里或是 Google 寻找答案，然后接着尝试直到最终搭建成功，这个过程可以学到很多，也会印象比较深刻，如果只是看了别人的一篇指南而不动手实践，就会产生一种很简单自己已经掌握了的错觉，其实还差的很远。</p>
+<h3 id="教是更好的学"><a href="#教是更好的学" class="headerlink" title="教是更好的学"></a>教是更好的学</h3><p>很多时候，我们将一个自认为掌握的还不错的知识分享给他人时，发现却难以启齿，不知从何讲起。归根结底还是理解的不够透彻。反之，如果你能很轻松将一个知识点清楚地讲出来，说明你真正的掌握了。所以在自学的过程中可以尝试着将学到的东西讲出来，先可以讲给自己听，将想分享的知识点录制成一个视频教程，自己做第一个听众，往往会有意想不到的效果。</p>
+<p>在团队内部分享也是一种很好的方式，如果你所在的团队没有定期的分享机制，就需要毛遂自荐了，前提是要做好充分的准备，否则如果效果不好，几次之后就不会有听众了。</p>
+<h3 id="十步学习法"><a href="#十步学习法" class="headerlink" title="十步学习法"></a>十步学习法</h3><p>书中作者自己根据经验自己总结出了“十步学习法”：</p>
+<blockquote>
+<ol>
+<li>了解全局  2. 确定范围  3.定义目标  4.寻找资源  5.创建学习计划  6. 筛选资源  7. 开始学习，浅尝辄止  8. 动手操作，边玩边学  9.全面掌握，学以致用  10. 乐为人师，融会贯通</li>
+</ol>
+</blockquote>
+<p>下面我稍微总结下这种学习方法：</p>
+<ol>
+<li>前六步只执行一次，后四步重复执行；</li>
+<li>前六步是学习前的准备，要让我们搞清楚要学什么、学完之后能达到什么水平，带着疑问去寻找答案；</li>
+<li>后四步就是不断的实践，没达到目的前不断进行调整，再实践，直到达到目的为止。</li>
+</ol>
+<p>书中的方法可以借鉴，但不一定适合所有人，每个人都应该在学习过程中总结出适合自己的学习方法。</p>
+<h2 id="生产力"><a href="#生产力" class="headerlink" title="生产力"></a>生产力</h2><p>学习的目的是要让自己成长，不管在工作还是生活中，我们都希望能够高效的做任何事情，之前写过一篇《<a href="http://fwhyy.com/2012/10/how-to-improve-the-efficiency-of-development/" target="_blank" rel="external">怎样提高开发效率</a>》的博客，主要是开发效率方面的一点心得。本书更全面的阐述了提高生产力的一些方法。</p>
+<h3 id="番茄工作法"><a href="#番茄工作法" class="headerlink" title="番茄工作法"></a>番茄工作法</h3><p>相信很多人都听说过番茄工作法，《<a href="https://book.douban.com/subject/5916234/" target="_blank" rel="external">番茄工作法图解</a>》这本书对番茄工作法做了很好的介绍，我也曾读完这本书后写了一篇<a href="http://fwhyy.com/2014/03/reading-pomodoro-technique-illustrated/" target="_blank" rel="external">读书笔记</a>。</p>
+<p>我尝试过番茄工作法，但没有坚持，或许这种方法不适合我，该方法最重要的就是做事要专注，虽然我没有完全按照番茄工作法的规定来，我我慢慢也学会了专注地去做每一件事情。条条大路通罗马，找到适合自己的一条路吧。</p>
+<h3 id="定额工作法"><a href="#定额工作法" class="headerlink" title="定额工作法"></a>定额工作法</h3><p>每周需要完成的重复性的工作，比如：一周要跑步几次；一周要写一篇博客；每天要学习英语半个小时等。书中有一个定额工作法的规则如下：</p>
+<blockquote>
+<p>挑选一项重复性任务<br>明确有效时限，在此期间任务被重复执行<br>明确在给定的有效时限内改任务应该完成的次数的定额<br>给自己承诺一定要达成定额</p>
+</blockquote>
+<p>定额工作法的核心是承诺，你可以不用定很高的目标，但一旦定下了目标就一定要完成，实现对自己的承诺。如果说番茄工作法是讲专注，那定额工作法就是在说坚持。做任何事情有了专注和坚持，想不成功都难。</p>
+<h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><p>两篇博客记录了我读完本书后的一些心得体会，看完一本书不会让你升职加薪，也不会让你立即成为大牛，没有任何东西会是银弹，但如果能让你有一点点思考和启发；能让你多了解了点程序之外的事情；能让你可以尝试着去实践一下书中的理论，那我觉得就是值得的。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;《软技能》这本书内容较多，在&lt;a href=&quot;http://fwhyy.com/2016/10/reading-soft-skills-agile-personal-management/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;读《软技能》：敏捷个
+    
+    </summary>
+    
+      <category term="读书笔记" scheme="http://www.fwhyy.com/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="软技能" scheme="http://www.fwhyy.com/tags/%E8%BD%AF%E6%8A%80%E8%83%BD/"/>
+    
+      <category term="读书笔记" scheme="http://www.fwhyy.com/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>读《软技能》：敏捷个人管理</title>
@@ -81,9 +134,9 @@
       <category term="读书笔记" scheme="http://www.fwhyy.com/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
     
     
-      <category term="读书笔记" scheme="http://www.fwhyy.com/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
-    
       <category term="软技能" scheme="http://www.fwhyy.com/tags/%E8%BD%AF%E6%8A%80%E8%83%BD/"/>
+    
+      <category term="读书笔记" scheme="http://www.fwhyy.com/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
     
   </entry>
   
@@ -816,34 +869,6 @@
   </entry>
   
   <entry>
-    <title>C#访问群集部署时的MongoDB</title>
-    <link href="http://www.fwhyy.com/2015/08/mongodb-access-to-the-csharp-of-the-cluster/"/>
-    <id>http://www.fwhyy.com/2015/08/mongodb-access-to-the-csharp-of-the-cluster/</id>
-    <published>2015-08-12T16:00:00.000Z</published>
-    <updated>2016-09-02T01:06:38.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>普通的MongoDB部署有一台主、一台备，程序连接MongoDB时需要主服务器的地址以及端口，当群集部署的时候就会有多个服务器地址需要连接，MongoDB的C# API可以支持同时连接多台服务器。</p>
-<h2 id="单台"><a href="#单台" class="headerlink" title="单台"></a>单台</h2><figure class="highlight crmsh"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">MongoClient mc = new MongoClient(<span class="string">"mongodb://oec2003:20720"</span>);</div><div class="line">MongoServer <span class="keyword">ms</span> <span class="title">= mc</span>.GetServer();</div><div class="line">MongoDatabase md = ms.GetDatabase(<span class="string">"DBName"</span>);</div></pre></td></tr></table></figure>
-<h3 id="群集"><a href="#群集" class="headerlink" title="群集"></a>群集</h3><figure class="highlight lasso"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div></pre></td><td class="code"><pre><div class="line"><span class="built_in">List</span>&lt;MongoServerAddress&gt; <span class="built_in">list</span> = <span class="literal">new</span> <span class="built_in">List</span>&lt;MongoServerAddress&gt;();</div><div class="line"><span class="built_in">list</span>.Add(<span class="literal">new</span> MongoServerAddress(<span class="string">"192.168.16.207"</span>, <span class="number">40000</span>));</div><div class="line"><span class="built_in">list</span>.Add(<span class="literal">new</span> MongoServerAddress(<span class="string">"192.168.16.208"</span>, <span class="number">40000</span>));</div><div class="line"><span class="built_in">list</span>.Add(<span class="literal">new</span> MongoServerAddress(<span class="string">"192.168.16.209"</span>, <span class="number">40000</span>));</div><div class="line">MongoClientSettings mcs = <span class="literal">new</span> MongoClientSettings();</div><div class="line">mcs.Servers = <span class="built_in">list</span>;</div><div class="line">MongoClient mc = <span class="literal">new</span> MongoClient(mcs);</div><div class="line">MongoServer ms = mc.GetServer();</div><div class="line"></div><div class="line">MongoDatabase md = ms.GetDatabase(<span class="string">"DBName"</span>);</div></pre></td></tr></table></figure>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;普通的MongoDB部署有一台主、一台备，程序连接MongoDB时需要主服务器的地址以及端口，当群集部署的时候就会有多个服务器地址需要连接，MongoDB的C# API可以支持同时连接多台服务器。&lt;/p&gt;
-&lt;h2 id=&quot;单台&quot;&gt;&lt;a href=&quot;#单台&quot; class=&quot;h
-    
-    </summary>
-    
-      <category term="MongoDB" scheme="http://www.fwhyy.com/categories/MongoDB/"/>
-    
-    
-      <category term="C#" scheme="http://www.fwhyy.com/tags/C/"/>
-    
-      <category term="MongoDB" scheme="http://www.fwhyy.com/tags/MongoDB/"/>
-    
-  </entry>
-  
-  <entry>
     <title>开源上传组件stream的.Net后台实现</title>
     <link href="http://www.fwhyy.com/2015/08/stream-aspnet/"/>
     <id>http://www.fwhyy.com/2015/08/stream-aspnet/</id>
@@ -887,6 +912,34 @@
       <category term="DotNet" scheme="http://www.fwhyy.com/tags/DotNet/"/>
     
       <category term="stream" scheme="http://www.fwhyy.com/tags/stream/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>C#访问群集部署时的MongoDB</title>
+    <link href="http://www.fwhyy.com/2015/08/mongodb-access-to-the-csharp-of-the-cluster/"/>
+    <id>http://www.fwhyy.com/2015/08/mongodb-access-to-the-csharp-of-the-cluster/</id>
+    <published>2015-08-12T16:00:00.000Z</published>
+    <updated>2016-09-02T01:06:38.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>普通的MongoDB部署有一台主、一台备，程序连接MongoDB时需要主服务器的地址以及端口，当群集部署的时候就会有多个服务器地址需要连接，MongoDB的C# API可以支持同时连接多台服务器。</p>
+<h2 id="单台"><a href="#单台" class="headerlink" title="单台"></a>单台</h2><figure class="highlight crmsh"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">MongoClient mc = new MongoClient(<span class="string">"mongodb://oec2003:20720"</span>);</div><div class="line">MongoServer <span class="keyword">ms</span> <span class="title">= mc</span>.GetServer();</div><div class="line">MongoDatabase md = ms.GetDatabase(<span class="string">"DBName"</span>);</div></pre></td></tr></table></figure>
+<h3 id="群集"><a href="#群集" class="headerlink" title="群集"></a>群集</h3><figure class="highlight lasso"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div></pre></td><td class="code"><pre><div class="line"><span class="built_in">List</span>&lt;MongoServerAddress&gt; <span class="built_in">list</span> = <span class="literal">new</span> <span class="built_in">List</span>&lt;MongoServerAddress&gt;();</div><div class="line"><span class="built_in">list</span>.Add(<span class="literal">new</span> MongoServerAddress(<span class="string">"192.168.16.207"</span>, <span class="number">40000</span>));</div><div class="line"><span class="built_in">list</span>.Add(<span class="literal">new</span> MongoServerAddress(<span class="string">"192.168.16.208"</span>, <span class="number">40000</span>));</div><div class="line"><span class="built_in">list</span>.Add(<span class="literal">new</span> MongoServerAddress(<span class="string">"192.168.16.209"</span>, <span class="number">40000</span>));</div><div class="line">MongoClientSettings mcs = <span class="literal">new</span> MongoClientSettings();</div><div class="line">mcs.Servers = <span class="built_in">list</span>;</div><div class="line">MongoClient mc = <span class="literal">new</span> MongoClient(mcs);</div><div class="line">MongoServer ms = mc.GetServer();</div><div class="line"></div><div class="line">MongoDatabase md = ms.GetDatabase(<span class="string">"DBName"</span>);</div></pre></td></tr></table></figure>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;普通的MongoDB部署有一台主、一台备，程序连接MongoDB时需要主服务器的地址以及端口，当群集部署的时候就会有多个服务器地址需要连接，MongoDB的C# API可以支持同时连接多台服务器。&lt;/p&gt;
+&lt;h2 id=&quot;单台&quot;&gt;&lt;a href=&quot;#单台&quot; class=&quot;h
+    
+    </summary>
+    
+      <category term="MongoDB" scheme="http://www.fwhyy.com/categories/MongoDB/"/>
+    
+    
+      <category term="C#" scheme="http://www.fwhyy.com/tags/C/"/>
+    
+      <category term="MongoDB" scheme="http://www.fwhyy.com/tags/MongoDB/"/>
     
   </entry>
   
@@ -987,73 +1040,6 @@
       <category term="Markdown" scheme="http://www.fwhyy.com/tags/Markdown/"/>
     
       <category term="Wordprss" scheme="http://www.fwhyy.com/tags/Wordprss/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Office Web App 2013发布在外网进行预览</title>
-    <link href="http://www.fwhyy.com/2015/06/office-web-app-2013-preview-in-external/"/>
-    <id>http://www.fwhyy.com/2015/06/office-web-app-2013-preview-in-external/</id>
-    <published>2015-06-19T16:00:00.000Z</published>
-    <updated>2016-09-02T01:07:15.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>Office Web App是用来做Office文档预览的一个很好的工具，网上的很多资料大都是跟SharePoint集成、Lync集成等，并且基本都是在内网部署。本文主要介绍下怎样在外网部署实现预览功能。</p>
-<h2 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h2><p>OWA的安装可以参考下面链接：</p>
-<p><a href="https://technet.microsoft.com/zh-cn/library/jj219455.aspx" target="_blank" rel="external">https://technet.microsoft.com/zh-cn/library/jj219455.aspx</a></p>
-<p>有关安装OWA的PowerShell命令可以参考下面链接：</p>
-<p><a href="http://technet.microsoft.com/zh-cn/library/ee890080.aspx" target="_blank" rel="external">http://technet.microsoft.com/zh-cn/library/ee890080.aspx</a></p>
-<h2 id="准备工作"><a href="#准备工作" class="headerlink" title="准备工作"></a>准备工作</h2><p>OWA不能安装在域控上，所以必须准备两台服务器，如下：</p>
-<ul>
-<li>域控服务器<ul>
-<li>服务器版本：Windows Server2012R2</li>
-<li>域名：fwhyy.com</li>
-<li>内网IP：10.15.3.160</li>
-<li>外网IP：100.180.100.180</li>
-</ul>
-</li>
-<li>OWA服务器<ul>
-<li>服务器版本：Windows Server2012R2</li>
-<li>完整机器名：owa.fwhyy.com</li>
-<li>内网IP：10.15.3.180</li>
-<li>外网IP：100.180.100.181</li>
-</ul>
-</li>
-<li>申请外网域名：owa.fwhyy.com，绑定到OWA服务器的外网IP：100.180.100.181</li>
-</ul>
-<h2 id="部署"><a href="#部署" class="headerlink" title="部署"></a>部署</h2><p>1.在OWA服务器上执行下面PowerShell命令：</p>
-<figure class="highlight ada"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line"><span class="keyword">New</span>-OfficeWebAppsFarm -InternalUrl <span class="string">"http://10.15.3.180"</span> -AllowHttp -EditingEnabled -OpenFromUrlEnabled</div></pre></td></tr></table></figure>
-<p>注意InternalUrl 需要配置内网IP</p>
-<p>2.命令成功执行后，会在IIS中创建两个站点，如下图：</p>
-<p><img src="media/3cefded1gw1etayjjaz24j20ea0530ta.jpg" alt="3cefded1gw1etayjjaz24j20ea0530ta"></p>
-<p>3.在浏览器中输入：<a href="http://owa.fwhyy.com/hosting/discovery" target="_blank" rel="external">http://owa.fwhyy.com/hosting/discovery</a>会得到一个放回xml结果的页面，<strong>该xml文件中显示的地址为内网IP，需要将内网IP换成域名：owa.fwhyy.com</strong>。保存该页面为discovery.xml文件留作备用。不同类型的文档会指向不同的页面来做预览，生成预览链接时会用到discovery.xml文件。</p>
-<p>4.如果要将OWA的预览功能和自己的应用程序进行整合，还需要有一个Web API程序进行辅助，有关这部分内容可以参考下面链接：</p>
-<p><a href="http://www.cnblogs.com/poissonnotes/p/3267190.html" target="_blank" rel="external">http://www.cnblogs.com/poissonnotes/p/3267190.html</a></p>
-<p><a href="http://www.cnblogs.com/poissonnotes/p/3277280.html" target="_blank" rel="external">http://www.cnblogs.com/poissonnotes/p/3277280.html</a></p>
-<p>具体请求流程参见下图：</p>
-<p><img src="media/3cefded1gw1etazsxxv5aj20dl0e1t96.jpg" alt="3cefded1gw1etazsxxv5aj20dl0e1t96"></p>
-<p>5.除了discovery.xml中的地址需要修改为域名，其他所有涉及到有请求的地方全部使用内网IP。</p>
-<h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><p>外网访问其实关键的是需要注意三点：</p>
-<ul>
-<li>使用PowerShell命令创建站点时使用内网IP；</li>
-<li>需要用域名进行访问，并且申请的域名必须和OWA服务器的完整机器名一致；</li>
-<li>只有discovery.xml中的地址需要为域名，其他所有都是用内网IP。</li>
-</ul>
-<p>后面会单独开篇来写一个简单的示例，包含改造后的WopiHosting部分。</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;Office Web App是用来做Office文档预览的一个很好的工具，网上的很多资料大都是跟SharePoint集成、Lync集成等，并且基本都是在内网部署。本文主要介绍下怎样在外网部署实现预览功能。&lt;/p&gt;
-&lt;h2 id=&quot;安装&quot;&gt;&lt;a href=&quot;#安装&quot; clas
-    
-    </summary>
-    
-      <category term="Office Web App" scheme="http://www.fwhyy.com/categories/Office-Web-App/"/>
-    
-    
-      <category term="Web API" scheme="http://www.fwhyy.com/tags/Web-API/"/>
-    
-      <category term="Office Web App" scheme="http://www.fwhyy.com/tags/Office-Web-App/"/>
     
   </entry>
   
